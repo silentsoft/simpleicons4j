@@ -9,7 +9,7 @@ cache:
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-  - mvn clean test-compile exec:java verify sonar:sonar -Pcoverage -Dsonar.projectKey=silentsoft_simpleicons4j
+  - mvn clean test-compile exec:java verify sonar:sonar -Pcoverage -Dsonar.projectKey=silentsoft_simpleicons4j -Dsonar.scm.exclusions.disabled=true -Dsonar.sources=src/main/java,target/generated-sources
 
 addons:
   sonarcloud:
