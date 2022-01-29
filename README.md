@@ -1,8 +1,23 @@
 # SimpleIcons4J
 
+[![Maven Central](https://img.shields.io/maven-central/v/org.silentsoft/simpleicons4j)](https://search.maven.org/artifact/org.silentsoft/simpleicons4j)
+[![Build Status](https://app.travis-ci.com/silentsoft/simpleicons4j.svg?branch=main)](https://app.travis-ci.com/silentsoft/simpleicons4j)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_simpleicons4j&metric=alert_status)](https://sonarcloud.io/dashboard?id=silentsoft_simpleicons4j)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=silentsoft_simpleicons4j&metric=coverage)](https://sonarcloud.io/dashboard?id=silentsoft_simpleicons4j)
+[![Hits](https://hits.sh/github.com/silentsoft/simpleicons4j.svg)](https://hits.sh)
+
 `SimpleIcons4J` is a Java implementation of the [simple-icons](https://www.npmjs.com/package/simple-icons) JavaScript library and is inspired by [simpleicons.org](https://simpleicons.org).
 
 This library currently supports [simple-icons v6.7.0](https://github.com/simple-icons/simple-icons/releases/tag/6.7.0).
+
+## Installation
+```xml
+<dependency>
+    <groupId>org.silentsoft</groupId>
+    <artifactId>simpleicons4j</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 
 ## Usage
 ```java
