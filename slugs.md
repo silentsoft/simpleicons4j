@@ -414,6 +414,7 @@
 | `Common Workflow Language` | `commonworkflowlanguage` | `CommonworkflowlanguageIcon` |
 | `Composer` | `composer` | `ComposerIcon` |
 | `Comsol` | `comsol` | `ComsolIcon` |
+| `Conan` | `conan` | `ConanIcon` |
 | `Concourse` | `concourse` | `ConcourseIcon` |
 | `Conda-Forge` | `condaforge` | `CondaforgeIcon` |
 | `Conekta` | `conekta` | `ConektaIcon` |
@@ -579,6 +580,7 @@
 | `Evernote` | `evernote` | `EvernoteIcon` |
 | `Exercism` | `exercism` | `ExercismIcon` |
 | `Exordo` | `exordo` | `ExordoIcon` |
+| `Exoscale` | `exoscale` | `ExoscaleIcon` |
 | `Expensify` | `expensify` | `ExpensifyIcon` |
 | `Experts Exchange` | `expertsexchange` | `ExpertsexchangeIcon` |
 | `Expo` | `expo` | `ExpoIcon` |
@@ -985,6 +987,7 @@
 | `Kuaishou` | `kuaishou` | `KuaishouIcon` |
 | `Kubernetes` | `kubernetes` | `KubernetesIcon` |
 | `Kubuntu` | `kubuntu` | `KubuntuIcon` |
+| `Kuma` | `kuma` | `KumaIcon` |
 | `Kyocera` | `kyocera` | `KyoceraIcon` |
 | `LBRY` | `lbry` | `LbryIcon` |
 | `LG` | `lg` | `LgIcon` |
@@ -1156,6 +1159,7 @@
 | `Monero` | `monero` | `MoneroIcon` |
 | `MoneyGram` | `moneygram` | `MoneygramIcon` |
 | `MongoDB` | `mongodb` | `MongodbIcon` |
+| `Monoprix` | `monoprix` | `MonoprixIcon` |
 | `Monster` | `monster` | `MonsterIcon` |
 | `Monzo` | `monzo` | `MonzoIcon` |
 | `Moo` | `moo` | `MooIcon` |
@@ -1171,6 +1175,7 @@
 | `MySQL` | `mysql` | `MysqlIcon` |
 | `Myspace` | `myspace` | `MyspaceIcon` |
 | `Métro de Paris` | `metrodeparis` | `MetrodeparisIcon` |
+| `Müller` | `muller` | `MullerIcon` |
 | `N26` | `n26` | `N26Icon` |
 | `NASA` | `nasa` | `NasaIcon` |
 | `NBA` | `nba` | `NbaIcon` |
@@ -1192,6 +1197,7 @@
 | `Neovim` | `neovim` | `NeovimIcon` |
 | `NestJS` | `nestjs` | `NestjsIcon` |
 | `NetApp` | `netapp` | `NetappIcon` |
+| `NetBSD` | `netbsd` | `NetbsdIcon` |
 | `Netflix` | `netflix` | `NetflixIcon` |
 | `Netlify` | `netlify` | `NetlifyIcon` |
 | `Nette` | `nette` | `NetteIcon` |
@@ -1274,6 +1280,7 @@
 | `OpenMined` | `openmined` | `OpenminedIcon` |
 | `OpenNebula` | `opennebula` | `OpennebulaIcon` |
 | `OpenSSL` | `openssl` | `OpensslIcon` |
+| `OpenSea` | `opensea` | `OpenseaIcon` |
 | `OpenStack` | `openstack` | `OpenstackIcon` |
 | `OpenStreetMap` | `openstreetmap` | `OpenstreetmapIcon` |
 | `OpenTelemetry` | `opentelemetry` | `OpentelemetryIcon` |
@@ -1288,6 +1295,7 @@
 | `Origin` | `origin` | `OriginIcon` |
 | `Osano` | `osano` | `OsanoIcon` |
 | `Oshkosh` | `oshkosh` | `OshkoshIcon` |
+| `Otto` | `otto` | `OttoIcon` |
 | `Overcast` | `overcast` | `OvercastIcon` |
 | `Overleaf` | `overleaf` | `OverleafIcon` |
 | `Oxygen` | `oxygen` | `OxygenIcon` |
@@ -1535,6 +1543,7 @@
 | `Roots` | `roots` | `RootsIcon` |
 | `Roots Bedrock` | `rootsbedrock` | `RootsbedrockIcon` |
 | `Roots Sage` | `rootssage` | `RootssageIcon` |
+| `Rossmann` | `rossmann` | `RossmannIcon` |
 | `Rotary International` | `rotaryinternational` | `RotaryinternationalIcon` |
 | `Rotten Tomatoes` | `rottentomatoes` | `RottentomatoesIcon` |
 | `Roundcube` | `roundcube` | `RoundcubeIcon` |
@@ -1897,6 +1906,7 @@
 | `VMware` | `vmware` | `VmwareIcon` |
 | `VOX` | `vox` | `VoxIcon` |
 | `VSCO` | `vsco` | `VscoIcon` |
+| `VTEX` | `vtex` | `VtexIcon` |
 | `Vaadin` | `vaadin` | `VaadinIcon` |
 | `Vagrant` | `vagrant` | `VagrantIcon` |
 | `Valve` | `valve` | `ValveIcon` |
@@ -1907,6 +1917,7 @@
 | `Vectorworks` | `vectorworks` | `VectorworksIcon` |
 | `Veeam` | `veeam` | `VeeamIcon` |
 | `Veepee` | `veepee` | `VeepeeIcon` |
+| `Velog` | `velog` | `VelogIcon` |
 | `Venmo` | `venmo` | `VenmoIcon` |
 | `Vercel` | `vercel` | `VercelIcon` |
 | `Verdaccio` | `verdaccio` | `VerdaccioIcon` |

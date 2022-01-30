@@ -8,14 +8,14 @@
 
 `SimpleIcons4J` is a Java implementation of the [simple-icons](https://www.npmjs.com/package/simple-icons) JavaScript library and is inspired by [simpleicons.org](https://simpleicons.org).
 
-This library currently supports [simple-icons v6.7.0](https://github.com/simple-icons/simple-icons/releases/tag/6.7.0).
+This library currently supports [simple-icons v6.8.0](https://github.com/simple-icons/simple-icons/releases/tag/6.8.0).
 
 ## Installation
 ```xml
 <dependency>
     <groupId>org.silentsoft</groupId>
     <artifactId>simpleicons4j</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
