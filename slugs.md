@@ -436,6 +436,7 @@
 | `Craft CMS` | `craftcms` | `CraftcmsIcon` |
 | `Create React App` | `createreactapp` | `CreatereactappIcon` |
 | `Creative Commons` | `creativecommons` | `CreativecommonsIcon` |
+| `Credly` | `credly` | `CredlyIcon` |
 | `Crehana` | `crehana` | `CrehanaIcon` |
 | `Crowdin` | `crowdin` | `CrowdinIcon` |
 | `Crowdsource` | `crowdsource` | `CrowdsourceIcon` |
@@ -1028,6 +1029,7 @@
 | `Lighthouse` | `lighthouse` | `LighthouseIcon` |
 | `LineageOS` | `lineageos` | `LineageosIcon` |
 | `LinkedIn` | `linkedin` | `LinkedinIcon` |
+| `Linkfire` | `linkfire` | `LinkfireIcon` |
 | `Linktree` | `linktree` | `LinktreeIcon` |
 | `Linode` | `linode` | `LinodeIcon` |
 | `Linux` | `linux` | `LinuxIcon` |
@@ -1491,6 +1493,7 @@
 | `Raspberry Pi` | `raspberrypi` | `RaspberrypiIcon` |
 | `Razer` | `razer` | `RazerIcon` |
 | `Razorpay` | `razorpay` | `RazorpayIcon` |
+| `ReScript` | `rescript` | `RescriptIcon` |
 | `React` | `react` | `ReactIcon` |
 | `React Router` | `reactrouter` | `ReactrouterIcon` |
 | `React Table` | `reacttable` | `ReacttableIcon` |
@@ -1779,6 +1782,7 @@
 | `Target` | `target` | `TargetIcon` |
 | `Tasmota` | `tasmota` | `TasmotaIcon` |
 | `Tata` | `tata` | `TataIcon` |
+| `Tauri` | `tauri` | `TauriIcon` |
 | `TaxBuzz` | `taxbuzz` | `TaxbuzzIcon` |
 | `TeamCity` | `teamcity` | `TeamcityIcon` |
 | `TeamSpeak` | `teamspeak` | `TeamspeakIcon` |
@@ -1836,6 +1840,7 @@
 | `Tor Project` | `torproject` | `TorprojectIcon` |
 | `Toshiba` | `toshiba` | `ToshibaIcon` |
 | `Toyota` | `toyota` | `ToyotaIcon` |
+| `Traefik Mesh` | `traefikmesh` | `TraefikmeshIcon` |
 | `TrainerRoad` | `trainerroad` | `TrainerroadIcon` |
 | `Trakt` | `trakt` | `TraktIcon` |
 | `TransferWise` | `transferwise` | `TransferwiseIcon` |
@@ -2136,6 +2141,7 @@
 | `pfSense` | `pfsense` | `PfsenseIcon` |
 | `phpMyAdmin` | `phpmyadmin` | `PhpmyadminIcon` |
 | `pixiv` | `pixiv` | `PixivIcon` |
+| `pkgsrc` | `pkgsrc` | `PkgsrcIcon` |
 | `pnpm` | `pnpm` | `PnpmIcon` |
 | `pr.co` | `prdotco` | `PrdotcoIcon` |
 | `pre-commit` | `precommit` | `PrecommitIcon` |
