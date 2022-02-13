@@ -1,3 +1,8 @@
+# 1.3.0 (13 Feb 2022)
+
+## Enhancements
+- Supports [simple-icons v6.10.0](https://github.com/simple-icons/simple-icons/releases/tag/6.10.0)
+
 # 1.2.0 (8 Feb 2022)
 
 ## Enhancements

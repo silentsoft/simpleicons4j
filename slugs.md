@@ -639,6 +639,7 @@
 | `Flipkart` | `flipkart` | `FlipkartIcon` |
 | `Floatplane` | `floatplane` | `FloatplaneIcon` |
 | `Flood` | `flood` | `FloodIcon` |
+| `Fluent Bit` | `fluentbit` | `FluentbitIcon` |
 | `Fluentd` | `fluentd` | `FluentdIcon` |
 | `Flutter` | `flutter` | `FlutterIcon` |
 | `Flyway` | `flyway` | `FlywayIcon` |
@@ -889,6 +890,7 @@
 | `IntelliJ IDEA` | `intellijidea` | `IntellijideaIcon` |
 | `InteractJS` | `interactjs` | `InteractjsIcon` |
 | `Intercom` | `intercom` | `IntercomIcon` |
+| `Intermarche` | `intermarche` | `IntermarcheIcon` |
 | `Internet Archive` | `internetarchive` | `InternetarchiveIcon` |
 | `Internet Explorer` | `internetexplorer` | `InternetexplorerIcon` |
 | `Intigriti` | `intigriti` | `IntigritiIcon` |
@@ -1495,6 +1497,7 @@
 | `Razorpay` | `razorpay` | `RazorpayIcon` |
 | `ReScript` | `rescript` | `RescriptIcon` |
 | `React` | `react` | `ReactIcon` |
+| `React Query` | `reactquery` | `ReactqueryIcon` |
 | `React Router` | `reactrouter` | `ReactrouterIcon` |
 | `React Table` | `reacttable` | `ReacttableIcon` |
 | `ReactOS` | `reactos` | `ReactosIcon` |
