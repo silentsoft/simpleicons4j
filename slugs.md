@@ -425,6 +425,7 @@
 | `Contentful` | `contentful` | `ContentfulIcon` |
 | `Convertio` | `convertio` | `ConvertioIcon` |
 | `Cookiecutter` | `cookiecutter` | `CookiecutterIcon` |
+| `Cora` | `cora` | `CoraIcon` |
 | `Corona Engine` | `coronaengine` | `CoronaengineIcon` |
 | `Corona Renderer` | `coronarenderer` | `CoronarendererIcon` |
 | `Corsair` | `corsair` | `CorsairIcon` |
@@ -1012,6 +1013,7 @@
 | `Last.fm` | `lastdotfm` | `LastdotfmIcon` |
 | `LastPass` | `lastpass` | `LastpassIcon` |
 | `Launchpad` | `launchpad` | `LaunchpadIcon` |
+| `Leader Price` | `leaderprice` | `LeaderpriceIcon` |
 | `Leaflet` | `leaflet` | `LeafletIcon` |
 | `Leanpub` | `leanpub` | `LeanpubIcon` |
 | `LeetCode` | `leetcode` | `LeetcodeIcon` |
@@ -1349,6 +1351,7 @@
 | `PhpStorm` | `phpstorm` | `PhpstormIcon` |
 | `Pi-hole` | `pihole` | `PiholeIcon` |
 | `PicPay` | `picpay` | `PicpayIcon` |
+| `Picard Surgelés` | `picardsurgeles` | `PicardsurgelesIcon` |
 | `Picarto.TV` | `picartodottv` | `PicartodottvIcon` |
 | `Picnic` | `picnic` | `PicnicIcon` |
 | `Pimcore` | `pimcore` | `PimcoreIcon` |
@@ -1665,6 +1668,7 @@
 | `Snowflake` | `snowflake` | `SnowflakeIcon` |
 | `Snowpack` | `snowpack` | `SnowpackIcon` |
 | `Snyk` | `snyk` | `SnykIcon` |
+| `Social Blade` | `socialblade` | `SocialbladeIcon` |
 | `Society6` | `society6` | `Society6Icon` |
 | `Socket.io` | `socketdotio` | `SocketdotioIcon` |
 | `Sogou` | `sogou` | `SogouIcon` |

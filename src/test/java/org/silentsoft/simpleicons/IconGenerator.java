@@ -21,7 +21,7 @@ public class IconGenerator {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(IconGenerator.class);
 
-    private static final String WEBJAR_RESOURCE_ROOT = "/META-INF/resources/webjars/simple-icons/6.10.0";
+    private static final String WEBJAR_RESOURCE_ROOT = "/META-INF/resources/webjars/simple-icons/6.11.0";
 
     public static void main(String[] args) throws Exception {
         TreeMap<String, String> iconMap = new TreeMap<>();
