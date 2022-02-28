@@ -1496,6 +1496,7 @@
 | `Rancher` | `rancher` | `RancherIcon` |
 | `Rarible` | `rarible` | `RaribleIcon` |
 | `Raspberry Pi` | `raspberrypi` | `RaspberrypiIcon` |
+| `Ray` | `ray` | `RayIcon` |
 | `Razer` | `razer` | `RazerIcon` |
 | `Razorpay` | `razorpay` | `RazorpayIcon` |
 | `ReScript` | `rescript` | `RescriptIcon` |
@@ -1525,6 +1526,7 @@
 | `RenovateBot` | `renovatebot` | `RenovatebotIcon` |
 | `Renren` | `renren` | `RenrenIcon` |
 | `Replit` | `replit` | `ReplitIcon` |
+| `Republic of Gamers` | `republicofgamers` | `RepublicofgamersIcon` |
 | `RescueTime` | `rescuetime` | `RescuetimeIcon` |
 | `ResearchGate` | `researchgate` | `ResearchgateIcon` |
 | `Resurrection Remix OS` | `resurrectionremixos` | `ResurrectionremixosIcon` |
@@ -1545,6 +1547,7 @@
 | `Roblox` | `roblox` | `RobloxIcon` |
 | `Robot Framework` | `robotframework` | `RobotframeworkIcon` |
 | `Rocket.Chat` | `rocketdotchat` | `RocketdotchatIcon` |
+| `RocksDB` | `rocksdb` | `RocksdbIcon` |
 | `Rocky Linux` | `rockylinux` | `RockylinuxIcon` |
 | `Roku` | `roku` | `RokuIcon` |
 | `Rolls-Royce` | `rollsroyce` | `RollsroyceIcon` |
@@ -1717,6 +1720,7 @@
 | `Squarespace` | `squarespace` | `SquarespaceIcon` |
 | `Stack Exchange` | `stackexchange` | `StackexchangeIcon` |
 | `Stack Overflow` | `stackoverflow` | `StackoverflowIcon` |
+| `StackEdit` | `stackedit` | `StackeditIcon` |
 | `StackPath` | `stackpath` | `StackpathIcon` |
 | `StackShare` | `stackshare` | `StackshareIcon` |
 | `Stackbit` | `stackbit` | `StackbitIcon` |
@@ -1798,6 +1802,7 @@
 | `Tekton` | `tekton` | `TektonIcon` |
 | `Telegram` | `telegram` | `TelegramIcon` |
 | `Telegraph` | `telegraph` | `TelegraphIcon` |
+| `Temporal` | `temporal` | `TemporalIcon` |
 | `Tencent QQ` | `tencentqq` | `TencentqqIcon` |
 | `TensorFlow` | `tensorflow` | `TensorflowIcon` |
 | `Teradata` | `teradata` | `TeradataIcon` |
