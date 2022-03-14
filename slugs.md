@@ -20,6 +20,7 @@
 | `AI Dungeon` | `aidungeon` | `AidungeonIcon` |
 | `AIB` | `aib` | `AibIcon` |
 | `AIOHTTP` | `aiohttp` | `AiohttpIcon` |
+| `AJV` | `ajv` | `AjvIcon` |
 | `AMD` | `amd` | `AmdIcon` |
 | `AMG` | `amg` | `AmgIcon` |
 | `AMP` | `amp` | `AmpIcon` |
@@ -984,6 +985,7 @@
 | `Kodi` | `kodi` | `KodiIcon` |
 | `Kofax` | `kofax` | `KofaxIcon` |
 | `Komoot` | `komoot` | `KomootIcon` |
+| `Konami` | `konami` | `KonamiIcon` |
 | `Kongregate` | `kongregate` | `KongregateIcon` |
 | `Konva` | `konva` | `KonvaIcon` |
 | `Kotlin` | `kotlin` | `KotlinIcon` |
@@ -1058,6 +1060,7 @@
 | `Lubuntu` | `lubuntu` | `LubuntuIcon` |
 | `Lufthansa` | `lufthansa` | `LufthansaIcon` |
 | `Lumen` | `lumen` | `LumenIcon` |
+| `Lunacy` | `lunacy` | `LunacyIcon` |
 | `Lydia` | `lydia` | `LydiaIcon` |
 | `Lyft` | `lyft` | `LyftIcon` |
 | `MAAS` | `maas` | `MaasIcon` |
@@ -1292,6 +1295,7 @@
 | `OpenTelemetry` | `opentelemetry` | `OpentelemetryIcon` |
 | `OpenVPN` | `openvpn` | `OpenvpnIcon` |
 | `OpenWrt` | `openwrt` | `OpenwrtIcon` |
+| `OpenZFS` | `openzfs` | `OpenzfsIcon` |
 | `Openlayers` | `openlayers` | `OpenlayersIcon` |
 | `Opera` | `opera` | `OperaIcon` |
 | `OpsLevel` | `opslevel` | `OpslevelIcon` |
@@ -1645,6 +1649,7 @@
 | `Simkl` | `simkl` | `SimklIcon` |
 | `Simple Analytics` | `simpleanalytics` | `SimpleanalyticsIcon` |
 | `Simple Icons` | `simpleicons` | `SimpleiconsIcon` |
+| `Simplenote` | `simplenote` | `SimplenoteIcon` |
 | `Sina Weibo` | `sinaweibo` | `SinaweiboIcon` |
 | `SingleStore` | `singlestore` | `SinglestoreIcon` |
 | `SitePoint` | `sitepoint` | `SitepointIcon` |
@@ -2049,6 +2054,7 @@
 | `Xilinx` | `xilinx` | `XilinxIcon` |
 | `Xing` | `xing` | `XingIcon` |
 | `Y Combinator` | `ycombinator` | `YcombinatorIcon` |
+| `YOLO` | `yolo` | `YoloIcon` |
 | `Yahoo!` | `yahoo` | `YahooIcon` |
 | `Yale` | `yale` | `YaleIcon` |
 | `Yamaha Corporation` | `yamahacorporation` | `YamahacorporationIcon` |
@@ -2068,6 +2074,8 @@
 | `Zalando` | `zalando` | `ZalandoIcon` |
 | `Zalo` | `zalo` | `ZaloIcon` |
 | `Zapier` | `zapier` | `ZapierIcon` |
+| `Zara` | `zara` | `ZaraIcon` |
+| `Zazzle` | `zazzle` | `ZazzleIcon` |
 | `Zcash` | `zcash` | `ZcashIcon` |
 | `Zelle` | `zelle` | `ZelleIcon` |
 | `Zend` | `zend` | `ZendIcon` |
@@ -2101,6 +2109,7 @@
 | `cPanel` | `cpanel` | `CpanelIcon` |
 | `containerd` | `containerd` | `ContainerdIcon` |
 | `curl` | `curl` | `CurlIcon` |
+| `data.ai` | `datadotai` | `DatadotaiIcon` |
 | `dblp` | `dblp` | `DblpIcon` |
 | `dbt` | `dbt` | `DbtIcon` |
 | `deepin` | `deepin` | `DeepinIcon` |
