@@ -851,6 +851,7 @@
 | `Hypothesis` | `hypothesis` | `HypothesisIcon` |
 | `Hyundai` | `hyundai` | `HyundaiIcon` |
 | `IBM` | `ibm` | `IbmIcon` |
+| `IBM Cloud` | `ibmcloud` | `IbmcloudIcon` |
 | `IBM Watson` | `ibmwatson` | `IbmwatsonIcon` |
 | `ICON` | `icon` | `IconIcon` |
 | `ICQ` | `icq` | `IcqIcon` |
@@ -1313,6 +1314,7 @@
 | `PHP` | `php` | `PhpIcon` |
 | `PM2` | `pm2` | `Pm2Icon` |
 | `POWERS` | `powers` | `PowersIcon` |
+| `PUBG` | `pubg` | `PubgIcon` |
 | `PWA` | `pwa` | `PwaIcon` |
 | `Packagist` | `packagist` | `PackagistIcon` |
 | `Packer` | `packer` | `PackerIcon` |
