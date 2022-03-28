@@ -182,6 +182,7 @@
 | `Archive of Our Own` | `archiveofourown` | `ArchiveofourownIcon` |
 | `Ardour` | `ardour` | `ArdourIcon` |
 | `Arduino` | `arduino` | `ArduinoIcon` |
+| `Argos` | `argos` | `ArgosIcon` |
 | `Arlo` | `arlo` | `ArloIcon` |
 | `Arm` | `arm` | `ArmIcon` |
 | `ArtStation` | `artstation` | `ArtstationIcon` |
@@ -355,6 +356,7 @@
 | `Chromecast` | `chromecast` | `ChromecastIcon` |
 | `Chrysler` | `chrysler` | `ChryslerIcon` |
 | `Chupa Chups` | `chupachups` | `ChupachupsIcon` |
+| `Cilium` | `cilium` | `CiliumIcon` |
 | `Cinema 4D` | `cinema4d` | `Cinema4dIcon` |
 | `Circle` | `circle` | `CircleIcon` |
 | `CircleCI` | `circleci` | `CircleciIcon` |
@@ -909,6 +911,7 @@
 | `Intigriti` | `intigriti` | `IntigritiIcon` |
 | `Invoice Ninja` | `invoiceninja` | `InvoiceninjaIcon` |
 | `Ionic` | `ionic` | `IonicIcon` |
+| `Ionos` | `ionos` | `IonosIcon` |
 | `Issuu` | `issuu` | `IssuuIcon` |
 | `Istio` | `istio` | `IstioIcon` |
 | `Itch.io` | `itchdotio` | `ItchdotioIcon` |
@@ -964,6 +967,7 @@
 | `Kakao` | `kakao` | `KakaoIcon` |
 | `KakaoTalk` | `kakaotalk` | `KakaotalkIcon` |
 | `Kali Linux` | `kalilinux` | `KalilinuxIcon` |
+| `Kaniko` | `kaniko` | `KanikoIcon` |
 | `Karlsruher Verkehrsverbund` | `karlsruherverkehrsverbund` | `KarlsruherverkehrsverbundIcon` |
 | `Kasa Smart` | `kasasmart` | `KasasmartIcon` |
 | `KashFlow` | `kashflow` | `KashflowIcon` |
@@ -1946,6 +1950,7 @@
 | `Upwork` | `upwork` | `UpworkIcon` |
 | `V` | `v` | `VIcon` |
 | `V8` | `v8` | `V8Icon` |
+| `VEXXHOST` | `vexxhost` | `VexxhostIcon` |
 | `VK` | `vk` | `VkIcon` |
 | `VLC media player` | `vlcmediaplayer` | `VlcmediaplayerIcon` |
 | `VMware` | `vmware` | `VmwareIcon` |
@@ -2214,3 +2219,4 @@
 | `webhint` | `webhint` | `WebhintIcon` |
 | `write.as` | `writedotas` | `WritedotasIcon` |
 | `ŠKODA` | `skoda` | `SkodaIcon` |
+| `Żabka` | `zabka` | `ZabkaIcon` |
