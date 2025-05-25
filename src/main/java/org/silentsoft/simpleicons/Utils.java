@@ -22,22 +22,25 @@ public class Utils {
     };
 
     private static final Function<String, String> namingExceptionRule = (className) -> {
-        if ("1001tracklists".equalsIgnoreCase(className)) {
-            return "Onethousandonetracklists";
-        } else if ("1password".equalsIgnoreCase(className)) {
-            return "Onepassword";
-        } else if ("3m".equalsIgnoreCase(className)) {
-            return "Threem";
-        } else if ("42".equalsIgnoreCase(className)) {
-            return "Fourtytwo";
-        } else if ("4chan".equalsIgnoreCase(className)) {
-            return "Fourchan";
-        } else if ("4d".equalsIgnoreCase(className)) {
-            return "Fourd";
-        } else if ("500px".equalsIgnoreCase(className)) {
-            return "Fivehundredpx";
-        } else {
-            return className;
+        switch (className.toLowerCase()) {
+            case "1and1": return "Oneandone";
+            case "1dot1dot1dot1": return "Onedotonedotonedotone";
+            case "1panel": return "Onepanel";
+            case "1password": return "Onepassword";
+            case "2fas": return "Twofas";
+            case "2k": return "Twok";
+            case "3m": return "Threem";
+            case "4chan": return "Fourchan";
+            case "4d": return "Fourd";
+            case "7zip": return "Sevenzip";
+            case "9gag": return "Ninegag";
+            case "30secondsofcode": return "Thirtysecondsofcode";
+            case "42": return "Fourtytwo";
+            case "99designs": return "Ninetyninedesigns";
+            case "365datascience": return "Threehundredsixtyfivedatascience";
+            case "500px": return "Fivehundredpx";
+            case "1001tracklists": return "Onethousandonetracklists";
+            default: return className;
         }
     };
 

@@ -8,17 +8,6 @@
 
 `SimpleIcons4J` is a Java implementation of the [simple-icons](https://www.npmjs.com/package/simple-icons) JavaScript library and is inspired by [simpleicons.org](https://simpleicons.org).
 
-This library currently supports [simple-icons v6.16.0](https://github.com/simple-icons/simple-icons/releases/tag/6.16.0).
-
-## Installation
-```xml
-<dependency>
-    <groupId>org.silentsoft</groupId>
-    <artifactId>simpleicons4j</artifactId>
-    <version>1.9.0</version>
-</dependency>
-```
-
 ## Usage
 ```java
 Icon icon = SimpleIcons.get("simpleicons");
@@ -49,17 +38,6 @@ Icon{
 
 ## Slugs
 Supported slugs can be found [here](slugs.md).
-
-## Class Naming Exceptions
-- [`.NET`](https://simpleicons.org/?q=.NET) is available as `DotnetIcon`.
-- [`/e/`](https://simpleicons.org/?q=%2Fe%2F) is available as `EIcon`.
-- [`1001Tracklists`](https://simpleicons.org/?q=1001Tracklists) is available as `OnethousandonetracklistsIcon`.
-- [`1Password`](https://simpleicons.org/?q=1Password) is available as `OnepasswordIcon`.
-- [`3M`](https://simpleicons.org/?q=3M) is available as `ThreemIcon`.
-- [`42`](https://simpleicons.org/?q=42) is available as `FourtytwoIcon`.
-- [`4chan`](https://simpleicons.org/?q=4chan) is available as `FourchanIcon`.
-- [`4D`](https://simpleicons.org/?q=4D) is available as `FourdIcon`.
-- [`500px`](https://simpleicons.org/?q=500px) is available as `FivehundredpxIcon`.
 
 ## Testing
 ```shell

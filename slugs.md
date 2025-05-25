@@ -4,69 +4,80 @@
 
 | Brand name | Brand slug | Class name |
 | :--- | :--- | :--- |
+| `.ENV` | `dotenv` | `DotenvIcon` |
 | `.NET` | `dotnet` | `DotnetIcon` |
 | `/e/` | `e` | `EIcon` |
+| `1&1` | `1and1` | `OneandoneIcon` |
+| `1.1.1.1` | `1dot1dot1dot1` | `OnedotonedotonedotoneIcon` |
 | `1001Tracklists` | `1001tracklists` | `OnethousandonetracklistsIcon` |
+| `1Panel` | `1panel` | `OnepanelIcon` |
 | `1Password` | `1password` | `OnepasswordIcon` |
+| `2FAS` | `2fas` | `TwofasIcon` |
+| `2K` | `2k` | `TwokIcon` |
+| `30 seconds of code` | `30secondsofcode` | `ThirtysecondsofcodeIcon` |
+| `365 Data Science` | `365datascience` | `ThreehundredsixtyfivedatascienceIcon` |
 | `3M` | `3m` | `ThreemIcon` |
 | `42` | `42` | `FourtytwoIcon` |
 | `4D` | `4d` | `FourdIcon` |
 | `4chan` | `4chan` | `FourchanIcon` |
 | `500px` | `500px` | `FivehundredpxIcon` |
+| `7Zip` | `7zip` | `SevenzipIcon` |
+| `99designs` | `99designs` | `NinetyninedesignsIcon` |
+| `9GAG` | `9gag` | `NinegagIcon` |
 | `A-Frame` | `aframe` | `AframeIcon` |
 | `ABB RobotStudio` | `abbrobotstudio` | `AbbrobotstudioIcon` |
 | `ACM` | `acm` | `AcmIcon` |
+| `ADP` | `adp` | `AdpIcon` |
 | `AEW` | `aew` | `AewIcon` |
+| `AFDIAN` | `afdian` | `AfdianIcon` |
+| `AFFiNE` | `affine` | `AffineIcon` |
 | `AI Dungeon` | `aidungeon` | `AidungeonIcon` |
 | `AIB` | `aib` | `AibIcon` |
 | `AIOHTTP` | `aiohttp` | `AiohttpIcon` |
+| `ALX` | `alx` | `AlxIcon` |
 | `AMD` | `amd` | `AmdIcon` |
 | `AMG` | `amg` | `AmgIcon` |
 | `AMP` | `amp` | `AmpIcon` |
 | `ANA` | `ana` | `AnaIcon` |
 | `AOL` | `aol` | `AolIcon` |
+| `APM Terminals` | `apmterminals` | `ApmterminalsIcon` |
 | `ARAL` | `aral` | `AralIcon` |
 | `ARK Ecosystem` | `arkecosystem` | `ArkecosystemIcon` |
 | `ASDA` | `asda` | `AsdaIcon` |
-| `ASKfm` | `askfm` | `AskfmIcon` |
 | `ASUS` | `asus` | `AsusIcon` |
 | `AT&T` | `atandt` | `AtandtIcon` |
 | `AWS Amplify` | `awsamplify` | `AwsamplifyIcon` |
+| `AWS Elastic Load Balancing` | `awselasticloadbalancing` | `AwselasticloadbalancingIcon` |
+| `AWS Fargate` | `awsfargate` | `AwsfargateIcon` |
 | `AWS Lambda` | `awslambda` | `AwslambdaIcon` |
+| `AWS Organizations` | `awsorganizations` | `AwsorganizationsIcon` |
+| `AWS Secrets Manager` | `awssecretsmanager` | `AwssecretsmanagerIcon` |
 | `Abbott` | `abbott` | `AbbottIcon` |
 | `Abbvie` | `abbvie` | `AbbvieIcon` |
-| `Ableton Live` | `abletonlive` | `AbletonliveIcon` |
 | `About.me` | `aboutdotme` | `AboutdotmeIcon` |
 | `Abstract` | `abstract` | `AbstractIcon` |
 | `Academia` | `academia` | `AcademiaIcon` |
 | `Accenture` | `accenture` | `AccentureIcon` |
-| `Acclaim` | `acclaim` | `AcclaimIcon` |
+| `AccuWeather` | `accuweather` | `AccuweatherIcon` |
 | `Accusoft` | `accusoft` | `AccusoftIcon` |
 | `Acer` | `acer` | `AcerIcon` |
 | `ActiGraph` | `actigraph` | `ActigraphIcon` |
 | `Activision` | `activision` | `ActivisionIcon` |
+| `ActivityPub` | `activitypub` | `ActivitypubIcon` |
+| `Actix` | `actix` | `ActixIcon` |
+| `Actual Budget` | `actualbudget` | `ActualbudgetIcon` |
+| `Acura` | `acura` | `AcuraIcon` |
 | `AdBlock` | `adblock` | `AdblockIcon` |
 | `AdGuard` | `adguard` | `AdguardIcon` |
 | `Adafruit` | `adafruit` | `AdafruitIcon` |
 | `Adblock Plus` | `adblockplus` | `AdblockplusIcon` |
-| `AddThis` | `addthis` | `AddthisIcon` |
 | `Adidas` | `adidas` | `AdidasIcon` |
-| `Adobe` | `adobe` | `AdobeIcon` |
-| `Adobe Acrobat Reader` | `adobeacrobatreader` | `AdobeacrobatreaderIcon` |
-| `Adobe After Effects` | `adobeaftereffects` | `AdobeaftereffectsIcon` |
-| `Adobe Audition` | `adobeaudition` | `AdobeauditionIcon` |
-| `Adobe Creative Cloud` | `adobecreativecloud` | `AdobecreativecloudIcon` |
-| `Adobe Dreamweaver` | `adobedreamweaver` | `AdobedreamweaverIcon` |
-| `Adobe Fonts` | `adobefonts` | `AdobefontsIcon` |
-| `Adobe Illustrator` | `adobeillustrator` | `AdobeillustratorIcon` |
-| `Adobe InDesign` | `adobeindesign` | `AdobeindesignIcon` |
-| `Adobe Lightroom` | `adobelightroom` | `AdobelightroomIcon` |
-| `Adobe Lightroom Classic` | `adobelightroomclassic` | `AdobelightroomclassicIcon` |
-| `Adobe Photoshop` | `adobephotoshop` | `AdobephotoshopIcon` |
-| `Adobe Premiere Pro` | `adobepremierepro` | `AdobepremiereproIcon` |
-| `Adobe XD` | `adobexd` | `AdobexdIcon` |
+| `Adminer` | `adminer` | `AdminerIcon` |
 | `AdonisJS` | `adonisjs` | `AdonisjsIcon` |
+| `Adroll` | `adroll` | `AdrollIcon` |
+| `Advent Of Code` | `adventofcode` | `AdventofcodeIcon` |
 | `Adyen` | `adyen` | `AdyenIcon` |
+| `Aegis Authenticator` | `aegisauthenticator` | `AegisauthenticatorIcon` |
 | `Aer Lingus` | `aerlingus` | `AerlingusIcon` |
 | `Aeroflot` | `aeroflot` | `AeroflotIcon` |
 | `Aeroméxico` | `aeromexico` | `AeromexicoIcon` |
@@ -75,67 +86,110 @@
 | `Affinity Designer` | `affinitydesigner` | `AffinitydesignerIcon` |
 | `Affinity Photo` | `affinityphoto` | `AffinityphotoIcon` |
 | `Affinity Publisher` | `affinitypublisher` | `AffinitypublisherIcon` |
+| `AfterShip` | `aftership` | `AftershipIcon` |
+| `Afterpay` | `afterpay` | `AfterpayIcon` |
+| `Agora` | `agora` | `AgoraIcon` |
 | `Aiqfome` | `aiqfome` | `AiqfomeIcon` |
 | `Air Canada` | `aircanada` | `AircanadaIcon` |
 | `Air China` | `airchina` | `AirchinaIcon` |
 | `Air France` | `airfrance` | `AirfranceIcon` |
+| `Air India` | `airindia` | `AirindiaIcon` |
+| `Air Serbia` | `airserbia` | `AirserbiaIcon` |
+| `Air Transat` | `airtransat` | `AirtransatIcon` |
 | `AirAsia` | `airasia` | `AirasiaIcon` |
 | `AirPlay Audio` | `airplayaudio` | `AirplayaudioIcon` |
 | `AirPlay Video` | `airplayvideo` | `AirplayvideoIcon` |
 | `Airbnb` | `airbnb` | `AirbnbIcon` |
+| `Airbrake` | `airbrake` | `AirbrakeIcon` |
 | `Airbus` | `airbus` | `AirbusIcon` |
+| `Airbyte` | `airbyte` | `AirbyteIcon` |
 | `Aircall` | `aircall` | `AircallIcon` |
 | `Airtable` | `airtable` | `AirtableIcon` |
+| `Airtel` | `airtel` | `AirtelIcon` |
 | `Ajv` | `ajv` | `AjvIcon` |
+| `Akamai` | `akamai` | `AkamaiIcon` |
+| `Akasa Air` | `akasaair` | `AkasaairIcon` |
+| `Akaunting` | `akaunting` | `AkauntingIcon` |
+| `Akiflow` | `akiflow` | `AkiflowIcon` |
 | `Alacritty` | `alacritty` | `AlacrittyIcon` |
+| `Alamy` | `alamy` | `AlamyIcon` |
 | `Albert Heijn` | `albertheijn` | `AlbertheijnIcon` |
+| `Alby` | `alby` | `AlbyIcon` |
+| `Alchemy` | `alchemy` | `AlchemyIcon` |
 | `Aldi Nord` | `aldinord` | `AldinordIcon` |
 | `Aldi Süd` | `aldisud` | `AldisudIcon` |
 | `Alfa Romeo` | `alfaromeo` | `AlfaromeoIcon` |
 | `Alfred` | `alfred` | `AlfredIcon` |
 | `Algolia` | `algolia` | `AlgoliaIcon` |
+| `Algorand` | `algorand` | `AlgorandIcon` |
 | `AliExpress` | `aliexpress` | `AliexpressIcon` |
 | `Alibaba Cloud` | `alibabacloud` | `AlibabacloudIcon` |
 | `Alibaba.com` | `alibabadotcom` | `AlibabadotcomIcon` |
+| `Alienware` | `alienware` | `AlienwareIcon` |
 | `Alipay` | `alipay` | `AlipayIcon` |
-| `Alitalia` | `alitalia` | `AlitaliaIcon` |
 | `AllTrails` | `alltrails` | `AlltrailsIcon` |
 | `Allegro` | `allegro` | `AllegroIcon` |
 | `AlliedModders` | `alliedmodders` | `AlliedmoddersIcon` |
 | `AlloCiné` | `allocine` | `AllocineIcon` |
+| `AlmaLinux` | `almalinux` | `AlmalinuxIcon` |
 | `Alpine Linux` | `alpinelinux` | `AlpinelinuxIcon` |
 | `Alpine.js` | `alpinedotjs` | `AlpinedotjsIcon` |
+| `AlternativeTo` | `alternativeto` | `AlternativetoIcon` |
+| `Alteryx` | `alteryx` | `AlteryxIcon` |
 | `Altium Designer` | `altiumdesigner` | `AltiumdesignerIcon` |
+| `Alwaysdata` | `alwaysdata` | `AlwaysdataIcon` |
 | `Amazon` | `amazon` | `AmazonIcon` |
-| `Amazon AWS` | `amazonaws` | `AmazonawsIcon` |
+| `Amazon API Gateway` | `amazonapigateway` | `AmazonapigatewayIcon` |
 | `Amazon Alexa` | `amazonalexa` | `AmazonalexaIcon` |
+| `Amazon CloudWatch` | `amazoncloudwatch` | `AmazoncloudwatchIcon` |
+| `Amazon Cognito` | `amazoncognito` | `AmazoncognitoIcon` |
+| `Amazon DocumentDB` | `amazondocumentdb` | `AmazondocumentdbIcon` |
 | `Amazon DynamoDB` | `amazondynamodb` | `AmazondynamodbIcon` |
+| `Amazon EC2` | `amazonec2` | `Amazonec2Icon` |
+| `Amazon ECS` | `amazonecs` | `AmazonecsIcon` |
+| `Amazon EKS` | `amazoneks` | `AmazoneksIcon` |
+| `Amazon ElastiCache` | `amazonelasticache` | `AmazonelasticacheIcon` |
 | `Amazon Fire TV` | `amazonfiretv` | `AmazonfiretvIcon` |
+| `Amazon Games` | `amazongames` | `AmazongamesIcon` |
+| `Amazon Identity Access Management` | `amazoniam` | `AmazoniamIcon` |
 | `Amazon Lumberyard` | `amazonlumberyard` | `AmazonlumberyardIcon` |
+| `Amazon Luna` | `amazonluna` | `AmazonlunaIcon` |
+| `Amazon Music` | `amazonmusic` | `AmazonmusicIcon` |
 | `Amazon Pay` | `amazonpay` | `AmazonpayIcon` |
 | `Amazon Prime` | `amazonprime` | `AmazonprimeIcon` |
+| `Amazon RDS` | `amazonrds` | `AmazonrdsIcon` |
+| `Amazon Redshift` | `amazonredshift` | `AmazonredshiftIcon` |
+| `Amazon Route 53` | `amazonroute53` | `Amazonroute53Icon` |
 | `Amazon S3` | `amazons3` | `Amazons3Icon` |
+| `Amazon SQS` | `amazonsqs` | `AmazonsqsIcon` |
+| `Amazon Simple Email Service` | `amazonsimpleemailservice` | `AmazonsimpleemailserviceIcon` |
+| `Amazon Web Services` | `amazonwebservices` | `AmazonwebservicesIcon` |
+| `Ameba` | `ameba` | `AmebaIcon` |
 | `American Airlines` | `americanairlines` | `AmericanairlinesIcon` |
 | `American Express` | `americanexpress` | `AmericanexpressIcon` |
 | `Amul` | `amul` | `AmulIcon` |
 | `Anaconda` | `anaconda` | `AnacondaIcon` |
 | `Analogue` | `analogue` | `AnalogueIcon` |
-| `Anchor` | `anchor` | `AnchorIcon` |
 | `Andela` | `andela` | `AndelaIcon` |
 | `Android` | `android` | `AndroidIcon` |
 | `Android Auto` | `androidauto` | `AndroidautoIcon` |
 | `Android Studio` | `androidstudio` | `AndroidstudioIcon` |
-| `AngelList` | `angellist` | `AngellistIcon` |
 | `Angular` | `angular` | `AngularIcon` |
-| `Angular Universal` | `angularuniversal` | `AngularuniversalIcon` |
-| `AngularJS` | `angularjs` | `AngularjsIcon` |
 | `AniList` | `anilist` | `AnilistIcon` |
+| `Animal Planet` | `animalplanet` | `AnimalplanetIcon` |
+| `AnkerMake` | `ankermake` | `AnkermakeIcon` |
+| `Anki` | `anki` | `AnkiIcon` |
 | `Ansible` | `ansible` | `AnsibleIcon` |
+| `Answer` | `answer` | `AnswerIcon` |
 | `Ansys` | `ansys` | `AnsysIcon` |
 | `Ant Design` | `antdesign` | `AntdesignIcon` |
+| `AntV` | `antv` | `AntvIcon` |
 | `Anta` | `anta` | `AntaIcon` |
 | `Antena 3` | `antena3` | `Antena3Icon` |
+| `Anthropic` | `anthropic` | `AnthropicIcon` |
 | `AnyDesk` | `anydesk` | `AnydeskIcon` |
+| `Anycubic` | `anycubic` | `AnycubicIcon` |
+| `Anytype` | `anytype` | `AnytypeIcon` |
 | `Apache` | `apache` | `ApacheIcon` |
 | `Apache Airflow` | `apacheairflow` | `ApacheairflowIcon` |
 | `Apache Ant` | `apacheant` | `ApacheantIcon` |
@@ -143,119 +197,175 @@
 | `Apache CloudStack` | `apachecloudstack` | `ApachecloudstackIcon` |
 | `Apache Cordova` | `apachecordova` | `ApachecordovaIcon` |
 | `Apache CouchDB` | `apachecouchdb` | `ApachecouchdbIcon` |
+| `Apache DolphinScheduler` | `apachedolphinscheduler` | `ApachedolphinschedulerIcon` |
 | `Apache Druid` | `apachedruid` | `ApachedruidIcon` |
 | `Apache ECharts` | `apacheecharts` | `ApacheechartsIcon` |
 | `Apache Flink` | `apacheflink` | `ApacheflinkIcon` |
+| `Apache FreeMarker` | `apachefreemarker` | `ApachefreemarkerIcon` |
 | `Apache Groovy` | `apachegroovy` | `ApachegroovyIcon` |
+| `Apache Guacamole` | `apacheguacamole` | `ApacheguacamoleIcon` |
+| `Apache HBase` | `apachehbase` | `ApachehbaseIcon` |
 | `Apache Hadoop` | `apachehadoop` | `ApachehadoopIcon` |
 | `Apache Hive` | `apachehive` | `ApachehiveIcon` |
 | `Apache JMeter` | `apachejmeter` | `ApachejmeterIcon` |
 | `Apache Kafka` | `apachekafka` | `ApachekafkaIcon` |
 | `Apache Kylin` | `apachekylin` | `ApachekylinIcon` |
+| `Apache Lucene` | `apachelucene` | `ApacheluceneIcon` |
 | `Apache Maven` | `apachemaven` | `ApachemavenIcon` |
 | `Apache NetBeans IDE` | `apachenetbeanside` | `ApachenetbeansideIcon` |
+| `Apache NiFi` | `apachenifi` | `ApachenifiIcon` |
 | `Apache OpenOffice` | `apacheopenoffice` | `ApacheopenofficeIcon` |
+| `Apache Parquet` | `apacheparquet` | `ApacheparquetIcon` |
 | `Apache Pulsar` | `apachepulsar` | `ApachepulsarIcon` |
 | `Apache RocketMQ` | `apacherocketmq` | `ApacherocketmqIcon` |
 | `Apache Solr` | `apachesolr` | `ApachesolrIcon` |
 | `Apache Spark` | `apachespark` | `ApachesparkIcon` |
+| `Apache Storm` | `apachestorm` | `ApachestormIcon` |
+| `Apache Superset` | `apachesuperset` | `ApachesupersetIcon` |
 | `Apache Tomcat` | `apachetomcat` | `ApachetomcatIcon` |
 | `Aparat` | `aparat` | `AparatIcon` |
+| `Apifox` | `apifox` | `ApifoxIcon` |
 | `Apollo GraphQL` | `apollographql` | `ApollographqlIcon` |
 | `Apostrophe` | `apostrophe` | `ApostropheIcon` |
-| `App Annie` | `appannie` | `AppannieIcon` |
 | `App Store` | `appstore` | `AppstoreIcon` |
+| `AppGallery` | `appgallery` | `AppgalleryIcon` |
 | `AppSignal` | `appsignal` | `AppsignalIcon` |
 | `AppVeyor` | `appveyor` | `AppveyorIcon` |
 | `Appian` | `appian` | `AppianIcon` |
+| `Appium` | `appium` | `AppiumIcon` |
 | `Apple` | `apple` | `AppleIcon` |
 | `Apple Arcade` | `applearcade` | `ApplearcadeIcon` |
 | `Apple Music` | `applemusic` | `ApplemusicIcon` |
+| `Apple News` | `applenews` | `ApplenewsIcon` |
 | `Apple Pay` | `applepay` | `ApplepayIcon` |
 | `Apple Podcasts` | `applepodcasts` | `ApplepodcastsIcon` |
 | `Apple TV` | `appletv` | `AppletvIcon` |
+| `Appsmith` | `appsmith` | `AppsmithIcon` |
 | `Appwrite` | `appwrite` | `AppwriteIcon` |
 | `Aqua` | `aqua` | `AquaIcon` |
 | `ArangoDB` | `arangodb` | `ArangodbIcon` |
+| `Arc` | `arc` | `ArcIcon` |
+| `ArcGIS` | `arcgis` | `ArcgisIcon` |
 | `Arch Linux` | `archlinux` | `ArchlinuxIcon` |
 | `Archicad` | `archicad` | `ArchicadIcon` |
 | `Archive of Our Own` | `archiveofourown` | `ArchiveofourownIcon` |
 | `Ardour` | `ardour` | `ArdourIcon` |
 | `Arduino` | `arduino` | `ArduinoIcon` |
+| `Argo` | `argo` | `ArgoIcon` |
 | `Argos` | `argos` | `ArgosIcon` |
+| `Ariakit` | `ariakit` | `AriakitIcon` |
 | `Arlo` | `arlo` | `ArloIcon` |
 | `Arm` | `arm` | `ArmIcon` |
+| `Arm Keil` | `armkeil` | `ArmkeilIcon` |
+| `Ars Technica` | `arstechnica` | `ArstechnicaIcon` |
 | `ArtStation` | `artstation` | `ArtstationIcon` |
 | `Artifact Hub` | `artifacthub` | `ArtifacthubIcon` |
 | `Artix Linux` | `artixlinux` | `ArtixlinuxIcon` |
+| `Asahi Linux` | `asahilinux` | `AsahilinuxIcon` |
 | `Asana` | `asana` | `AsanaIcon` |
 | `Asciidoctor` | `asciidoctor` | `AsciidoctorIcon` |
 | `Aseprite` | `aseprite` | `AsepriteIcon` |
-| `Ask Ubuntu` | `askubuntu` | `AskubuntuIcon` |
 | `AssemblyScript` | `assemblyscript` | `AssemblyscriptIcon` |
+| `Asterisk` | `asterisk` | `AsteriskIcon` |
 | `Aston Martin` | `astonmartin` | `AstonmartinIcon` |
+| `Astra` | `astra` | `AstraIcon` |
+| `Astral` | `astral` | `AstralIcon` |
 | `Astro` | `astro` | `AstroIcon` |
 | `Atari` | `atari` | `AtariIcon` |
+| `AtlasOS` | `atlasos` | `AtlasosIcon` |
 | `Atlassian` | `atlassian` | `AtlassianIcon` |
-| `Atom` | `atom` | `AtomIcon` |
 | `Auchan` | `auchan` | `AuchanIcon` |
 | `Audacity` | `audacity` | `AudacityIcon` |
 | `Audi` | `audi` | `AudiIcon` |
 | `Audible` | `audible` | `AudibleIcon` |
 | `Audio-Technica` | `audiotechnica` | `AudiotechnicaIcon` |
+| `Audiobookshelf` | `audiobookshelf` | `AudiobookshelfIcon` |
 | `Audioboom` | `audioboom` | `AudioboomIcon` |
 | `Audiomack` | `audiomack` | `AudiomackIcon` |
 | `Aurelia` | `aurelia` | `AureliaIcon` |
 | `Auth0` | `auth0` | `Auth0Icon` |
+| `Authelia` | `authelia` | `AutheliaIcon` |
+| `Authentik` | `authentik` | `AuthentikIcon` |
 | `Authy` | `authy` | `AuthyIcon` |
+| `AutoCAD` | `autocad` | `AutocadIcon` |
+| `AutoCannon` | `autocannon` | `AutocannonIcon` |
 | `AutoHotkey` | `autohotkey` | `AutohotkeyIcon` |
+| `AutoIt` | `autoit` | `AutoitIcon` |
+| `AutoZone` | `autozone` | `AutozoneIcon` |
 | `Autodesk` | `autodesk` | `AutodeskIcon` |
+| `Autodesk Maya` | `autodeskmaya` | `AutodeskmayaIcon` |
+| `Autodesk Revit` | `autodeskrevit` | `AutodeskrevitIcon` |
 | `Automattic` | `automattic` | `AutomatticIcon` |
 | `Autoprefixer` | `autoprefixer` | `AutoprefixerIcon` |
 | `Avast` | `avast` | `AvastIcon` |
+| `Avira` | `avira` | `AviraIcon` |
 | `Awesome Lists` | `awesomelists` | `AwesomelistsIcon` |
-| `Azure Artifacts` | `azureartifacts` | `AzureartifactsIcon` |
-| `Azure Data Explorer` | `azuredataexplorer` | `AzuredataexplorerIcon` |
-| `Azure DevOps` | `azuredevops` | `AzuredevopsIcon` |
-| `Azure Functions` | `azurefunctions` | `AzurefunctionsIcon` |
-| `Azure Pipelines` | `azurepipelines` | `AzurepipelinesIcon` |
+| `Awwwards` | `awwwards` | `AwwwardsIcon` |
+| `Axios` | `axios` | `AxiosIcon` |
 | `B&R Automation` | `bandrautomation` | `BandrautomationIcon` |
-| `BBC` | `bbc` | `BbcIcon` |
-| `BBC iPlayer` | `bbciplayer` | `BbciplayerIcon` |
 | `BEM` | `bem` | `BemIcon` |
+| `BIM` | `bim` | `BimIcon` |
 | `BMC Software` | `bmcsoftware` | `BmcsoftwareIcon` |
 | `BMW` | `bmw` | `BmwIcon` |
+| `BNB Chain` | `bnbchain` | `BnbchainIcon` |
+| `BSD` | `bsd` | `BsdIcon` |
 | `BT` | `bt` | `BtIcon` |
+| `BVG` | `bvg` | `BvgIcon` |
 | `Babel` | `babel` | `BabelIcon` |
+| `Babelio` | `babelio` | `BabelioIcon` |
+| `Babylon.js` | `babylondotjs` | `BabylondotjsIcon` |
+| `Backblaze` | `backblaze` | `BackblazeIcon` |
+| `Backbone` | `backbone` | `BackboneIcon` |
 | `Backbone.js` | `backbonedotjs` | `BackbonedotjsIcon` |
-| `Badgr` | `badgr` | `BadgrIcon` |
+| `Backendless` | `backendless` | `BackendlessIcon` |
+| `Backstage` | `backstage_casting` | `Backstage_castingIcon` |
 | `Badoo` | `badoo` | `BadooIcon` |
 | `Baidu` | `baidu` | `BaiduIcon` |
+| `Bakaláři` | `bakalari` | `BakalariIcon` |
 | `Bamboo` | `bamboo` | `BambooIcon` |
+| `Bambu Lab` | `bambulab` | `BambulabIcon` |
 | `BandLab` | `bandlab` | `BandlabIcon` |
 | `Bandcamp` | `bandcamp` | `BandcampIcon` |
 | `Bandsintown` | `bandsintown` | `BandsintownIcon` |
 | `Bank of America` | `bankofamerica` | `BankofamericaIcon` |
 | `Barclays` | `barclays` | `BarclaysIcon` |
 | `Baremetrics` | `baremetrics` | `BaremetricsIcon` |
+| `Barmenia` | `barmenia` | `BarmeniaIcon` |
 | `Basecamp` | `basecamp` | `BasecampIcon` |
+| `Baserow` | `baserow` | `BaserowIcon` |
+| `Basic Attention Token` | `basicattentiontoken` | `BasicattentiontokenIcon` |
+| `Bastyon` | `bastyon` | `BastyonIcon` |
 | `Bata` | `bata` | `BataIcon` |
-| `Bath ASU` | `bathasu` | `BathasuIcon` |
 | `Battle.net` | `battledotnet` | `BattledotnetIcon` |
+| `Bazel` | `bazel` | `BazelIcon` |
+| `BeReal` | `bereal` | `BerealIcon` |
+| `BeatStars` | `beatstars` | `BeatstarsIcon` |
 | `Beatport` | `beatport` | `BeatportIcon` |
 | `Beats` | `beats` | `BeatsIcon` |
 | `Beats by Dre` | `beatsbydre` | `BeatsbydreIcon` |
+| `Beekeeper Studio` | `beekeeperstudio` | `BeekeeperstudioIcon` |
 | `Behance` | `behance` | `BehanceIcon` |
 | `Beijing Subway` | `beijingsubway` | `BeijingsubwayIcon` |
 | `Bentley` | `bentley` | `BentleyIcon` |
+| `Bento` | `bento` | `BentoIcon` |
+| `BentoBox` | `bentobox` | `BentoboxIcon` |
+| `BentoML` | `bentoml` | `BentomlIcon` |
 | `Betfair` | `betfair` | `BetfairIcon` |
+| `Better Stack` | `betterstack` | `BetterstackIcon` |
+| `BetterDiscord` | `betterdiscord` | `BetterdiscordIcon` |
+| `Bevy` | `bevy` | `BevyIcon` |
 | `Big Cartel` | `bigcartel` | `BigcartelIcon` |
 | `BigBlueButton` | `bigbluebutton` | `BigbluebuttonIcon` |
 | `BigCommerce` | `bigcommerce` | `BigcommerceIcon` |
 | `Bilibili` | `bilibili` | `BilibiliIcon` |
+| `Billboard` | `billboard` | `BillboardIcon` |
 | `Binance` | `binance` | `BinanceIcon` |
 | `Bio Link` | `biolink` | `BiolinkIcon` |
+| `Biome` | `biome` | `BiomeIcon` |
+| `BisectHosting` | `bisecthosting` | `BisecthostingIcon` |
 | `Bit` | `bit` | `BitIcon` |
+| `BitComet` | `bitcomet` | `BitcometIcon` |
+| `BitTorrent` | `bittorrent` | `BittorrentIcon` |
 | `Bitbucket` | `bitbucket` | `BitbucketIcon` |
 | `Bitcoin` | `bitcoin` | `BitcoinIcon` |
 | `Bitcoin Cash` | `bitcoincash` | `BitcoincashIcon` |
@@ -266,67 +376,116 @@
 | `Bitwarden` | `bitwarden` | `BitwardenIcon` |
 | `Bitwig` | `bitwig` | `BitwigIcon` |
 | `Blackberry` | `blackberry` | `BlackberryIcon` |
+| `Blackmagic Design` | `blackmagicdesign` | `BlackmagicdesignIcon` |
 | `Blazemeter` | `blazemeter` | `BlazemeterIcon` |
 | `Blazor` | `blazor` | `BlazorIcon` |
 | `Blender` | `blender` | `BlenderIcon` |
+| `Blockbench` | `blockbench` | `BlockbenchIcon` |
 | `Blockchain.com` | `blockchaindotcom` | `BlockchaindotcomIcon` |
 | `Blogger` | `blogger` | `BloggerIcon` |
 | `Bloglovin` | `bloglovin` | `BloglovinIcon` |
 | `Blueprint` | `blueprint` | `BlueprintIcon` |
+| `Bluesky` | `bluesky` | `BlueskyIcon` |
+| `Bluesound` | `bluesound` | `BluesoundIcon` |
 | `Bluetooth` | `bluetooth` | `BluetoothIcon` |
+| `BoardGameGeek` | `boardgamegeek` | `BoardgamegeekIcon` |
 | `Boehringer Ingelheim` | `boehringeringelheim` | `BoehringeringelheimIcon` |
 | `Boeing` | `boeing` | `BoeingIcon` |
+| `Bombardier` | `bombardier` | `BombardierIcon` |
 | `BookBub` | `bookbub` | `BookbubIcon` |
+| `BookMyShow` | `bookmyshow` | `BookmyshowIcon` |
 | `BookStack` | `bookstack` | `BookstackIcon` |
+| `Bookalope` | `bookalope` | `BookalopeIcon` |
 | `Bookmeter` | `bookmeter` | `BookmeterIcon` |
 | `Boost` | `boost` | `BoostIcon` |
+| `Boosty` | `boosty` | `BoostyIcon` |
 | `Boots` | `boots` | `BootsIcon` |
 | `Bootstrap` | `bootstrap` | `BootstrapIcon` |
+| `BorgBackup` | `borgbackup` | `BorgbackupIcon` |
 | `Bosch` | `bosch` | `BoschIcon` |
 | `Bose` | `bose` | `BoseIcon` |
+| `Botble CMS` | `botblecms` | `BotblecmsIcon` |
 | `Bower` | `bower` | `BowerIcon` |
 | `Box` | `box` | `BoxIcon` |
+| `Boxy SVG` | `boxysvg` | `BoxysvgIcon` |
+| `Braintree` | `braintree` | `BraintreeIcon` |
 | `Brandfolder` | `brandfolder` | `BrandfolderIcon` |
 | `Brave` | `brave` | `BraveIcon` |
 | `Breaker` | `breaker` | `BreakerIcon` |
+| `Brenntag` | `brenntag` | `BrenntagIcon` |
+| `Brevo` | `brevo` | `BrevoIcon` |
+| `Brex` | `brex` | `BrexIcon` |
+| `Bricks` | `bricks` | `BricksIcon` |
 | `British Airways` | `britishairways` | `BritishairwaysIcon` |
 | `Broadcom` | `broadcom` | `BroadcomIcon` |
+| `Bruno` | `bruno` | `BrunoIcon` |
 | `Buddy` | `buddy` | `BuddyIcon` |
+| `Budibase` | `budibase` | `BudibaseIcon` |
 | `Buefy` | `buefy` | `BuefyIcon` |
 | `Buffer` | `buffer` | `BufferIcon` |
 | `Bugatti` | `bugatti` | `BugattiIcon` |
 | `Bugcrowd` | `bugcrowd` | `BugcrowdIcon` |
 | `Bugsnag` | `bugsnag` | `BugsnagIcon` |
+| `Buhl` | `buhl` | `BuhlIcon` |
 | `Buildkite` | `buildkite` | `BuildkiteIcon` |
+| `BuiltByBit` | `builtbybit` | `BuiltbybitIcon` |
 | `Bukalapak` | `bukalapak` | `BukalapakIcon` |
 | `Bulma` | `bulma` | `BulmaIcon` |
+| `Bun` | `bun` | `BunIcon` |
+| `Bungie` | `bungie` | `BungieIcon` |
 | `Burger King` | `burgerking` | `BurgerkingIcon` |
+| `Burp Suite` | `burpsuite` | `BurpsuiteIcon` |
+| `Burton` | `burton` | `BurtonIcon` |
 | `Buy Me A Coffee` | `buymeacoffee` | `BuymeacoffeeIcon` |
+| `BuySellAds` | `buysellads` | `BuyselladsIcon` |
 | `BuzzFeed` | `buzzfeed` | `BuzzfeedIcon` |
 | `Byju's` | `byjus` | `ByjusIcon` |
 | `ByteDance` | `bytedance` | `BytedanceIcon` |
 | `C` | `c` | `CIcon` |
-| `C Sharp` | `csharp` | `CsharpIcon` |
 | `C++` | `cplusplus` | `CplusplusIcon` |
+| `C++ Builder` | `cplusplusbuilder` | `CplusplusbuilderIcon` |
+| `CBC` | `cbc` | `CbcIcon` |
 | `CBS` | `cbs` | `CbsIcon` |
+| `CCC` | `ccc` | `CccIcon` |
+| `CCleaner` | `ccleaner` | `CcleanerIcon` |
 | `CD Projekt` | `cdprojekt` | `CdprojektIcon` |
-| `CKEditor 4` | `ckeditor4` | `Ckeditor4Icon` |
+| `CE` | `ce` | `CeIcon` |
 | `CLion` | `clion` | `ClionIcon` |
 | `CMake` | `cmake` | `CmakeIcon` |
 | `CNCF` | `cncf` | `CncfIcon` |
+| `CNES` | `cnes` | `CnesIcon` |
+| `CNET` | `cnet` | `CnetIcon` |
 | `CNN` | `cnn` | `CnnIcon` |
 | `CRYENGINE` | `cryengine` | `CryengineIcon` |
+| `CSDN` | `csdn` | `CsdnIcon` |
+| `CSS` | `css` | `CssIcon` |
+| `CSS Design Awards` | `cssdesignawards` | `CssdesignawardsIcon` |
+| `CSS Modules` | `cssmodules` | `CssmodulesIcon` |
 | `CSS Wizardry` | `csswizardry` | `CsswizardryIcon` |
 | `CSS3` | `css3` | `Css3Icon` |
+| `CTS` | `cts` | `CtsIcon` |
 | `Cachet` | `cachet` | `CachetIcon` |
-| `Caffeine` | `caffeine` | `CaffeineIcon` |
+| `Caddy` | `caddy` | `CaddyIcon` |
+| `Cadillac` | `cadillac` | `CadillacIcon` |
+| `CafePress` | `cafepress` | `CafepressIcon` |
+| `Cairo Graphics` | `cairographics` | `CairographicsIcon` |
 | `Cairo Metro` | `cairometro` | `CairometroIcon` |
+| `CaixaBank` | `caixabank` | `CaixabankIcon` |
 | `CakePHP` | `cakephp` | `CakephpIcon` |
+| `Cal.com` | `caldotcom` | `CaldotcomIcon` |
+| `Calendly` | `calendly` | `CalendlyIcon` |
+| `Calibre-Web` | `calibreweb` | `CalibrewebIcon` |
 | `Campaign Monitor` | `campaignmonitor` | `CampaignmonitorIcon` |
+| `Camunda` | `camunda` | `CamundaIcon` |
 | `Canonical` | `canonical` | `CanonicalIcon` |
 | `Canva` | `canva` | `CanvaIcon` |
+| `Canvas` | `canvas` | `CanvasIcon` |
+| `CapRover` | `caprover` | `CaproverIcon` |
 | `Capacitor` | `capacitor` | `CapacitorIcon` |
 | `Car Throttle` | `carthrottle` | `CarthrottleIcon` |
+| `Cardano` | `cardano` | `CardanoIcon` |
+| `Carlsberg Group` | `carlsberggroup` | `CarlsberggroupIcon` |
+| `Carrd` | `carrd` | `CarrdIcon` |
 | `Carrefour` | `carrefour` | `CarrefourIcon` |
 | `Carto` | `carto` | `CartoIcon` |
 | `Cash App` | `cashapp` | `CashappIcon` |
@@ -335,41 +494,59 @@
 | `Castro` | `castro` | `CastroIcon` |
 | `Caterpillar` | `caterpillar` | `CaterpillarIcon` |
 | `Celery` | `celery` | `CeleryIcon` |
+| `Celestron` | `celestron` | `CelestronIcon` |
 | `CentOS` | `centos` | `CentosIcon` |
 | `Ceph` | `ceph` | `CephIcon` |
 | `Cesium` | `cesium` | `CesiumIcon` |
 | `Chai` | `chai` | `ChaiIcon` |
+| `Chainguard` | `chainguard` | `ChainguardIcon` |
 | `Chainlink` | `chainlink` | `ChainlinkIcon` |
 | `Chakra UI` | `chakraui` | `ChakrauiIcon` |
+| `Channel 4` | `channel4` | `Channel4Icon` |
+| `Charles` | `charles` | `CharlesIcon` |
 | `Chart.js` | `chartdotjs` | `ChartdotjsIcon` |
 | `ChartMogul` | `chartmogul` | `ChartmogulIcon` |
 | `Chase` | `chase` | `ChaseIcon` |
 | `ChatBot` | `chatbot` | `ChatbotIcon` |
+| `Chatwoot` | `chatwoot` | `ChatwootIcon` |
 | `CheckiO` | `checkio` | `CheckioIcon` |
 | `Checkmarx` | `checkmarx` | `CheckmarxIcon` |
+| `Checkmk` | `checkmk` | `CheckmkIcon` |
+| `Chedraui` | `chedraui` | `ChedrauiIcon` |
+| `Cheerio` | `cheerio` | `CheerioIcon` |
 | `Chef` | `chef` | `ChefIcon` |
 | `Chemex` | `chemex` | `ChemexIcon` |
+| `Chess.com` | `chessdotcom` | `ChessdotcomIcon` |
 | `Chevrolet` | `chevrolet` | `ChevroletIcon` |
+| `Chia Network` | `chianetwork` | `ChianetworkIcon` |
 | `China Eastern Airlines` | `chinaeasternairlines` | `ChinaeasternairlinesIcon` |
 | `China Southern Airlines` | `chinasouthernairlines` | `ChinasouthernairlinesIcon` |
 | `Chocolatey` | `chocolatey` | `ChocolateyIcon` |
+| `Chromatic` | `chromatic` | `ChromaticIcon` |
+| `Chrome Web Store` | `chromewebstore` | `ChromewebstoreIcon` |
 | `Chromecast` | `chromecast` | `ChromecastIcon` |
 | `Chrysler` | `chrysler` | `ChryslerIcon` |
 | `Chupa Chups` | `chupachups` | `ChupachupsIcon` |
 | `Cilium` | `cilium` | `CiliumIcon` |
 | `Cinema 4D` | `cinema4d` | `Cinema4dIcon` |
+| `Cinnamon` | `cinnamon` | `CinnamonIcon` |
 | `Circle` | `circle` | `CircleIcon` |
 | `CircleCI` | `circleci` | `CircleciIcon` |
+| `CircuitVerse` | `circuitverse` | `CircuitverseIcon` |
 | `Cirrus CI` | `cirrusci` | `CirrusciIcon` |
 | `Cisco` | `cisco` | `CiscoIcon` |
 | `Citrix` | `citrix` | `CitrixIcon` |
 | `Citroën` | `citroen` | `CitroenIcon` |
 | `CiviCRM` | `civicrm` | `CivicrmIcon` |
 | `Civo` | `civo` | `CivoIcon` |
+| `Clarifai` | `clarifai` | `ClarifaiIcon` |
 | `Claris` | `claris` | `ClarisIcon` |
+| `Clarivate` | `clarivate` | `ClarivateIcon` |
+| `Claude` | `claude` | `ClaudeIcon` |
+| `Clerk` | `clerk` | `ClerkIcon` |
+| `Clever Cloud` | `clevercloud` | `ClevercloudIcon` |
 | `ClickHouse` | `clickhouse` | `ClickhouseIcon` |
 | `ClickUp` | `clickup` | `ClickupIcon` |
-| `Cliqz` | `cliqz` | `CliqzIcon` |
 | `Clockify` | `clockify` | `ClockifyIcon` |
 | `Clojure` | `clojure` | `ClojureIcon` |
 | `Cloud 66` | `cloud66` | `Cloud66Icon` |
@@ -378,11 +555,17 @@
 | `CloudCannon` | `cloudcannon` | `CloudcannonIcon` |
 | `Cloudera` | `cloudera` | `ClouderaIcon` |
 | `Cloudflare` | `cloudflare` | `CloudflareIcon` |
+| `Cloudflare Pages` | `cloudflarepages` | `CloudflarepagesIcon` |
+| `Cloudflare Workers` | `cloudflareworkers` | `CloudflareworkersIcon` |
+| `Cloudinary` | `cloudinary` | `CloudinaryIcon` |
+| `Cloudron` | `cloudron` | `CloudronIcon` |
 | `Cloudsmith` | `cloudsmith` | `CloudsmithIcon` |
 | `Cloudways` | `cloudways` | `CloudwaysIcon` |
+| `Clubforce` | `clubforce` | `ClubforceIcon` |
 | `Clubhouse` | `clubhouse` | `ClubhouseIcon` |
 | `Clyp` | `clyp` | `ClypIcon` |
 | `Co-op` | `coop` | `CoopIcon` |
+| `Coca-Cola` | `cocacola` | `CocacolaIcon` |
 | `Cockpit` | `cockpit` | `CockpitIcon` |
 | `Cockroach Labs` | `cockroachlabs` | `CockroachlabsIcon` |
 | `CocoaPods` | `cocoapods` | `CocoapodsIcon` |
@@ -390,8 +573,9 @@
 | `Coda` | `coda` | `CodaIcon` |
 | `Codacy` | `codacy` | `CodacyIcon` |
 | `Code Climate` | `codeclimate` | `CodeclimateIcon` |
-| `Code Review` | `codereview` | `CodereviewIcon` |
+| `Code::Blocks` | `codeblocks` | `CodeblocksIcon` |
 | `CodeChef` | `codechef` | `CodechefIcon` |
+| `CodeCrafters` | `codecrafters` | `CodecraftersIcon` |
 | `CodeFactor` | `codefactor` | `CodefactorIcon` |
 | `CodeIgniter` | `codeigniter` | `CodeigniterIcon` |
 | `CodeMirror` | `codemirror` | `CodemirrorIcon` |
@@ -399,12 +583,18 @@
 | `CodePen` | `codepen` | `CodepenIcon` |
 | `CodeProject` | `codeproject` | `CodeprojectIcon` |
 | `CodeSandbox` | `codesandbox` | `CodesandboxIcon` |
+| `CodeSignal` | `codesignal` | `CodesignalIcon` |
+| `CodeStream` | `codestream` | `CodestreamIcon` |
 | `Codeberg` | `codeberg` | `CodebergIcon` |
 | `Codecademy` | `codecademy` | `CodecademyIcon` |
 | `CodeceptJS` | `codeceptjs` | `CodeceptjsIcon` |
 | `Codecov` | `codecov` | `CodecovIcon` |
 | `Codeforces` | `codeforces` | `CodeforcesIcon` |
+| `Codefresh` | `codefresh` | `CodefreshIcon` |
+| `Codeium` | `codeium` | `CodeiumIcon` |
 | `Codemagic` | `codemagic` | `CodemagicIcon` |
+| `Codementor` | `codementor` | `CodementorIcon` |
+| `Coder` | `coder` | `CoderIcon` |
 | `CodersRank` | `codersrank` | `CodersrankIcon` |
 | `Coderwall` | `coderwall` | `CoderwallIcon` |
 | `Codeship` | `codeship` | `CodeshipIcon` |
@@ -413,12 +603,18 @@
 | `Coding Ninjas` | `codingninjas` | `CodingninjasIcon` |
 | `Codio` | `codio` | `CodioIcon` |
 | `CoffeeScript` | `coffeescript` | `CoffeescriptIcon` |
+| `Coggle` | `coggle` | `CoggleIcon` |
 | `Cognizant` | `cognizant` | `CognizantIcon` |
-| `Coil` | `coil` | `CoilIcon` |
 | `CoinMarketCap` | `coinmarketcap` | `CoinmarketcapIcon` |
 | `Coinbase` | `coinbase` | `CoinbaseIcon` |
+| `Collabora Online` | `collaboraonline` | `CollaboraonlineIcon` |
+| `ComicFury` | `comicfury` | `ComicfuryIcon` |
 | `Commerzbank` | `commerzbank` | `CommerzbankIcon` |
+| `Commodore` | `commodore` | `CommodoreIcon` |
+| `Common Lisp` | `commonlisp` | `CommonlispIcon` |
 | `Common Workflow Language` | `commonworkflowlanguage` | `CommonworkflowlanguageIcon` |
+| `CompTIA` | `comptia` | `ComptiaIcon` |
+| `Compiler Explorer` | `compilerexplorer` | `CompilerexplorerIcon` |
 | `Composer` | `composer` | `ComposerIcon` |
 | `Comsol` | `comsol` | `ComsolIcon` |
 | `Conan` | `conan` | `ConanIcon` |
@@ -428,12 +624,21 @@
 | `Confluence` | `confluence` | `ConfluenceIcon` |
 | `Construct 3` | `construct3` | `Construct3Icon` |
 | `Consul` | `consul` | `ConsulIcon` |
+| `Contabo` | `contabo` | `ContaboIcon` |
 | `Contactless Payment` | `contactlesspayment` | `ContactlesspaymentIcon` |
+| `Contao` | `contao` | `ContaoIcon` |
 | `Contentful` | `contentful` | `ContentfulIcon` |
+| `Contentstack` | `contentstack` | `ContentstackIcon` |
+| `Continente` | `continente` | `ContinenteIcon` |
+| `Contributor Covenant` | `contributorcovenant` | `ContributorcovenantIcon` |
 | `Conventional Commits` | `conventionalcommits` | `ConventionalcommitsIcon` |
 | `Convertio` | `convertio` | `ConvertioIcon` |
 | `Cookiecutter` | `cookiecutter` | `CookiecutterIcon` |
+| `Cooler Master` | `coolermaster` | `CoolermasterIcon` |
+| `Copa Airlines` | `copaairlines` | `CopaairlinesIcon` |
+| `Coppel` | `coppel` | `CoppelIcon` |
 | `Cora` | `cora` | `CoraIcon` |
+| `CorelDRAW` | `coreldraw` | `CoreldrawIcon` |
 | `Corona Engine` | `coronaengine` | `CoronaengineIcon` |
 | `Corona Renderer` | `coronarenderer` | `CoronarendererIcon` |
 | `Corsair` | `corsair` | `CorsairIcon` |
@@ -442,37 +647,58 @@
 | `CountingWorks PRO` | `countingworkspro` | `CountingworksproIcon` |
 | `Coursera` | `coursera` | `CourseraIcon` |
 | `Coveralls` | `coveralls` | `CoverallsIcon` |
+| `Coze` | `coze` | `CozeIcon` |
 | `Craft CMS` | `craftcms` | `CraftcmsIcon` |
+| `Craftsman` | `craftsman` | `CraftsmanIcon` |
 | `CrateDB` | `cratedb` | `CratedbIcon` |
+| `Crayon` | `crayon` | `CrayonIcon` |
+| `Creality` | `creality` | `CrealityIcon` |
 | `Create React App` | `createreactapp` | `CreatereactappIcon` |
 | `Creative Commons` | `creativecommons` | `CreativecommonsIcon` |
+| `Creative Technology` | `creativetechnology` | `CreativetechnologyIcon` |
 | `Credly` | `credly` | `CredlyIcon` |
 | `Crehana` | `crehana` | `CrehanaIcon` |
+| `Crew United` | `crewunited` | `CrewunitedIcon` |
+| `CrewAI` | `crewai` | `CrewaiIcon` |
+| `Critical Role` | `criticalrole` | `CriticalroleIcon` |
 | `Crowdin` | `crowdin` | `CrowdinIcon` |
 | `Crowdsource` | `crowdsource` | `CrowdsourceIcon` |
 | `Crunchbase` | `crunchbase` | `CrunchbaseIcon` |
 | `Crunchyroll` | `crunchyroll` | `CrunchyrollIcon` |
+| `CryptPad` | `cryptpad` | `CryptpadIcon` |
+| `Cryptomator` | `cryptomator` | `CryptomatorIcon` |
 | `Crystal` | `crystal` | `CrystalIcon` |
 | `Cucumber` | `cucumber` | `CucumberIcon` |
+| `Cultura` | `cultura` | `CulturaIcon` |
 | `CurseForge` | `curseforge` | `CurseforgeIcon` |
+| `Custom Ink` | `customink` | `CustominkIcon` |
+| `CyberDefenders` | `cyberdefenders` | `CyberdefendersIcon` |
 | `Cycling '74` | `cycling74` | `Cycling74Icon` |
 | `Cypress` | `cypress` | `CypressIcon` |
 | `Cytoscape.js` | `cytoscapedotjs` | `CytoscapedotjsIcon` |
+| `D` | `d` | `DIcon` |
 | `D-EDGE` | `dedge` | `DedgeIcon` |
 | `D-Wave Systems` | `dwavesystems` | `DwavesystemsIcon` |
-| `D3.js` | `d3dotjs` | `D3dotjsIcon` |
+| `D3` | `d3` | `D3Icon` |
 | `DAF` | `daf` | `DafIcon` |
+| `DATEV` | `datev` | `DatevIcon` |
 | `DAZN` | `dazn` | `DaznIcon` |
+| `DBeaver` | `dbeaver` | `DbeaverIcon` |
 | `DC Entertainment` | `dcentertainment` | `DcentertainmentIcon` |
 | `DHL` | `dhl` | `DhlIcon` |
+| `DJI` | `dji` | `DjiIcon` |
 | `DLNA` | `dlna` | `DlnaIcon` |
+| `DOI` | `doi` | `DoiIcon` |
 | `DPD` | `dpd` | `DpdIcon` |
 | `DS Automobiles` | `dsautomobiles` | `DsautomobilesIcon` |
+| `DTS` | `dts` | `DtsIcon` |
 | `DTube` | `dtube` | `DtubeIcon` |
 | `DVC` | `dvc` | `DvcIcon` |
+| `DaVinci Resolve` | `davinciresolve` | `DavinciresolveIcon` |
 | `Dacia` | `dacia` | `DaciaIcon` |
 | `Dailymotion` | `dailymotion` | `DailymotionIcon` |
-| `Daimler` | `daimler` | `DaimlerIcon` |
+| `DaisyUI` | `daisyui` | `DaisyuiIcon` |
+| `Dapr` | `dapr` | `DaprIcon` |
 | `Dark Reader` | `darkreader` | `DarkreaderIcon` |
 | `Dart` | `dart` | `DartIcon` |
 | `Darty` | `darty` | `DartyIcon` |
@@ -481,7 +707,6 @@
 | `Dashlane` | `dashlane` | `DashlaneIcon` |
 | `Dask` | `dask` | `DaskIcon` |
 | `Dassault Systèmes` | `dassaultsystemes` | `DassaultsystemesIcon` |
-| `Data Version Control` | `dataversioncontrol` | `DataversioncontrolIcon` |
 | `DataCamp` | `datacamp` | `DatacampIcon` |
 | `DataGrip` | `datagrip` | `DatagripIcon` |
 | `DataStax` | `datastax` | `DatastaxIcon` |
@@ -490,29 +715,43 @@
 | `Dataiku` | `dataiku` | `DataikuIcon` |
 | `DatoCMS` | `datocms` | `DatocmsIcon` |
 | `Datto` | `datto` | `DattoIcon` |
+| `Dazhong Dianping` | `dazhongdianping` | `DazhongdianpingIcon` |
 | `De'Longhi` | `delonghi` | `DelonghiIcon` |
 | `Debian` | `debian` | `DebianIcon` |
+| `Debrid-Link` | `debridlink` | `DebridlinkIcon` |
+| `Decap CMS` | `decapcms` | `DecapcmsIcon` |
+| `Decentraland` | `decentraland` | `DecentralandIcon` |
+| `DeepCool` | `deepcool` | `DeepcoolIcon` |
+| `DeepL` | `deepl` | `DeeplIcon` |
+| `Deepgram` | `deepgram` | `DeepgramIcon` |
 | `Deepnote` | `deepnote` | `DeepnoteIcon` |
-| `Deezer` | `deezer` | `DeezerIcon` |
 | `Deliveroo` | `deliveroo` | `DeliverooIcon` |
 | `Dell` | `dell` | `DellIcon` |
 | `Delphi` | `delphi` | `DelphiIcon` |
 | `Delta` | `delta` | `DeltaIcon` |
+| `Deluge` | `deluge` | `DelugeIcon` |
 | `Deno` | `deno` | `DenoIcon` |
+| `Denon` | `denon` | `DenonIcon` |
 | `Dependabot` | `dependabot` | `DependabotIcon` |
+| `Depositphotos` | `depositphotos` | `DepositphotosIcon` |
 | `Der Spiegel` | `derspiegel` | `DerspiegelIcon` |
-| `Designer News` | `designernews` | `DesignernewsIcon` |
 | `Deutsche Bahn` | `deutschebahn` | `DeutschebahnIcon` |
 | `Deutsche Bank` | `deutschebank` | `DeutschebankIcon` |
+| `Deutsche Post` | `deutschepost` | `DeutschepostIcon` |
+| `Deutsche Telekom` | `deutschetelekom` | `DeutschetelekomIcon` |
+| `Deutsche Welle` | `deutschewelle` | `DeutschewelleIcon` |
 | `DevExpress` | `devexpress` | `DevexpressIcon` |
+| `Devbox` | `devbox` | `DevboxIcon` |
 | `DeviantArt` | `deviantart` | `DeviantartIcon` |
 | `Devpost` | `devpost` | `DevpostIcon` |
 | `Dgraph` | `dgraph` | `DgraphIcon` |
 | `Dialogflow` | `dialogflow` | `DialogflowIcon` |
 | `Diaspora` | `diaspora` | `DiasporaIcon` |
+| `Dictionary.com` | `dictionarydotcom` | `DictionarydotcomIcon` |
 | `Digg` | `digg` | `DiggIcon` |
 | `Digi-Key Electronics` | `digikeyelectronics` | `DigikeyelectronicsIcon` |
 | `DigitalOcean` | `digitalocean` | `DigitaloceanIcon` |
+| `Diners Club` | `dinersclub` | `DinersclubIcon` |
 | `Dior` | `dior` | `DiorIcon` |
 | `Directus` | `directus` | `DirectusIcon` |
 | `Discogs` | `discogs` | `DiscogsIcon` |
@@ -521,174 +760,265 @@
 | `Discover` | `discover` | `DiscoverIcon` |
 | `Disqus` | `disqus` | `DisqusIcon` |
 | `Disroot` | `disroot` | `DisrootIcon` |
+| `Distrokid` | `distrokid` | `DistrokidIcon` |
 | `Django` | `django` | `DjangoIcon` |
 | `Dlib` | `dlib` | `DlibIcon` |
 | `Docker` | `docker` | `DockerIcon` |
-| `DocuSign` | `docusign` | `DocusignIcon` |
+| `Docs.rs` | `docsdotrs` | `DocsdotrsIcon` |
+| `Docsify` | `docsify` | `DocsifyIcon` |
+| `Doctrine` | `doctrine` | `DoctrineIcon` |
+| `Docusaurus` | `docusaurus` | `DocusaurusIcon` |
 | `Dogecoin` | `dogecoin` | `DogecoinIcon` |
 | `Dolby` | `dolby` | `DolbyIcon` |
 | `DoorDash` | `doordash` | `DoordashIcon` |
+| `Dota 2` | `dota2` | `Dota2Icon` |
 | `Douban` | `douban` | `DoubanIcon` |
 | `Douban Read` | `doubanread` | `DoubanreadIcon` |
+| `Dovecot` | `dovecot` | `DovecotIcon` |
+| `Dovetail` | `dovetail` | `DovetailIcon` |
+| `Downdetector` | `downdetector` | `DowndetectorIcon` |
+| `Doxygen` | `doxygen` | `DoxygenIcon` |
+| `Dragonframe` | `dragonframe` | `DragonframeIcon` |
 | `Draugiem.lv` | `draugiemdotlv` | `DraugiemdotlvIcon` |
+| `Dreamstime` | `dreamstime` | `DreamstimeIcon` |
 | `Dribbble` | `dribbble` | `DribbbleIcon` |
+| `Drizzle` | `drizzle` | `DrizzleIcon` |
 | `Drone` | `drone` | `DroneIcon` |
 | `Drooble` | `drooble` | `DroobleIcon` |
 | `Dropbox` | `dropbox` | `DropboxIcon` |
 | `Drupal` | `drupal` | `DrupalIcon` |
+| `Ducati` | `ducati` | `DucatiIcon` |
+| `DuckDB` | `duckdb` | `DuckdbIcon` |
 | `DuckDuckGo` | `duckduckgo` | `DuckduckgoIcon` |
 | `Dungeons & Dragons` | `dungeonsanddragons` | `DungeonsanddragonsIcon` |
 | `Dunked` | `dunked` | `DunkedIcon` |
+| `Dunzo` | `dunzo` | `DunzoIcon` |
 | `Duolingo` | `duolingo` | `DuolingoIcon` |
-| `Dynamics 365` | `dynamics365` | `Dynamics365Icon` |
+| `Duplicati` | `duplicati` | `DuplicatiIcon` |
 | `Dynatrace` | `dynatrace` | `DynatraceIcon` |
 | `E.Leclerc` | `edotleclerc` | `EdotleclercIcon` |
+| `E3` | `e3` | `E3Icon` |
 | `EA` | `ea` | `EaIcon` |
+| `EAC` | `eac` | `EacIcon` |
+| `EBOX` | `ebox` | `EboxIcon` |
 | `EDEKA` | `edeka` | `EdekaIcon` |
+| `EJS` | `ejs` | `EjsIcon` |
 | `EPEL` | `epel` | `EpelIcon` |
+| `ERPNext` | `erpnext` | `ErpnextIcon` |
 | `ESEA` | `esea` | `EseaIcon` |
 | `ESLGaming` | `eslgaming` | `EslgamingIcon` |
 | `ESLint` | `eslint` | `EslintIcon` |
 | `ESPHome` | `esphome` | `EsphomeIcon` |
+| `ESRI` | `esri` | `EsriIcon` |
 | `Eagle` | `eagle` | `EagleIcon` |
+| `EasyEDA` | `easyeda` | `EasyedaIcon` |
+| `Eclipse Adoptium` | `eclipseadoptium` | `EclipseadoptiumIcon` |
 | `Eclipse Che` | `eclipseche` | `EclipsecheIcon` |
 | `Eclipse IDE` | `eclipseide` | `EclipseideIcon` |
 | `Eclipse Jetty` | `eclipsejetty` | `EclipsejettyIcon` |
 | `Eclipse Mosquitto` | `eclipsemosquitto` | `EclipsemosquittoIcon` |
 | `Eclipse Vert.x` | `eclipsevertdotx` | `EclipsevertdotxIcon` |
+| `Ecosia` | `ecosia` | `EcosiaIcon` |
+| `Ecovacs` | `ecovacs` | `EcovacsIcon` |
+| `Edge Impulse` | `edgeimpulse` | `EdgeimpulseIcon` |
 | `EditorConfig` | `editorconfig` | `EditorconfigIcon` |
+| `Educative` | `educative` | `EducativeIcon` |
 | `Egnyte` | `egnyte` | `EgnyteIcon` |
+| `Eight` | `eight` | `EightIcon` |
 | `Eight Sleep` | `eightsleep` | `EightsleepIcon` |
-| `El Jueves` | `eljueves` | `EljuevesIcon` |
 | `Elastic` | `elastic` | `ElasticIcon` |
 | `Elastic Cloud` | `elasticcloud` | `ElasticcloudIcon` |
 | `Elastic Stack` | `elasticstack` | `ElasticstackIcon` |
 | `Elasticsearch` | `elasticsearch` | `ElasticsearchIcon` |
+| `Elavon` | `elavon` | `ElavonIcon` |
 | `Electron` | `electron` | `ElectronIcon` |
+| `Electron Fiddle` | `electronfiddle` | `ElectronfiddleIcon` |
+| `Elegoo` | `elegoo` | `ElegooIcon` |
 | `Element` | `element` | `ElementIcon` |
+| `Elementor` | `elementor` | `ElementorIcon` |
+| `ElevenLabs` | `elevenlabs` | `ElevenlabsIcon` |
 | `Eleventy` | `eleventy` | `EleventyIcon` |
+| `Elgato` | `elgato` | `ElgatoIcon` |
 | `Elixir` | `elixir` | `ElixirIcon` |
-| `Ello` | `ello` | `ElloIcon` |
 | `Elm` | `elm` | `ElmIcon` |
 | `Elsevier` | `elsevier` | `ElsevierIcon` |
 | `Embarcadero` | `embarcadero` | `EmbarcaderoIcon` |
+| `Embark` | `embark` | `EmbarkIcon` |
 | `Ember.js` | `emberdotjs` | `EmberdotjsIcon` |
 | `Emby` | `emby` | `EmbyIcon` |
 | `Emirates` | `emirates` | `EmiratesIcon` |
 | `Emlakjet` | `emlakjet` | `EmlakjetIcon` |
 | `Empire Kred` | `empirekred` | `EmpirekredIcon` |
+| `EndeavourOS` | `endeavouros` | `EndeavourosIcon` |
+| `Engadget` | `engadget` | `EngadgetIcon` |
 | `Enpass` | `enpass` | `EnpassIcon` |
+| `EnterpriseDB` | `enterprisedb` | `EnterprisedbIcon` |
 | `Envato` | `envato` | `EnvatoIcon` |
+| `Envoy Proxy` | `envoyproxy` | `EnvoyproxyIcon` |
 | `Epic Games` | `epicgames` | `EpicgamesIcon` |
 | `Epson` | `epson` | `EpsonIcon` |
 | `Equinix Metal` | `equinixmetal` | `EquinixmetalIcon` |
+| `Eraser` | `eraser` | `EraserIcon` |
+| `Ericsson` | `ericsson` | `EricssonIcon` |
 | `Erlang` | `erlang` | `ErlangIcon` |
+| `Esoteric Software` | `esotericsoftware` | `EsotericsoftwareIcon` |
 | `Espressif` | `espressif` | `EspressifIcon` |
 | `Ethereum` | `ethereum` | `EthereumIcon` |
+| `Ethers` | `ethers` | `EthersIcon` |
 | `Ethiopian Airlines` | `ethiopianairlines` | `EthiopianairlinesIcon` |
 | `Etihad Airways` | `etihadairways` | `EtihadairwaysIcon` |
 | `Etsy` | `etsy` | `EtsyIcon` |
+| `European Union` | `europeanunion` | `EuropeanunionIcon` |
 | `Event Store` | `eventstore` | `EventstoreIcon` |
 | `Eventbrite` | `eventbrite` | `EventbriteIcon` |
 | `Evernote` | `evernote` | `EvernoteIcon` |
+| `Excalidraw` | `excalidraw` | `ExcalidrawIcon` |
 | `Exercism` | `exercism` | `ExercismIcon` |
 | `Exordo` | `exordo` | `ExordoIcon` |
 | `Exoscale` | `exoscale` | `ExoscaleIcon` |
+| `Expedia` | `expedia` | `ExpediaIcon` |
 | `Expensify` | `expensify` | `ExpensifyIcon` |
 | `Experts Exchange` | `expertsexchange` | `ExpertsexchangeIcon` |
 | `Expo` | `expo` | `ExpoIcon` |
 | `Express` | `express` | `ExpressIcon` |
+| `Express.com` | `expressdotcom` | `ExpressdotcomIcon` |
 | `ExpressVPN` | `expressvpn` | `ExpressvpnIcon` |
 | `EyeEm` | `eyeem` | `EyeemIcon` |
+| `F#` | `fsharp` | `FsharpIcon` |
 | `F-Droid` | `fdroid` | `FdroidIcon` |
 | `F-Secure` | `fsecure` | `FsecureIcon` |
+| `F1` | `f1` | `F1Icon` |
+| `F5` | `f5` | `F5Icon` |
 | `FACEIT` | `faceit` | `FaceitIcon` |
 | `FARFETCH` | `farfetch` | `FarfetchIcon` |
+| `FCC` | `fcc` | `FccIcon` |
 | `FFmpeg` | `ffmpeg` | `FfmpegIcon` |
 | `FIFA` | `fifa` | `FifaIcon` |
 | `FIRST` | `first` | `FirstIcon` |
-| `FITE` | `fite` | `FiteIcon` |
 | `FMOD` | `fmod` | `FmodIcon` |
+| `FOX` | `fox` | `FoxIcon` |
 | `Facebook` | `facebook` | `FacebookIcon` |
 | `Facebook Gaming` | `facebookgaming` | `FacebookgamingIcon` |
 | `Facebook Live` | `facebooklive` | `FacebookliveIcon` |
 | `Facepunch` | `facepunch` | `FacepunchIcon` |
+| `Fairphone` | `fairphone` | `FairphoneIcon` |
+| `Falco` | `falco` | `FalcoIcon` |
 | `Falcon` | `falcon` | `FalconIcon` |
 | `FamPay` | `fampay` | `FampayIcon` |
 | `Fandango` | `fandango` | `FandangoIcon` |
 | `Fandom` | `fandom` | `FandomIcon` |
+| `Fanfou` | `fanfou` | `FanfouIcon` |
+| `Fantom` | `fantom` | `FantomIcon` |
+| `Farcaster` | `farcaster` | `FarcasterIcon` |
+| `FareHarbor` | `fareharbor` | `FareharborIcon` |
 | `FastAPI` | `fastapi` | `FastapiIcon` |
 | `Fastify` | `fastify` | `FastifyIcon` |
 | `Fastlane` | `fastlane` | `FastlaneIcon` |
 | `Fastly` | `fastly` | `FastlyIcon` |
 | `Fathom` | `fathom` | `FathomIcon` |
+| `Fauna` | `fauna` | `FaunaIcon` |
 | `Favro` | `favro` | `FavroIcon` |
-| `FeatHub` | `feathub` | `FeathubIcon` |
 | `FedEx` | `fedex` | `FedexIcon` |
 | `Fedora` | `fedora` | `FedoraIcon` |
 | `Feedly` | `feedly` | `FeedlyIcon` |
 | `Ferrari` | `ferrari` | `FerrariIcon` |
 | `Ferrari N.V.` | `ferrarinv` | `FerrarinvIcon` |
+| `FerretDB` | `ferretdb` | `FerretdbIcon` |
+| `Fi` | `fi` | `FiIcon` |
 | `Fiat` | `fiat` | `FiatIcon` |
 | `Fido Alliance` | `fidoalliance` | `FidoallianceIcon` |
+| `Fig` | `fig` | `FigIcon` |
 | `Figma` | `figma` | `FigmaIcon` |
 | `Fila` | `fila` | `FilaIcon` |
+| `Filament` | `filament` | `FilamentIcon` |
+| `File.io` | `filedotio` | `FiledotioIcon` |
 | `FileZilla` | `filezilla` | `FilezillaIcon` |
+| `Filen` | `filen` | `FilenIcon` |
 | `Files` | `files` | `FilesIcon` |
+| `Fineco` | `fineco` | `FinecoIcon` |
 | `Fing` | `fing` | `FingIcon` |
 | `Firebase` | `firebase` | `FirebaseIcon` |
+| `Firefish` | `firefish` | `FirefishIcon` |
+| `Firefly III` | `fireflyiii` | `FireflyiiiIcon` |
 | `Firefox` | `firefox` | `FirefoxIcon` |
 | `Firefox Browser` | `firefoxbrowser` | `FirefoxbrowserIcon` |
+| `Fireship` | `fireship` | `FireshipIcon` |
+| `Firewalla` | `firewalla` | `FirewallaIcon` |
 | `Fitbit` | `fitbit` | `FitbitIcon` |
 | `FiveM` | `fivem` | `FivemIcon` |
 | `Fiverr` | `fiverr` | `FiverrIcon` |
+| `Fizz` | `fizz` | `FizzIcon` |
+| `Flashforge` | `flashforge` | `FlashforgeIcon` |
 | `Flask` | `flask` | `FlaskIcon` |
 | `Flat` | `flat` | `FlatIcon` |
 | `Flathub` | `flathub` | `FlathubIcon` |
-| `Flattr` | `flattr` | `FlattrIcon` |
+| `Flatpak` | `flatpak` | `FlatpakIcon` |
 | `Flickr` | `flickr` | `FlickrIcon` |
+| `Flightaware` | `flightaware` | `FlightawareIcon` |
 | `Flipboard` | `flipboard` | `FlipboardIcon` |
 | `Flipkart` | `flipkart` | `FlipkartIcon` |
 | `Floatplane` | `floatplane` | `FloatplaneIcon` |
 | `Flood` | `flood` | `FloodIcon` |
 | `Fluent Bit` | `fluentbit` | `FluentbitIcon` |
 | `Fluentd` | `fluentd` | `FluentdIcon` |
+| `Fluke` | `fluke` | `FlukeIcon` |
 | `Flutter` | `flutter` | `FlutterIcon` |
+| `Flux` | `flux` | `FluxIcon` |
+| `Fly.io` | `flydotio` | `FlydotioIcon` |
 | `Flyway` | `flyway` | `FlywayIcon` |
 | `Fnac` | `fnac` | `FnacIcon` |
 | `Folium` | `folium` | `FoliumIcon` |
 | `Fonoma` | `fonoma` | `FonomaIcon` |
 | `Font Awesome` | `fontawesome` | `FontawesomeIcon` |
 | `FontBase` | `fontbase` | `FontbaseIcon` |
+| `FontForge` | `fontforge` | `FontforgeIcon` |
 | `Ford` | `ford` | `FordIcon` |
-| `Forestry` | `forestry` | `ForestryIcon` |
+| `Forgejo` | `forgejo` | `ForgejoIcon` |
+| `Formik` | `formik` | `FormikIcon` |
+| `Formspree` | `formspree` | `FormspreeIcon` |
 | `Formstack` | `formstack` | `FormstackIcon` |
 | `Fortinet` | `fortinet` | `FortinetIcon` |
+| `Fortnite` | `fortnite` | `FortniteIcon` |
 | `Fortran` | `fortran` | `FortranIcon` |
 | `Fossa` | `fossa` | `FossaIcon` |
 | `Fossil SCM` | `fossilscm` | `FossilscmIcon` |
+| `Foundry Virtual Tabletop` | `foundryvirtualtabletop` | `FoundryvirtualtabletopIcon` |
 | `Foursquare` | `foursquare` | `FoursquareIcon` |
-| `Foursquare City Guide` | `foursquarecityguide` | `FoursquarecityguideIcon` |
 | `Foxtel` | `foxtel` | `FoxtelIcon` |
 | `Fozzy` | `fozzy` | `FozzyIcon` |
 | `Framer` | `framer` | `FramerIcon` |
+| `Framework` | `framework` | `FrameworkIcon` |
 | `Framework7` | `framework7` | `Framework7Icon` |
 | `Franprix` | `franprix` | `FranprixIcon` |
+| `Frappe` | `frappe` | `FrappeIcon` |
 | `Fraunhofer-Gesellschaft` | `fraunhofergesellschaft` | `FraunhofergesellschaftIcon` |
 | `FreeBSD` | `freebsd` | `FreebsdIcon` |
+| `FreeCAD` | `freecad` | `FreecadIcon` |
 | `FreeNAS` | `freenas` | `FreenasIcon` |
+| `FreeTube` | `freetube` | `FreetubeIcon` |
 | `Freelancer` | `freelancer` | `FreelancerIcon` |
+| `Freepik` | `freepik` | `FreepikIcon` |
+| `Fresh` | `fresh` | `FreshIcon` |
 | `Frontend Mentor` | `frontendmentor` | `FrontendmentorIcon` |
+| `Frontify` | `frontify` | `FrontifyIcon` |
+| `Fubo` | `fubo` | `FuboIcon` |
+| `Fueler` | `fueler` | `FuelerIcon` |
+| `Fuga Cloud` | `fugacloud` | `FugacloudIcon` |
 | `Fujifilm` | `fujifilm` | `FujifilmIcon` |
 | `Fujitsu` | `fujitsu` | `FujitsuIcon` |
-| `Funimation` | `funimation` | `FunimationIcon` |
 | `Fur Affinity` | `furaffinity` | `FuraffinityIcon` |
 | `Furry Network` | `furrynetwork` | `FurrynetworkIcon` |
+| `FusionAuth` | `fusionauth` | `FusionauthIcon` |
 | `FutureLearn` | `futurelearn` | `FuturelearnIcon` |
+| `Fyle` | `fyle` | `FyleIcon` |
 | `G2` | `g2` | `G2Icon` |
 | `G2A` | `g2a` | `G2aIcon` |
+| `G2G` | `g2g` | `G2gIcon` |
+| `GDAL` | `gdal` | `GdalIcon` |
 | `GIMP` | `gimp` | `GimpIcon` |
 | `GIPHY` | `giphy` | `GiphyIcon` |
+| `GL.iNet` | `gldotinet` | `GldotinetIcon` |
+| `GMX` | `gmx` | `GmxIcon` |
 | `GNOME` | `gnome` | `GnomeIcon` |
 | `GNOME Terminal` | `gnometerminal` | `GnometerminalIcon` |
 | `GNU` | `gnu` | `GnuIcon` |
@@ -698,37 +1028,59 @@
 | `GNU Privacy Guard` | `gnuprivacyguard` | `GnuprivacyguardIcon` |
 | `GNU social` | `gnusocial` | `GnusocialIcon` |
 | `GOG.com` | `gogdotcom` | `GogdotcomIcon` |
-| `Game & Watch` | `gameandwatch` | `GameandwatchIcon` |
+| `GSK` | `gsk` | `GskIcon` |
+| `GSMA` | `gsma` | `GsmaIcon` |
+| `GSMArena.com` | `gsmarenadotcom` | `GsmarenadotcomIcon` |
+| `GStreamer` | `gstreamer` | `GstreamerIcon` |
+| `GTK` | `gtk` | `GtkIcon` |
+| `Galaxus` | `galaxus` | `GalaxusIcon` |
+| `Game Developer` | `gamedeveloper` | `GamedeveloperIcon` |
 | `Game Jolt` | `gamejolt` | `GamejoltIcon` |
+| `Game Science` | `gamescience` | `GamescienceIcon` |
+| `GameBanana` | `gamebanana` | `GamebananaIcon` |
+| `Gameloft` | `gameloft` | `GameloftIcon` |
+| `Gamemaker` | `gamemaker` | `GamemakerIcon` |
+| `Gandi` | `gandi` | `GandiIcon` |
 | `Garmin` | `garmin` | `GarminIcon` |
 | `Gatling` | `gatling` | `GatlingIcon` |
 | `Gatsby` | `gatsby` | `GatsbyIcon` |
+| `Gcore` | `gcore` | `GcoreIcon` |
 | `GeeksforGeeks` | `geeksforgeeks` | `GeeksforgeeksIcon` |
 | `General Electric` | `generalelectric` | `GeneralelectricIcon` |
 | `General Motors` | `generalmotors` | `GeneralmotorsIcon` |
 | `Genius` | `genius` | `GeniusIcon` |
 | `Gentoo` | `gentoo` | `GentooIcon` |
+| `GeoPandas` | `geopandas` | `GeopandasIcon` |
 | `Geocaching` | `geocaching` | `GeocachingIcon` |
+| `Geode` | `geode` | `GeodeIcon` |
 | `Gerrit` | `gerrit` | `GerritIcon` |
+| `GetX` | `getx` | `GetxIcon` |
 | `Ghost` | `ghost` | `GhostIcon` |
 | `Ghostery` | `ghostery` | `GhosteryIcon` |
+| `Gin` | `gin` | `GinIcon` |
 | `Git` | `git` | `GitIcon` |
 | `Git Extensions` | `gitextensions` | `GitextensionsIcon` |
 | `Git LFS` | `gitlfs` | `GitlfsIcon` |
+| `Git for Windows` | `gitforwindows` | `GitforwindowsIcon` |
 | `GitBook` | `gitbook` | `GitbookIcon` |
 | `GitHub` | `github` | `GithubIcon` |
 | `GitHub Actions` | `githubactions` | `GithubactionsIcon` |
+| `GitHub Copilot` | `githubcopilot` | `GithubcopilotIcon` |
 | `GitHub Pages` | `githubpages` | `GithubpagesIcon` |
 | `GitHub Sponsors` | `githubsponsors` | `GithubsponsorsIcon` |
 | `GitKraken` | `gitkraken` | `GitkrakenIcon` |
 | `GitLab` | `gitlab` | `GitlabIcon` |
+| `Gitconnected` | `gitconnected` | `GitconnectedIcon` |
 | `Gitea` | `gitea` | `GiteaIcon` |
 | `Gitee` | `gitee` | `GiteeIcon` |
 | `Gitpod` | `gitpod` | `GitpodIcon` |
 | `Gitter` | `gitter` | `GitterIcon` |
 | `Glassdoor` | `glassdoor` | `GlassdoorIcon` |
+| `Gleam` | `gleam` | `GleamIcon` |
+| `Glide` | `glide` | `GlideIcon` |
 | `Glitch` | `glitch` | `GlitchIcon` |
 | `Globus` | `globus` | `GlobusIcon` |
+| `Glovo` | `glovo` | `GlovoIcon` |
 | `Gmail` | `gmail` | `GmailIcon` |
 | `Go` | `go` | `GoIcon` |
 | `GoCD` | `gocd` | `GocdIcon` |
@@ -737,76 +1089,117 @@
 | `GoLand` | `goland` | `GolandIcon` |
 | `GoToMeeting` | `gotomeeting` | `GotomeetingIcon` |
 | `Godot Engine` | `godotengine` | `GodotengineIcon` |
+| `Gojek` | `gojek` | `GojekIcon` |
 | `GoldenLine` | `goldenline` | `GoldenlineIcon` |
+| `Goldman Sachs` | `goldmansachs` | `GoldmansachsIcon` |
 | `Goodreads` | `goodreads` | `GoodreadsIcon` |
 | `Google` | `google` | `GoogleIcon` |
+| `Google AdMob` | `googleadmob` | `GoogleadmobIcon` |
 | `Google AdSense` | `googleadsense` | `GoogleadsenseIcon` |
 | `Google Ads` | `googleads` | `GoogleadsIcon` |
 | `Google Analytics` | `googleanalytics` | `GoogleanalyticsIcon` |
+| `Google Apps Script` | `googleappsscript` | `GoogleappsscriptIcon` |
 | `Google Assistant` | `googleassistant` | `GoogleassistantIcon` |
+| `Google Authenticator` | `googleauthenticator` | `GoogleauthenticatorIcon` |
+| `Google BigQuery` | `googlebigquery` | `GooglebigqueryIcon` |
+| `Google Bigtable` | `googlebigtable` | `GooglebigtableIcon` |
 | `Google Calendar` | `googlecalendar` | `GooglecalendarIcon` |
+| `Google Campaign Manager 360` | `googlecampaignmanager360` | `Googlecampaignmanager360Icon` |
 | `Google Cardboard` | `googlecardboard` | `GooglecardboardIcon` |
 | `Google Chat` | `googlechat` | `GooglechatIcon` |
 | `Google Chrome` | `googlechrome` | `GooglechromeIcon` |
+| `Google Chronicle` | `googlechronicle` | `GooglechronicleIcon` |
 | `Google Classroom` | `googleclassroom` | `GoogleclassroomIcon` |
 | `Google Cloud` | `googlecloud` | `GooglecloudIcon` |
+| `Google Cloud Composer` | `googlecloudcomposer` | `GooglecloudcomposerIcon` |
+| `Google Cloud Spanner` | `googlecloudspanner` | `GooglecloudspannerIcon` |
+| `Google Cloud Storage` | `googlecloudstorage` | `GooglecloudstorageIcon` |
 | `Google Colab` | `googlecolab` | `GooglecolabIcon` |
-| `Google Domains` | `googledomains` | `GoogledomainsIcon` |
+| `Google Container Optimized OS` | `googlecontaineroptimizedos` | `GooglecontaineroptimizedosIcon` |
+| `Google Data Studio` | `googledatastudio` | `GoogledatastudioIcon` |
+| `Google Dataflow` | `googledataflow` | `GoogledataflowIcon` |
+| `Google Dataproc` | `googledataproc` | `GoogledataprocIcon` |
+| `Google Display & Video 360` | `googledisplayandvideo360` | `Googledisplayandvideo360Icon` |
+| `Google Docs` | `googledocs` | `GoogledocsIcon` |
 | `Google Drive` | `googledrive` | `GoogledriveIcon` |
 | `Google Earth` | `googleearth` | `GoogleearthIcon` |
+| `Google Earth Engine` | `googleearthengine` | `GoogleearthengineIcon` |
 | `Google Fit` | `googlefit` | `GooglefitIcon` |
 | `Google Fonts` | `googlefonts` | `GooglefontsIcon` |
-| `Google Hangouts` | `googlehangouts` | `GooglehangoutsIcon` |
+| `Google Forms` | `googleforms` | `GoogleformsIcon` |
+| `Google Gemini` | `googlegemini` | `GooglegeminiIcon` |
+| `Google Home` | `googlehome` | `GooglehomeIcon` |
 | `Google Keep` | `googlekeep` | `GooglekeepIcon` |
 | `Google Lens` | `googlelens` | `GooglelensIcon` |
 | `Google Maps` | `googlemaps` | `GooglemapsIcon` |
 | `Google Marketing Platform` | `googlemarketingplatform` | `GooglemarketingplatformIcon` |
 | `Google Meet` | `googlemeet` | `GooglemeetIcon` |
 | `Google Messages` | `googlemessages` | `GooglemessagesIcon` |
-| `Google My Business` | `googlemybusiness` | `GooglemybusinessIcon` |
 | `Google Nearby` | `googlenearby` | `GooglenearbyIcon` |
 | `Google News` | `googlenews` | `GooglenewsIcon` |
-| `Google Optimize` | `googleoptimize` | `GoogleoptimizeIcon` |
 | `Google Pay` | `googlepay` | `GooglepayIcon` |
 | `Google Photos` | `googlephotos` | `GooglephotosIcon` |
 | `Google Play` | `googleplay` | `GoogleplayIcon` |
-| `Google Podcasts` | `googlepodcasts` | `GooglepodcastsIcon` |
+| `Google Pub/Sub` | `googlepubsub` | `GooglepubsubIcon` |
 | `Google Scholar` | `googlescholar` | `GooglescholarIcon` |
 | `Google Search Console` | `googlesearchconsole` | `GooglesearchconsoleIcon` |
 | `Google Sheets` | `googlesheets` | `GooglesheetsIcon` |
+| `Google Slides` | `googleslides` | `GoogleslidesIcon` |
 | `Google Street View` | `googlestreetview` | `GooglestreetviewIcon` |
+| `Google TV` | `googletv` | `GoogletvIcon` |
 | `Google Tag Manager` | `googletagmanager` | `GoogletagmanagerIcon` |
+| `Google Tasks` | `googletasks` | `GoogletasksIcon` |
 | `Google Translate` | `googletranslate` | `GoogletranslateIcon` |
 | `Grab` | `grab` | `GrabIcon` |
+| `Gradio` | `gradio` | `GradioIcon` |
 | `Gradle` | `gradle` | `GradleIcon` |
+| `Gradle Play Publisher` | `gradleplaypublisher` | `GradleplaypublisherIcon` |
 | `Grafana` | `grafana` | `GrafanaIcon` |
 | `Grammarly` | `grammarly` | `GrammarlyIcon` |
 | `Grand Frais` | `grandfrais` | `GrandfraisIcon` |
 | `GraphQL` | `graphql` | `GraphqlIcon` |
+| `GrapheneOS` | `grapheneos` | `GrapheneosIcon` |
+| `Graphite` | `graphite` | `GraphiteIcon` |
 | `Grav` | `grav` | `GravIcon` |
 | `Gravatar` | `gravatar` | `GravatarIcon` |
 | `Graylog` | `graylog` | `GraylogIcon` |
+| `Greasy Fork` | `greasyfork` | `GreasyforkIcon` |
+| `Great Learning` | `greatlearning` | `GreatlearningIcon` |
 | `GreenSock` | `greensock` | `GreensockIcon` |
+| `Greenhouse` | `greenhouse` | `GreenhouseIcon` |
 | `Grid.ai` | `griddotai` | `GriddotaiIcon` |
 | `Gridsome` | `gridsome` | `GridsomeIcon` |
+| `Grocy` | `grocy` | `GrocyIcon` |
 | `GroupMe` | `groupme` | `GroupmeIcon` |
 | `Groupon` | `groupon` | `GrouponIcon` |
 | `Grubhub` | `grubhub` | `GrubhubIcon` |
 | `Grunt` | `grunt` | `GruntIcon` |
 | `Guangzhou Metro` | `guangzhoumetro` | `GuangzhoumetroIcon` |
 | `Guilded` | `guilded` | `GuildedIcon` |
+| `Guitar Pro` | `guitarpro` | `GuitarproIcon` |
 | `Gumroad` | `gumroad` | `GumroadIcon` |
 | `Gumtree` | `gumtree` | `GumtreeIcon` |
 | `Gunicorn` | `gunicorn` | `GunicornIcon` |
+| `Gurobi` | `gurobi` | `GurobiIcon` |
+| `Gusto` | `gusto` | `GustoIcon` |
 | `Gutenberg` | `gutenberg` | `GutenbergIcon` |
-| `Géant` | `geant` | `GeantIcon` |
+| `H&M` | `handm` | `HandmIcon` |
+| `H2 Database` | `h2database` | `H2databaseIcon` |
+| `H3` | `h3` | `H3Icon` |
+| `HAL` | `hal` | `HalIcon` |
 | `HBO` | `hbo` | `HboIcon` |
+| `HBO Max` | `hbomax` | `HbomaxIcon` |
 | `HCL` | `hcl` | `HclIcon` |
+| `HDFC Bank` | `hdfcbank` | `HdfcbankIcon` |
 | `HERE` | `here` | `HereIcon` |
 | `HEY` | `hey` | `HeyIcon` |
 | `HP` | `hp` | `HpIcon` |
+| `HSBC` | `hsbc` | `HsbcIcon` |
+| `HTC` | `htc` | `HtcIcon` |
+| `HTC Vive` | `htcvive` | `HtcviveIcon` |
 | `HTML Academy` | `htmlacademy` | `HtmlacademyIcon` |
 | `HTML5` | `html5` | `Html5Icon` |
+| `HTTPie` | `httpie` | `HttpieIcon` |
 | `Habr` | `habr` | `HabrIcon` |
 | `Hack Club` | `hackclub` | `HackclubIcon` |
 | `Hack The Box` | `hackthebox` | `HacktheboxIcon` |
@@ -820,61 +1213,95 @@
 | `Handshake` | `handshake_protocol` | `Handshake_protocolIcon` |
 | `HappyCow` | `happycow` | `HappycowIcon` |
 | `Harbor` | `harbor` | `HarborIcon` |
+| `HarmonyOS` | `harmonyos` | `HarmonyosIcon` |
+| `HashiCorp` | `hashicorp` | `HashicorpIcon` |
 | `Hashnode` | `hashnode` | `HashnodeIcon` |
 | `Haskell` | `haskell` | `HaskellIcon` |
 | `Hasura` | `hasura` | `HasuraIcon` |
 | `Hatena Bookmark` | `hatenabookmark` | `HatenabookmarkIcon` |
+| `Have I Been Pwned` | `haveibeenpwned` | `HaveibeenpwnedIcon` |
 | `Haxe` | `haxe` | `HaxeIcon` |
+| `Headless UI` | `headlessui` | `HeadlessuiIcon` |
+| `Headphone Zone` | `headphonezone` | `HeadphonezoneIcon` |
 | `Headspace` | `headspace` | `HeadspaceIcon` |
+| `Hearth` | `hearth` | `HearthIcon` |
+| `Hedera` | `hedera` | `HederaIcon` |
+| `Helium` | `helium` | `HeliumIcon` |
+| `Helix` | `helix` | `HelixIcon` |
 | `HelloFresh` | `hellofresh` | `HellofreshIcon` |
 | `Helly Hansen` | `hellyhansen` | `HellyhansenIcon` |
 | `Helm` | `helm` | `HelmIcon` |
 | `Help Scout` | `helpscout` | `HelpscoutIcon` |
 | `HelpDesk` | `helpdesk` | `HelpdeskIcon` |
+| `Hepsiemlak` | `hepsiemlak` | `HepsiemlakIcon` |
+| `Hermes` | `hermes` | `HermesIcon` |
 | `Heroku` | `heroku` | `HerokuIcon` |
 | `Hetzner` | `hetzner` | `HetznerIcon` |
+| `Hevy` | `hevy` | `HevyIcon` |
+| `Hexlet` | `hexlet` | `HexletIcon` |
 | `Hexo` | `hexo` | `HexoIcon` |
+| `Hi Bob` | `hibob` | `HibobIcon` |
 | `Hibernate` | `hibernate` | `HibernateIcon` |
 | `Hilton` | `hilton` | `HiltonIcon` |
+| `Hilton Hotels & Resorts` | `hiltonhotelsandresorts` | `HiltonhotelsandresortsIcon` |
 | `Hitachi` | `hitachi` | `HitachiIcon` |
 | `Hive` | `hive_blockchain` | `Hive_blockchainIcon` |
+| `HiveMQ` | `hivemq` | `HivemqIcon` |
+| `Homarr` | `homarr` | `HomarrIcon` |
 | `Home Assistant` | `homeassistant` | `HomeassistantIcon` |
 | `Home Assistant Community Store` | `homeassistantcommunitystore` | `HomeassistantcommunitystoreIcon` |
 | `HomeAdvisor` | `homeadvisor` | `HomeadvisorIcon` |
 | `Homebrew` | `homebrew` | `HomebrewIcon` |
 | `Homebridge` | `homebridge` | `HomebridgeIcon` |
+| `Homepage` | `homepage` | `HomepageIcon` |
 | `Honda` | `honda` | `HondaIcon` |
+| `Honey` | `honey` | `HoneyIcon` |
+| `Honeybadger` | `honeybadger` | `HoneybadgerIcon` |
+| `Honeygain` | `honeygain` | `HoneygainIcon` |
+| `Hono` | `hono` | `HonoIcon` |
+| `Honor` | `honor` | `HonorIcon` |
 | `Hootsuite` | `hootsuite` | `HootsuiteIcon` |
 | `Hoppscotch` | `hoppscotch` | `HoppscotchIcon` |
+| `Hostinger` | `hostinger` | `HostingerIcon` |
 | `Hotels.com` | `hotelsdotcom` | `HotelsdotcomIcon` |
 | `Hotjar` | `hotjar` | `HotjarIcon` |
+| `Hotwire` | `hotwire` | `HotwireIcon` |
 | `Houdini` | `houdini` | `HoudiniIcon` |
 | `Houzz` | `houzz` | `HouzzIcon` |
 | `Huawei` | `huawei` | `HuaweiIcon` |
 | `HubSpot` | `hubspot` | `HubspotIcon` |
+| `Hugging Face` | `huggingface` | `HuggingfaceIcon` |
 | `Hugo` | `hugo` | `HugoIcon` |
-| `Hulu` | `hulu` | `HuluIcon` |
+| `HumHub` | `humhub` | `HumhubIcon` |
 | `Humble Bundle` | `humblebundle` | `HumblebundleIcon` |
 | `Hungry Jack's` | `hungryjacks` | `HungryjacksIcon` |
-| `Hurriyetemlak` | `hurriyetemlak` | `HurriyetemlakIcon` |
 | `Husqvarna` | `husqvarna` | `HusqvarnaIcon` |
 | `Hyper` | `hyper` | `HyperIcon` |
-| `Hyperledger` | `hyperledger` | `HyperledgerIcon` |
+| `HyperX` | `hyperx` | `HyperxIcon` |
+| `Hyperskill` | `hyperskill` | `HyperskillIcon` |
 | `Hypothesis` | `hypothesis` | `HypothesisIcon` |
+| `Hyprland` | `hyprland` | `HyprlandIcon` |
 | `Hyundai` | `hyundai` | `HyundaiIcon` |
-| `IBM` | `ibm` | `IbmIcon` |
-| `IBM Cloud` | `ibmcloud` | `IbmcloudIcon` |
-| `IBM Watson` | `ibmwatson` | `IbmwatsonIcon` |
+| `IATA` | `iata` | `IataIcon` |
+| `ICICI Bank` | `icicibank` | `IcicibankIcon` |
 | `ICON` | `icon` | `IconIcon` |
 | `ICQ` | `icq` | `IcqIcon` |
 | `IEEE` | `ieee` | `IeeeIcon` |
 | `IFTTT` | `ifttt` | `IftttIcon` |
+| `IGDB` | `igdb` | `IgdbIcon` |
+| `IGN` | `ign` | `IgnIcon` |
 | `IKEA` | `ikea` | `IkeaIcon` |
 | `IMDb` | `imdb` | `ImdbIcon` |
+| `INFINITI` | `infiniti` | `InfinitiIcon` |
+| `INSPIRE` | `inspire` | `InspireIcon` |
 | `IOTA` | `iota` | `IotaIcon` |
 | `IPFS` | `ipfs` | `IpfsIcon` |
+| `IRIS` | `iris` | `IrisIcon` |
+| `ISC2` | `isc2` | `Isc2Icon` |
+| `ITVx` | `itvx` | `ItvxIcon` |
 | `IVECO` | `iveco` | `IvecoIcon` |
-| `Iata` | `iata` | `IataIcon` |
+| `Iberia` | `iberia` | `IberiaIcon` |
+| `Iced` | `iced` | `IcedIcon` |
 | `Iceland` | `iceland` | `IcelandIcon` |
 | `Icinga` | `icinga` | `IcingaIcon` |
 | `IcoMoon` | `icomoon` | `IcomoonIcon` |
@@ -882,33 +1309,49 @@
 | `Iconfinder` | `iconfinder` | `IconfinderIcon` |
 | `Iconify` | `iconify` | `IconifyIcon` |
 | `Icons8` | `icons8` | `Icons8Icon` |
+| `Image.sc` | `imagedotsc` | `ImagedotscIcon` |
 | `ImageJ` | `imagej` | `ImagejIcon` |
 | `Imgur` | `imgur` | `ImgurIcon` |
 | `Immer` | `immer` | `ImmerIcon` |
+| `Immich` | `immich` | `ImmichIcon` |
 | `Imou` | `imou` | `ImouIcon` |
+| `ImprovMX` | `improvmx` | `ImprovmxIcon` |
 | `InVision` | `invision` | `InvisionIcon` |
 | `Indeed` | `indeed` | `IndeedIcon` |
-| `Infiniti` | `infiniti` | `InfinitiIcon` |
+| `IndiGo` | `indigo` | `IndigoIcon` |
+| `Indian Super League` | `indiansuperleague` | `IndiansuperleagueIcon` |
+| `Indie Hackers` | `indiehackers` | `IndiehackersIcon` |
+| `Inductive Automation` | `inductiveautomation` | `InductiveautomationIcon` |
+| `Inertia` | `inertia` | `InertiaIcon` |
 | `InfluxDB` | `influxdb` | `InfluxdbIcon` |
+| `InfoQ` | `infoq` | `InfoqIcon` |
+| `Infomaniak` | `infomaniak` | `InfomaniakIcon` |
 | `Informatica` | `informatica` | `InformaticaIcon` |
 | `Infosys` | `infosys` | `InfosysIcon` |
+| `Infracost` | `infracost` | `InfracostIcon` |
 | `Ingress` | `ingress` | `IngressIcon` |
+| `Inkdrop` | `inkdrop` | `InkdropIcon` |
 | `Inkscape` | `inkscape` | `InkscapeIcon` |
+| `Inoreader` | `inoreader` | `InoreaderIcon` |
 | `Insomnia` | `insomnia` | `InsomniaIcon` |
+| `Insta360` | `insta360` | `Insta360Icon` |
 | `Instacart` | `instacart` | `InstacartIcon` |
 | `Instagram` | `instagram` | `InstagramIcon` |
 | `Instapaper` | `instapaper` | `InstapaperIcon` |
 | `Instatus` | `instatus` | `InstatusIcon` |
 | `Instructables` | `instructables` | `InstructablesIcon` |
-| `Integromat` | `integromat` | `IntegromatIcon` |
+| `Instructure` | `instructure` | `InstructureIcon` |
 | `Intel` | `intel` | `IntelIcon` |
 | `IntelliJ IDEA` | `intellijidea` | `IntellijideaIcon` |
 | `InteractJS` | `interactjs` | `InteractjsIcon` |
+| `Interaction Design Foundation` | `interactiondesignfoundation` | `InteractiondesignfoundationIcon` |
+| `Interbase` | `interbase` | `InterbaseIcon` |
 | `Intercom` | `intercom` | `IntercomIcon` |
 | `Intermarche` | `intermarche` | `IntermarcheIcon` |
 | `Internet Archive` | `internetarchive` | `InternetarchiveIcon` |
-| `Internet Explorer` | `internetexplorer` | `InternetexplorerIcon` |
+| `Internet Computer` | `internetcomputer` | `InternetcomputerIcon` |
 | `Intigriti` | `intigriti` | `IntigritiIcon` |
+| `Intuit` | `intuit` | `IntuitIcon` |
 | `Invoice Ninja` | `invoiceninja` | `InvoiceninjaIcon` |
 | `Ionic` | `ionic` | `IonicIcon` |
 | `Ionos` | `ionos` | `IonosIcon` |
@@ -919,38 +1362,48 @@
 | `JCB` | `jcb` | `JcbIcon` |
 | `JET` | `jet` | `JetIcon` |
 | `JFrog` | `jfrog` | `JfrogIcon` |
-| `JFrog Bintray` | `jfrogbintray` | `JfrogbintrayIcon` |
+| `JFrog Pipelines` | `jfrogpipelines` | `JfrogpipelinesIcon` |
+| `JHipster` | `jhipster` | `JhipsterIcon` |
+| `JOUAV` | `jouav` | `JouavIcon` |
 | `JPEG` | `jpeg` | `JpegIcon` |
 | `JR Group` | `jrgroup` | `JrgroupIcon` |
 | `JSFiddle` | `jsfiddle` | `JsfiddleIcon` |
 | `JSON` | `json` | `JsonIcon` |
 | `JSON Web Tokens` | `jsonwebtokens` | `JsonwebtokensIcon` |
+| `JSR` | `jsr` | `JsrIcon` |
 | `JSS` | `jss` | `JssIcon` |
+| `JUCE` | `juce` | `JuceIcon` |
+| `JUKE` | `juke` | `JukeIcon` |
 | `JUnit5` | `junit5` | `Junit5Icon` |
 | `Jabber` | `jabber` | `JabberIcon` |
+| `Jaeger` | `jaeger` | `JaegerIcon` |
 | `Jaguar` | `jaguar` | `JaguarIcon` |
 | `Jamboard` | `jamboard` | `JamboardIcon` |
 | `Jameson` | `jameson` | `JamesonIcon` |
 | `Jamstack` | `jamstack` | `JamstackIcon` |
+| `Japan Airlines` | `japanairlines` | `JapanairlinesIcon` |
 | `Jasmine` | `jasmine` | `JasmineIcon` |
-| `Java` | `java` | `JavaIcon` |
 | `JavaScript` | `javascript` | `JavascriptIcon` |
 | `Jeep` | `jeep` | `JeepIcon` |
 | `Jekyll` | `jekyll` | `JekyllIcon` |
 | `Jellyfin` | `jellyfin` | `JellyfinIcon` |
 | `Jenkins` | `jenkins` | `JenkinsIcon` |
-| `Jenkins X` | `jenkinsx` | `JenkinsxIcon` |
 | `Jest` | `jest` | `JestIcon` |
+| `JetBlue` | `jetblue` | `JetblueIcon` |
 | `JetBrains` | `jetbrains` | `JetbrainsIcon` |
 | `Jetpack Compose` | `jetpackcompose` | `JetpackcomposeIcon` |
 | `Jinja` | `jinja` | `JinjaIcon` |
+| `Jio` | `jio` | `JioIcon` |
 | `Jira` | `jira` | `JiraIcon` |
 | `Jira Software` | `jirasoftware` | `JirasoftwareIcon` |
+| `JitPack` | `jitpack` | `JitpackIcon` |
 | `Jitsi` | `jitsi` | `JitsiIcon` |
 | `John Deere` | `johndeere` | `JohndeereIcon` |
 | `Joomla` | `joomla` | `JoomlaIcon` |
 | `Joplin` | `joplin` | `JoplinIcon` |
 | `Jordan` | `jordan` | `JordanIcon` |
+| `Jovian` | `jovian` | `JovianIcon` |
+| `Juejin` | `juejin` | `JuejinIcon` |
 | `Julia` | `julia` | `JuliaIcon` |
 | `Juniper Networks` | `junipernetworks` | `JunipernetworksIcon` |
 | `Jupyter` | `jupyter` | `JupyterIcon` |
@@ -958,72 +1411,111 @@
 | `JustGiving` | `justgiving` | `JustgivingIcon` |
 | `K3s` | `k3s` | `K3sIcon` |
 | `KDE` | `kde` | `KdeIcon` |
+| `KDE Plasma` | `kdeplasma` | `KdeplasmaIcon` |
+| `KDE neon` | `kdeneon` | `KdeneonIcon` |
 | `KFC` | `kfc` | `KfcIcon` |
 | `KLM` | `klm` | `KlmIcon` |
+| `KNIME` | `knime` | `KnimeIcon` |
 | `KTM` | `ktm` | `KtmIcon` |
+| `KX` | `kx` | `KxIcon` |
 | `Kaggle` | `kaggle` | `KaggleIcon` |
+| `Kagi` | `kagi` | `KagiIcon` |
 | `Kahoot!` | `kahoot` | `KahootIcon` |
 | `KaiOS` | `kaios` | `KaiosIcon` |
 | `Kakao` | `kakao` | `KakaoIcon` |
 | `KakaoTalk` | `kakaotalk` | `KakaotalkIcon` |
 | `Kali Linux` | `kalilinux` | `KalilinuxIcon` |
+| `Kamailio` | `kamailio` | `KamailioIcon` |
 | `Kaniko` | `kaniko` | `KanikoIcon` |
 | `Karlsruher Verkehrsverbund` | `karlsruherverkehrsverbund` | `KarlsruherverkehrsverbundIcon` |
 | `Kasa Smart` | `kasasmart` | `KasasmartIcon` |
 | `KashFlow` | `kashflow` | `KashflowIcon` |
 | `Kaspersky` | `kaspersky` | `KasperskyIcon` |
-| `Katacoda` | `katacoda` | `KatacodaIcon` |
 | `Katana` | `katana` | `KatanaIcon` |
 | `Kaufland` | `kaufland` | `KauflandIcon` |
 | `Kdenlive` | `kdenlive` | `KdenliveIcon` |
+| `Kedro` | `kedro` | `KedroIcon` |
 | `KeePassXC` | `keepassxc` | `KeepassxcIcon` |
+| `KeeWeb` | `keeweb` | `KeewebIcon` |
+| `Keenetic` | `keenetic` | `KeeneticIcon` |
+| `Keep a Changelog` | `keepachangelog` | `KeepachangelogIcon` |
+| `Keeper` | `keeper` | `KeeperIcon` |
 | `Kentico` | `kentico` | `KenticoIcon` |
 | `Keras` | `keras` | `KerasIcon` |
 | `KeyCDN` | `keycdn` | `KeycdnIcon` |
 | `Keybase` | `keybase` | `KeybaseIcon` |
+| `Keycloak` | `keycloak` | `KeycloakIcon` |
+| `Keystone` | `keystone` | `KeystoneIcon` |
 | `Khan Academy` | `khanacademy` | `KhanacademyIcon` |
 | `Khronos Group` | `khronosgroup` | `KhronosgroupIcon` |
+| `KiCad` | `kicad` | `KicadIcon` |
 | `Kia` | `kia` | `KiaIcon` |
 | `Kibana` | `kibana` | `KibanaIcon` |
+| `Kick` | `kick` | `KickIcon` |
 | `Kickstarter` | `kickstarter` | `KickstarterIcon` |
 | `Kik` | `kik` | `KikIcon` |
 | `Kingston Technology` | `kingstontechnology` | `KingstontechnologyIcon` |
-| `KinoPoisk` | `kinopoisk` | `KinopoiskIcon` |
+| `Kinopoisk` | `kinopoisk` | `KinopoiskIcon` |
+| `Kinsta` | `kinsta` | `KinstaIcon` |
 | `Kirby` | `kirby` | `KirbyIcon` |
+| `Kit` | `kit` | `KitIcon` |
 | `Kitsu` | `kitsu` | `KitsuIcon` |
+| `Kiwix` | `kiwix` | `KiwixIcon` |
 | `Klarna` | `klarna` | `KlarnaIcon` |
+| `Kleinanzeigen` | `kleinanzeigen` | `KleinanzeigenIcon` |
 | `Klook` | `klook` | `KlookIcon` |
+| `Knative` | `knative` | `KnativeIcon` |
+| `Knex.js` | `knexdotjs` | `KnexdotjsIcon` |
+| `Knip` | `knip` | `KnipIcon` |
 | `KnowledgeBase` | `knowledgebase` | `KnowledgebaseIcon` |
 | `Known` | `known` | `KnownIcon` |
 | `Ko-fi` | `kofi` | `KofiIcon` |
 | `Koa` | `koa` | `KoaIcon` |
 | `Koc` | `koc` | `KocIcon` |
+| `Kodak` | `kodak` | `KodakIcon` |
 | `Kodi` | `kodi` | `KodiIcon` |
+| `Koenigsegg` | `koenigsegg` | `KoenigseggIcon` |
 | `Kofax` | `kofax` | `KofaxIcon` |
 | `Komoot` | `komoot` | `KomootIcon` |
 | `Konami` | `konami` | `KonamiIcon` |
+| `Kong` | `kong` | `KongIcon` |
 | `Kongregate` | `kongregate` | `KongregateIcon` |
 | `Konva` | `konva` | `KonvaIcon` |
 | `Kotlin` | `kotlin` | `KotlinIcon` |
+| `Koyeb` | `koyeb` | `KoyebIcon` |
 | `Krita` | `krita` | `KritaIcon` |
+| `Ktor` | `ktor` | `KtorIcon` |
+| `KuCoin` | `kucoin` | `KucoinIcon` |
 | `Kuaishou` | `kuaishou` | `KuaishouIcon` |
 | `Kubernetes` | `kubernetes` | `KubernetesIcon` |
+| `Kubespray` | `kubespray` | `KubesprayIcon` |
 | `Kubuntu` | `kubuntu` | `KubuntuIcon` |
+| `Kueski` | `kueski` | `KueskiIcon` |
 | `Kuma` | `kuma` | `KumaIcon` |
+| `Kununu` | `kununu` | `KununuIcon` |
+| `Kuula` | `kuula` | `KuulaIcon` |
 | `Kyocera` | `kyocera` | `KyoceraIcon` |
+| `L'Équipe` | `lequipe` | `LequipeIcon` |
+| `LADA` | `lada` | `LadaIcon` |
 | `LBRY` | `lbry` | `LbryIcon` |
 | `LG` | `lg` | `LgIcon` |
-| `LGTM` | `lgtm` | `LgtmIcon` |
 | `LIFX` | `lifx` | `LifxIcon` |
 | `LINE` | `line` | `LineIcon` |
+| `LITIENGINE` | `litiengine` | `LitiengineIcon` |
 | `LLVM` | `llvm` | `LlvmIcon` |
 | `LMMS` | `lmms` | `LmmsIcon` |
 | `LOT Polish Airlines` | `lotpolishairlines` | `LotpolishairlinesIcon` |
+| `LTspice` | `ltspice` | `LtspiceIcon` |
+| `LVGL` | `lvgl` | `LvglIcon` |
 | `LaTeX` | `latex` | `LatexIcon` |
 | `LabVIEW` | `labview` | `LabviewIcon` |
-| `Lada` | `lada` | `LadaIcon` |
 | `Lamborghini` | `lamborghini` | `LamborghiniIcon` |
 | `Land Rover` | `landrover` | `LandroverIcon` |
+| `LangChain` | `langchain` | `LangchainIcon` |
+| `LangGraph` | `langgraph` | `LanggraphIcon` |
+| `Langflow` | `langflow` | `LangflowIcon` |
+| `LanguageTool` | `languagetool` | `LanguagetoolIcon` |
+| `Lapce` | `lapce` | `LapceIcon` |
 | `Laragon` | `laragon` | `LaragonIcon` |
 | `Laravel` | `laravel` | `LaravelIcon` |
 | `Laravel Horizon` | `laravelhorizon` | `LaravelhorizonIcon` |
@@ -1031,233 +1523,351 @@
 | `Last.fm` | `lastdotfm` | `LastdotfmIcon` |
 | `LastPass` | `lastpass` | `LastpassIcon` |
 | `Launchpad` | `launchpad` | `LaunchpadIcon` |
+| `Lazarus` | `lazarus` | `LazarusIcon` |
+| `LazyVim` | `lazyvim` | `LazyvimIcon` |
 | `Leader Price` | `leaderprice` | `LeaderpriceIcon` |
 | `Leaflet` | `leaflet` | `LeafletIcon` |
+| `League of Legends` | `leagueoflegends` | `LeagueoflegendsIcon` |
 | `Leanpub` | `leanpub` | `LeanpubIcon` |
 | `LeetCode` | `leetcode` | `LeetcodeIcon` |
+| `Lefthook` | `lefthook` | `LefthookIcon` |
+| `Legacy Games` | `legacygames` | `LegacygamesIcon` |
+| `Leica` | `leica` | `LeicaIcon` |
 | `Lemmy` | `lemmy` | `LemmyIcon` |
+| `Lemon Squeezy` | `lemonsqueezy` | `LemonsqueezyIcon` |
 | `Lenovo` | `lenovo` | `LenovoIcon` |
 | `Lens` | `lens` | `LensIcon` |
+| `Leptos` | `leptos` | `LeptosIcon` |
 | `Lerna` | `lerna` | `LernaIcon` |
 | `Leroy Merlin` | `leroymerlin` | `LeroymerlinIcon` |
+| `Les libraires` | `leslibraires` | `LeslibrairesIcon` |
 | `Less` | `less` | `LessIcon` |
+| `Let's Encrypt` | `letsencrypt` | `LetsencryptIcon` |
 | `Letterboxd` | `letterboxd` | `LetterboxdIcon` |
-| `Let’s Encrypt` | `letsencrypt` | `LetsencryptIcon` |
+| `Li-Ning` | `lining` | `LiningIcon` |
+| `Libera.Chat` | `liberadotchat` | `LiberadotchatIcon` |
 | `Liberapay` | `liberapay` | `LiberapayIcon` |
 | `Libraries.io` | `librariesdotio` | `LibrariesdotioIcon` |
 | `LibraryThing` | `librarything` | `LibrarythingIcon` |
 | `LibreOffice` | `libreoffice` | `LibreofficeIcon` |
+| `LibreOffice Base` | `libreofficebase` | `LibreofficebaseIcon` |
+| `LibreOffice Calc` | `libreofficecalc` | `LibreofficecalcIcon` |
+| `LibreOffice Draw` | `libreofficedraw` | `LibreofficedrawIcon` |
+| `LibreOffice Impress` | `libreofficeimpress` | `LibreofficeimpressIcon` |
+| `LibreOffice Math` | `libreofficemath` | `LibreofficemathIcon` |
+| `LibreOffice Writer` | `libreofficewriter` | `LibreofficewriterIcon` |
+| `LibreTranslate` | `libretranslate` | `LibretranslateIcon` |
+| `LibreTube` | `libretube` | `LibretubeIcon` |
+| `LibreWolf` | `librewolf` | `LibrewolfIcon` |
 | `Lichess` | `lichess` | `LichessIcon` |
 | `Lidl` | `lidl` | `LidlIcon` |
+| `LightBurn` | `lightburn` | `LightburnIcon` |
 | `Lighthouse` | `lighthouse` | `LighthouseIcon` |
+| `Lightning` | `lightning` | `LightningIcon` |
+| `LimeSurvey` | `limesurvey` | `LimesurveyIcon` |
 | `LineageOS` | `lineageos` | `LineageosIcon` |
-| `LinkedIn` | `linkedin` | `LinkedinIcon` |
+| `Linear` | `linear` | `LinearIcon` |
 | `Linkerd` | `linkerd` | `LinkerdIcon` |
 | `Linkfire` | `linkfire` | `LinkfireIcon` |
+| `Linksys` | `linksys` | `LinksysIcon` |
 | `Linktree` | `linktree` | `LinktreeIcon` |
-| `Linode` | `linode` | `LinodeIcon` |
+| `Linphone` | `linphone` | `LinphoneIcon` |
+| `LintCode` | `lintcode` | `LintcodeIcon` |
 | `Linux` | `linux` | `LinuxIcon` |
 | `Linux Containers` | `linuxcontainers` | `LinuxcontainersIcon` |
 | `Linux Foundation` | `linuxfoundation` | `LinuxfoundationIcon` |
 | `Linux Mint` | `linuxmint` | `LinuxmintIcon` |
+| `Linux Professional Institute` | `linuxprofessionalinstitute` | `LinuxprofessionalinstituteIcon` |
+| `LinuxServer` | `linuxserver` | `LinuxserverIcon` |
 | `Lion Air` | `lionair` | `LionairIcon` |
 | `Liquibase` | `liquibase` | `LiquibaseIcon` |
 | `Lit` | `lit` | `LitIcon` |
 | `Litecoin` | `litecoin` | `LitecoinIcon` |
+| `Literal` | `literal` | `LiteralIcon` |
 | `LiveChat` | `livechat` | `LivechatIcon` |
 | `LiveJournal` | `livejournal` | `LivejournalIcon` |
 | `Livewire` | `livewire` | `LivewireIcon` |
+| `Lobsters` | `lobsters` | `LobstersIcon` |
+| `Local` | `local` | `LocalIcon` |
 | `Lodash` | `lodash` | `LodashIcon` |
 | `LogMeIn` | `logmein` | `LogmeinIcon` |
 | `Logitech` | `logitech` | `LogitechIcon` |
+| `Logitech G` | `logitechg` | `LogitechgIcon` |
+| `Logseq` | `logseq` | `LogseqIcon` |
 | `Logstash` | `logstash` | `LogstashIcon` |
 | `Looker` | `looker` | `LookerIcon` |
 | `Loom` | `loom` | `LoomIcon` |
 | `Loop` | `loop` | `LoopIcon` |
+| `LoopBack` | `loopback` | `LoopbackIcon` |
+| `Loot Crate` | `lootcrate` | `LootcrateIcon` |
 | `Lospec` | `lospec` | `LospecIcon` |
+| `LottieFiles` | `lottiefiles` | `LottiefilesIcon` |
 | `Lua` | `lua` | `LuaIcon` |
 | `Lubuntu` | `lubuntu` | `LubuntuIcon` |
+| `Lucia` | `lucia` | `LuciaIcon` |
+| `Lucid` | `lucid` | `LucidIcon` |
+| `Lucide` | `lucide` | `LucideIcon` |
+| `Ludwig` | `ludwig` | `LudwigIcon` |
 | `Lufthansa` | `lufthansa` | `LufthansaIcon` |
 | `Lumen` | `lumen` | `LumenIcon` |
 | `Lunacy` | `lunacy` | `LunacyIcon` |
+| `Lutris` | `lutris` | `LutrisIcon` |
 | `Lydia` | `lydia` | `LydiaIcon` |
 | `Lyft` | `lyft` | `LyftIcon` |
 | `MAAS` | `maas` | `MaasIcon` |
 | `MAMP` | `mamp` | `MampIcon` |
 | `MAN` | `man` | `ManIcon` |
 | `MDN Web Docs` | `mdnwebdocs` | `MdnwebdocsIcon` |
+| `MDX` | `mdx` | `MdxIcon` |
 | `MEGA` | `mega` | `MegaIcon` |
+| `MG` | `mg` | `MgIcon` |
 | `MIDI` | `midi` | `MidiIcon` |
 | `MLB` | `mlb` | `MlbIcon` |
+| `MLflow` | `mlflow` | `MlflowIcon` |
 | `MODX` | `modx` | `ModxIcon` |
+| `MQTT` | `mqtt` | `MqttIcon` |
 | `MSI` | `msi` | `MsiIcon` |
+| `MSI Business` | `msibusiness` | `MsibusinessIcon` |
 | `MTA` | `mta` | `MtaIcon` |
 | `MTR` | `mtr` | `MtrIcon` |
+| `MUBI` | `mubi` | `MubiIcon` |
 | `MUI` | `mui` | `MuiIcon` |
+| `MUO` | `muo` | `MuoIcon` |
 | `MX Linux` | `mxlinux` | `MxlinuxIcon` |
 | `MYOB` | `myob` | `MyobIcon` |
-| `Macy’s` | `macys` | `MacysIcon` |
+| `MacPaw` | `macpaw` | `MacpawIcon` |
+| `Macy's` | `macys` | `MacysIcon` |
 | `Magasins U` | `magasinsu` | `MagasinsuIcon` |
-| `Magento` | `magento` | `MagentoIcon` |
+| `Magic` | `magic` | `MagicIcon` |
 | `Magisk` | `magisk` | `MagiskIcon` |
+| `Mahindra` | `mahindra` | `MahindraIcon` |
 | `Mail.Ru` | `maildotru` | `MaildotruIcon` |
 | `MailChimp` | `mailchimp` | `MailchimpIcon` |
+| `Mailgun` | `mailgun` | `MailgunIcon` |
+| `Mailtrap` | `mailtrap` | `MailtrapIcon` |
+| `MainWP` | `mainwp` | `MainwpIcon` |
 | `Major League Hacking` | `majorleaguehacking` | `MajorleaguehackingIcon` |
+| `Make` | `make` | `MakeIcon` |
 | `MakerBot` | `makerbot` | `MakerbotIcon` |
+| `Malt` | `malt` | `MaltIcon` |
+| `Malwarebytes` | `malwarebytes` | `MalwarebytesIcon` |
+| `Mamba UI` | `mambaui` | `MambauiIcon` |
 | `ManageIQ` | `manageiq` | `ManageiqIcon` |
 | `Manjaro` | `manjaro` | `ManjaroIcon` |
+| `Mantine` | `mantine` | `MantineIcon` |
+| `MapLibre` | `maplibre` | `MaplibreIcon` |
+| `MapTiler` | `maptiler` | `MaptilerIcon` |
 | `Mapbox` | `mapbox` | `MapboxIcon` |
+| `Mapillary` | `mapillary` | `MapillaryIcon` |
 | `MariaDB` | `mariadb` | `MariadbIcon` |
 | `MariaDB Foundation` | `mariadbfoundation` | `MariadbfoundationIcon` |
 | `Markdown` | `markdown` | `MarkdownIcon` |
-| `Marketo` | `marketo` | `MarketoIcon` |
+| `Marko` | `marko` | `MarkoIcon` |
 | `Marriott` | `marriott` | `MarriottIcon` |
+| `MarvelApp` | `marvelapp` | `MarvelappIcon` |
 | `Maserati` | `maserati` | `MaseratiIcon` |
 | `MasterCard` | `mastercard` | `MastercardIcon` |
 | `Mastodon` | `mastodon` | `MastodonIcon` |
 | `Material Design` | `materialdesign` | `MaterialdesignIcon` |
 | `Material Design Icons` | `materialdesignicons` | `MaterialdesigniconsIcon` |
+| `Material for MkDocs` | `materialformkdocs` | `MaterialformkdocsIcon` |
+| `Matillion` | `matillion` | `MatillionIcon` |
 | `Matomo` | `matomo` | `MatomoIcon` |
 | `Matrix` | `matrix` | `MatrixIcon` |
 | `Matter.js` | `matterdotjs` | `MatterdotjsIcon` |
 | `Mattermost` | `mattermost` | `MattermostIcon` |
 | `Matternet` | `matternet` | `MatternetIcon` |
+| `Mautic` | `mautic` | `MauticIcon` |
 | `Max` | `max` | `MaxIcon` |
 | `Max-Planck-Gesellschaft` | `maxplanckgesellschaft` | `MaxplanckgesellschaftIcon` |
 | `Maytag` | `maytag` | `MaytagIcon` |
 | `Mazda` | `mazda` | `MazdaIcon` |
+| `Maze` | `maze` | `MazeIcon` |
 | `McAfee` | `mcafee` | `McafeeIcon` |
 | `McDonald's` | `mcdonalds` | `McdonaldsIcon` |
 | `McLaren` | `mclaren` | `MclarenIcon` |
 | `MeWe` | `mewe` | `MeweIcon` |
+| `Mealie` | `mealie` | `MealieIcon` |
+| `MediBang Paint` | `medibangpaint` | `MedibangpaintIcon` |
 | `MediaFire` | `mediafire` | `MediafireIcon` |
 | `MediaMarkt` | `mediamarkt` | `MediamarktIcon` |
+| `MediaPipe` | `mediapipe` | `MediapipeIcon` |
 | `MediaTek` | `mediatek` | `MediatekIcon` |
-| `MediaTemple` | `mediatemple` | `MediatempleIcon` |
 | `Medium` | `medium` | `MediumIcon` |
+| `Medusa` | `medusa` | `MedusaIcon` |
 | `Meetup` | `meetup` | `MeetupIcon` |
+| `Meilisearch` | `meilisearch` | `MeilisearchIcon` |
+| `Meituan` | `meituan` | `MeituanIcon` |
+| `Meizu` | `meizu` | `MeizuIcon` |
 | `Mendeley` | `mendeley` | `MendeleyIcon` |
+| `MentorCruise` | `mentorcruise` | `MentorcruiseIcon` |
+| `Mercado Pago` | `mercadopago` | `MercadopagoIcon` |
 | `Mercedes` | `mercedes` | `MercedesIcon` |
 | `Merck` | `merck` | `MerckIcon` |
 | `Mercurial` | `mercurial` | `MercurialIcon` |
+| `Mermaid` | `mermaid` | `MermaidIcon` |
 | `Messenger` | `messenger` | `MessengerIcon` |
+| `Meta` | `meta` | `MetaIcon` |
 | `MetaFilter` | `metafilter` | `MetafilterIcon` |
 | `Metabase` | `metabase` | `MetabaseIcon` |
+| `Metacritic` | `metacritic` | `MetacriticIcon` |
+| `Metasploit` | `metasploit` | `MetasploitIcon` |
 | `Meteor` | `meteor` | `MeteorIcon` |
 | `Metro` | `metro` | `MetroIcon` |
 | `Metro de Madrid` | `metrodemadrid` | `MetrodemadridIcon` |
 | `Metro de la Ciudad de México` | `metrodelaciudaddemexico` | `MetrodelaciudaddemexicoIcon` |
+| `Micro Editor` | `microeditor` | `MicroeditorIcon` |
 | `Micro.blog` | `microdotblog` | `MicrodotblogIcon` |
 | `MicroPython` | `micropython` | `MicropythonIcon` |
 | `MicroStrategy` | `microstrategy` | `MicrostrategyIcon` |
-| `Microgenetics` | `microgenetics` | `MicrogeneticsIcon` |
-| `Microsoft` | `microsoft` | `MicrosoftIcon` |
-| `Microsoft Academic` | `microsoftacademic` | `MicrosoftacademicIcon` |
-| `Microsoft Access` | `microsoftaccess` | `MicrosoftaccessIcon` |
-| `Microsoft Azure` | `microsoftazure` | `MicrosoftazureIcon` |
-| `Microsoft Bing` | `microsoftbing` | `MicrosoftbingIcon` |
-| `Microsoft Edge` | `microsoftedge` | `MicrosoftedgeIcon` |
-| `Microsoft Excel` | `microsoftexcel` | `MicrosoftexcelIcon` |
-| `Microsoft Exchange` | `microsoftexchange` | `MicrosoftexchangeIcon` |
-| `Microsoft Office` | `microsoftoffice` | `MicrosoftofficeIcon` |
-| `Microsoft OneDrive` | `microsoftonedrive` | `MicrosoftonedriveIcon` |
-| `Microsoft OneNote` | `microsoftonenote` | `MicrosoftonenoteIcon` |
-| `Microsoft Outlook` | `microsoftoutlook` | `MicrosoftoutlookIcon` |
-| `Microsoft PowerPoint` | `microsoftpowerpoint` | `MicrosoftpowerpointIcon` |
-| `Microsoft SQL Server` | `microsoftsqlserver` | `MicrosoftsqlserverIcon` |
-| `Microsoft SharePoint` | `microsoftsharepoint` | `MicrosoftsharepointIcon` |
-| `Microsoft Teams` | `microsoftteams` | `MicrosoftteamsIcon` |
-| `Microsoft Translator` | `microsofttranslator` | `MicrosofttranslatorIcon` |
-| `Microsoft Visio` | `microsoftvisio` | `MicrosoftvisioIcon` |
-| `Microsoft Word` | `microsoftword` | `MicrosoftwordIcon` |
+| `Microstation` | `microstation` | `MicrostationIcon` |
+| `Migadu` | `migadu` | `MigaduIcon` |
+| `Mihon` | `mihon` | `MihonIcon` |
+| `MikroTik` | `mikrotik` | `MikrotikIcon` |
+| `Milanote` | `milanote` | `MilanoteIcon` |
+| `Milvus` | `milvus` | `MilvusIcon` |
+| `MinGW-w64` | `mingww64` | `Mingww64Icon` |
+| `MinIO` | `minio` | `MinioIcon` |
 | `Minds` | `minds` | `MindsIcon` |
-| `Minecraft` | `minecraft` | `MinecraftIcon` |
 | `Minetest` | `minetest` | `MinetestIcon` |
 | `Mini` | `mini` | `MiniIcon` |
+| `Mintlify` | `mintlify` | `MintlifyIcon` |
 | `Minutemailer` | `minutemailer` | `MinutemailerIcon` |
+| `Miraheze` | `miraheze` | `MirahezeIcon` |
 | `Miro` | `miro` | `MiroIcon` |
+| `Misskey` | `misskey` | `MisskeyIcon` |
 | `Mitsubishi` | `mitsubishi` | `MitsubishiIcon` |
 | `Mix` | `mix` | `MixIcon` |
 | `Mixcloud` | `mixcloud` | `MixcloudIcon` |
+| `Mixpanel` | `mixpanel` | `MixpanelIcon` |
 | `MobX` | `mobx` | `MobxIcon` |
 | `MobX-State-Tree` | `mobxstatetree` | `MobxstatetreeIcon` |
 | `Mocha` | `mocha` | `MochaIcon` |
-| `Mojang Studios` | `mojangstudios` | `MojangstudiosIcon` |
+| `Mock Service Worker` | `mockserviceworker` | `MockserviceworkerIcon` |
+| `Modal` | `modal` | `ModalIcon` |
+| `Modin` | `modin` | `ModinIcon` |
+| `Modrinth` | `modrinth` | `ModrinthIcon` |
+| `Mojeek` | `mojeek` | `MojeekIcon` |
 | `Moleculer` | `moleculer` | `MoleculerIcon` |
 | `Momenteo` | `momenteo` | `MomenteoIcon` |
 | `Monero` | `monero` | `MoneroIcon` |
 | `MoneyGram` | `moneygram` | `MoneygramIcon` |
 | `MongoDB` | `mongodb` | `MongodbIcon` |
+| `Mongoose` | `mongoosedotws` | `MongoosedotwsIcon` |
+| `Monica` | `monica` | `MonicaIcon` |
+| `Monkeytype` | `monkeytype` | `MonkeytypeIcon` |
+| `MonoGame` | `monogame` | `MonogameIcon` |
 | `Monoprix` | `monoprix` | `MonoprixIcon` |
 | `Monster` | `monster` | `MonsterIcon` |
 | `Monzo` | `monzo` | `MonzoIcon` |
 | `Moo` | `moo` | `MooIcon` |
+| `Moodle` | `moodle` | `MoodleIcon` |
+| `Moonrepo` | `moonrepo` | `MoonrepoIcon` |
+| `Moq` | `moq` | `MoqIcon` |
+| `Moqups` | `moqups` | `MoqupsIcon` |
 | `Morrisons` | `morrisons` | `MorrisonsIcon` |
 | `Moscow Metro` | `moscowmetro` | `MoscowmetroIcon` |
 | `Motorola` | `motorola` | `MotorolaIcon` |
+| `Movistar` | `movistar` | `MovistarIcon` |
 | `Mozilla` | `mozilla` | `MozillaIcon` |
 | `Mulesoft` | `mulesoft` | `MulesoftIcon` |
+| `Mullvad` | `mullvad` | `MullvadIcon` |
+| `Multisim` | `multisim` | `MultisimIcon` |
 | `Mumble` | `mumble` | `MumbleIcon` |
+| `Mural` | `mural` | `MuralIcon` |
 | `MuseScore` | `musescore` | `MusescoreIcon` |
 | `MusicBrainz` | `musicbrainz` | `MusicbrainzIcon` |
 | `MyAnimeList` | `myanimelist` | `MyanimelistIcon` |
+| `MyGet` | `myget` | `MygetIcon` |
 | `MySQL` | `mysql` | `MysqlIcon` |
 | `Myspace` | `myspace` | `MyspaceIcon` |
 | `Métro de Paris` | `metrodeparis` | `MetrodeparisIcon` |
 | `Müller` | `muller` | `MullerIcon` |
 | `N26` | `n26` | `N26Icon` |
 | `NASA` | `nasa` | `NasaIcon` |
+| `NATS.io` | `natsdotio` | `NatsdotioIcon` |
 | `NBA` | `nba` | `NbaIcon` |
 | `NBB` | `nbb` | `NbbIcon` |
+| `NBC` | `nbc` | `NbcIcon` |
 | `NDR` | `ndr` | `NdrIcon` |
+| `NEAR` | `near` | `NearIcon` |
 | `NEC` | `nec` | `NecIcon` |
+| `NETGEAR` | `netgear` | `NetgearIcon` |
+| `NEXON` | `nexon` | `NexonIcon` |
 | `NFC` | `nfc` | `NfcIcon` |
 | `NGINX` | `nginx` | `NginxIcon` |
+| `NHL` | `nhl` | `NhlIcon` |
 | `NOW` | `now` | `NowIcon` |
+| `NSIS` | `nsis` | `NsisIcon` |
 | `NVIDIA` | `nvidia` | `NvidiaIcon` |
+| `NXP` | `nxp` | `NxpIcon` |
 | `NZXT` | `nzxt` | `NzxtIcon` |
+| `NameMC` | `namemc` | `NamemcIcon` |
+| `NameSilo` | `namesilo` | `NamesiloIcon` |
 | `Namebase` | `namebase` | `NamebaseIcon` |
 | `Namecheap` | `namecheap` | `NamecheapIcon` |
+| `Namu Wiki` | `namuwiki` | `NamuwikiIcon` |
 | `Nano` | `nano` | `NanoIcon` |
+| `Nano Stores` | `nanostores` | `NanostoresIcon` |
+| `Napster` | `napster` | `NapsterIcon` |
 | `National Grid` | `nationalgrid` | `NationalgridIcon` |
+| `National Rail` | `nationalrail` | `NationalrailIcon` |
 | `NativeScript` | `nativescript` | `NativescriptIcon` |
 | `Naver` | `naver` | `NaverIcon` |
+| `Nebula` | `nebula` | `NebulaIcon` |
 | `Neo4j` | `neo4j` | `Neo4jIcon` |
 | `Neovim` | `neovim` | `NeovimIcon` |
+| `Neptune` | `neptune` | `NeptuneIcon` |
 | `NestJS` | `nestjs` | `NestjsIcon` |
 | `NetApp` | `netapp` | `NetappIcon` |
 | `NetBSD` | `netbsd` | `NetbsdIcon` |
+| `NetEase Cloud Music` | `neteasecloudmusic` | `NeteasecloudmusicIcon` |
+| `Netdata` | `netdata` | `NetdataIcon` |
 | `Netflix` | `netflix` | `NetflixIcon` |
+| `Netim` | `netim` | `NetimIcon` |
 | `Netlify` | `netlify` | `NetlifyIcon` |
 | `Nette` | `nette` | `NetteIcon` |
 | `Netto` | `netto` | `NettoIcon` |
+| `Neutralinojs` | `neutralinojs` | `NeutralinojsIcon` |
 | `New Balance` | `newbalance` | `NewbalanceIcon` |
 | `New Japan Pro-Wrestling` | `newjapanprowrestling` | `NewjapanprowrestlingIcon` |
 | `New Relic` | `newrelic` | `NewrelicIcon` |
 | `New York Times` | `newyorktimes` | `NewyorktimesIcon` |
+| `NewPipe` | `newpipe` | `NewpipeIcon` |
+| `Newegg` | `newegg` | `NeweggIcon` |
 | `Next.js` | `nextdotjs` | `NextdotjsIcon` |
+| `NextBillion.ai` | `nextbilliondotai` | `NextbilliondotaiIcon` |
+| `NextDNS` | `nextdns` | `NextdnsIcon` |
+| `NextUI` | `nextui` | `NextuiIcon` |
 | `Nextcloud` | `nextcloud` | `NextcloudIcon` |
 | `Nextdoor` | `nextdoor` | `NextdoorIcon` |
+| `Nextflow` | `nextflow` | `NextflowIcon` |
+| `Nextra` | `nextra` | `NextraIcon` |
+| `Nexus Mods` | `nexusmods` | `NexusmodsIcon` |
+| `NgRx` | `ngrx` | `NgrxIcon` |
+| `Nginx Proxy Manager` | `nginxproxymanager` | `NginxproxymanagerIcon` |
+| `NiceHash` | `nicehash` | `NicehashIcon` |
 | `Nike` | `nike` | `NikeIcon` |
+| `Nikon` | `nikon` | `NikonIcon` |
 | `Nim` | `nim` | `NimIcon` |
-| `Nintendo` | `nintendo` | `NintendoIcon` |
-| `Nintendo 3DS` | `nintendo3ds` | `Nintendo3dsIcon` |
-| `Nintendo GameCube` | `nintendogamecube` | `NintendogamecubeIcon` |
-| `Nintendo Network` | `nintendonetwork` | `NintendonetworkIcon` |
-| `Nintendo Switch` | `nintendoswitch` | `NintendoswitchIcon` |
 | `Nissan` | `nissan` | `NissanIcon` |
 | `NixOS` | `nixos` | `NixosIcon` |
 | `Node-RED` | `nodered` | `NoderedIcon` |
 | `Node.js` | `nodedotjs` | `NodedotjsIcon` |
 | `Nodemon` | `nodemon` | `NodemonIcon` |
 | `Nokia` | `nokia` | `NokiaIcon` |
+| `Nomad` | `nomad` | `NomadIcon` |
 | `Norco` | `norco` | `NorcoIcon` |
 | `NordVPN` | `nordvpn` | `NordvpnIcon` |
+| `Nordic Semiconductor` | `nordicsemiconductor` | `NordicsemiconductorIcon` |
+| `Normalize.css` | `normalizedotcss` | `NormalizedotcssIcon` |
+| `Norton` | `norton` | `NortonIcon` |
 | `Norwegian` | `norwegian` | `NorwegianIcon` |
 | `Notepad++` | `notepadplusplus` | `NotepadplusplusIcon` |
 | `Notion` | `notion` | `NotionIcon` |
 | `Notist` | `notist` | `NotistIcon` |
 | `Noun Project` | `nounproject` | `NounprojectIcon` |
+| `Novu` | `novu` | `NovuIcon` |
 | `Nrwl` | `nrwl` | `NrwlIcon` |
 | `NuGet` | `nuget` | `NugetIcon` |
 | `Nubank` | `nubank` | `NubankIcon` |
@@ -1265,30 +1875,46 @@
 | `Nuke` | `nuke` | `NukeIcon` |
 | `NumPy` | `numpy` | `NumpyIcon` |
 | `Numba` | `numba` | `NumbaIcon` |
+| `Nunjucks` | `nunjucks` | `NunjucksIcon` |
+| `Nushell` | `nushell` | `NushellIcon` |
 | `Nutanix` | `nutanix` | `NutanixIcon` |
-| `Nuxt.js` | `nuxtdotjs` | `NuxtdotjsIcon` |
+| `Nuxt` | `nuxt` | `NuxtIcon` |
 | `Nx` | `nx` | `NxIcon` |
 | `O'Reilly` | `oreilly` | `OreillyIcon` |
+| `O2` | `o2` | `O2Icon` |
 | `OBS Studio` | `obsstudio` | `ObsstudioIcon` |
+| `OCLC` | `oclc` | `OclcIcon` |
 | `OCaml` | `ocaml` | `OcamlIcon` |
+| `OKX` | `okx` | `OkxIcon` |
 | `ONLYOFFICE` | `onlyoffice` | `OnlyofficeIcon` |
 | `ONNX` | `onnx` | `OnnxIcon` |
 | `OPNSense` | `opnsense` | `OpnsenseIcon` |
+| `OPPO` | `oppo` | `OppoIcon` |
 | `ORCID` | `orcid` | `OrcidIcon` |
+| `OSF` | `osf` | `OsfIcon` |
+| `OSGeo` | `osgeo` | `OsgeoIcon` |
 | `OSMC` | `osmc` | `OsmcIcon` |
 | `OVH` | `ovh` | `OvhIcon` |
 | `OWASP` | `owasp` | `OwaspIcon` |
+| `OWASP Dependency-Check` | `dependencycheck` | `DependencycheckIcon` |
 | `OYO` | `oyo` | `OyoIcon` |
 | `Observable` | `observable` | `ObservableIcon` |
 | `Obsidian` | `obsidian` | `ObsidianIcon` |
+| `Obtainium` | `obtainium` | `ObtainiumIcon` |
 | `Octane Render` | `octanerender` | `OctanerenderIcon` |
 | `Octave` | `octave` | `OctaveIcon` |
+| `OctoPrint` | `octoprint` | `OctoprintIcon` |
+| `October CMS` | `octobercms` | `OctobercmsIcon` |
 | `Octopus Deploy` | `octopusdeploy` | `OctopusdeployIcon` |
 | `Oculus` | `oculus` | `OculusIcon` |
+| `Odin` | `odin` | `OdinIcon` |
 | `Odnoklassniki` | `odnoklassniki` | `OdnoklassnikiIcon` |
+| `Odoo` | `odoo` | `OdooIcon` |
 | `Odysee` | `odysee` | `OdyseeIcon` |
 | `Oh Dear` | `ohdear` | `OhdearIcon` |
 | `Okta` | `okta` | `OktaIcon` |
+| `Ollama` | `ollama` | `OllamaIcon` |
+| `Omada Cloud` | `omadacloud` | `OmadacloudIcon` |
 | `OnStar` | `onstar` | `OnstarIcon` |
 | `OnePlus` | `oneplus` | `OneplusIcon` |
 | `OnlyFans` | `onlyfans` | `OnlyfansIcon` |
@@ -1298,40 +1924,58 @@
 | `Open Bug Bounty` | `openbugbounty` | `OpenbugbountyIcon` |
 | `Open Collective` | `opencollective` | `OpencollectiveIcon` |
 | `Open Containers Initiative` | `opencontainersinitiative` | `OpencontainersinitiativeIcon` |
+| `Open Source Hardware` | `opensourcehardware` | `OpensourcehardwareIcon` |
 | `Open Source Initiative` | `opensourceinitiative` | `OpensourceinitiativeIcon` |
+| `Open3D` | `open3d` | `Open3dIcon` |
 | `OpenAI` | `openai` | `OpenaiIcon` |
 | `OpenAI Gym` | `openaigym` | `OpenaigymIcon` |
 | `OpenAPI Initiative` | `openapiinitiative` | `OpenapiinitiativeIcon` |
 | `OpenBSD` | `openbsd` | `OpenbsdIcon` |
 | `OpenCV` | `opencv` | `OpencvIcon` |
+| `OpenCritic` | `opencritic` | `OpencriticIcon` |
 | `OpenFaaS` | `openfaas` | `OpenfaasIcon` |
 | `OpenGL` | `opengl` | `OpenglIcon` |
 | `OpenID` | `openid` | `OpenidIcon` |
+| `OpenJDK` | `openjdk` | `OpenjdkIcon` |
+| `OpenJS Foundation` | `openjsfoundation` | `OpenjsfoundationIcon` |
 | `OpenMined` | `openmined` | `OpenminedIcon` |
 | `OpenNebula` | `opennebula` | `OpennebulaIcon` |
+| `OpenProject` | `openproject` | `OpenprojectIcon` |
+| `OpenSCAD` | `openscad` | `OpenscadIcon` |
 | `OpenSSL` | `openssl` | `OpensslIcon` |
 | `OpenSea` | `opensea` | `OpenseaIcon` |
 | `OpenSearch` | `opensearch` | `OpensearchIcon` |
 | `OpenStack` | `openstack` | `OpenstackIcon` |
 | `OpenStreetMap` | `openstreetmap` | `OpenstreetmapIcon` |
 | `OpenTelemetry` | `opentelemetry` | `OpentelemetryIcon` |
+| `OpenText` | `opentext` | `OpentextIcon` |
+| `OpenTofu` | `opentofu` | `OpentofuIcon` |
 | `OpenVPN` | `openvpn` | `OpenvpnIcon` |
 | `OpenWrt` | `openwrt` | `OpenwrtIcon` |
 | `OpenZFS` | `openzfs` | `OpenzfsIcon` |
+| `OpenZeppelin` | `openzeppelin` | `OpenzeppelinIcon` |
 | `Openlayers` | `openlayers` | `OpenlayersIcon` |
+| `Openverse` | `openverse` | `OpenverseIcon` |
 | `Opera` | `opera` | `OperaIcon` |
+| `Opera GX` | `operagx` | `OperagxIcon` |
 | `OpsLevel` | `opslevel` | `OpslevelIcon` |
 | `Opsgenie` | `opsgenie` | `OpsgenieIcon` |
-| `Oracle` | `oracle` | `OracleIcon` |
+| `Optimism` | `optimism` | `OptimismIcon` |
+| `Orange` | `orange` | `OrangeIcon` |
 | `Org` | `org` | `OrgIcon` |
+| `Organic Maps` | `organicmaps` | `OrganicmapsIcon` |
 | `Origin` | `origin` | `OriginIcon` |
 | `Osano` | `osano` | `OsanoIcon` |
 | `Oshkosh` | `oshkosh` | `OshkoshIcon` |
+| `OsmAnd` | `osmand` | `OsmandIcon` |
 | `Otto` | `otto` | `OttoIcon` |
+| `Outline` | `outline` | `OutlineIcon` |
 | `Overcast` | `overcast` | `OvercastIcon` |
 | `Overleaf` | `overleaf` | `OverleafIcon` |
 | `Oxygen` | `oxygen` | `OxygenIcon` |
 | `PCGamingWiki` | `pcgamingwiki` | `PcgamingwikiIcon` |
+| `PDM` | `pdm` | `PdmIcon` |
+| `PDQ` | `pdq` | `PdqIcon` |
 | `PHP` | `php` | `PhpIcon` |
 | `PM2` | `pm2` | `Pm2Icon` |
 | `POWERS` | `powers` | `PowersIcon` |
@@ -1339,60 +1983,94 @@
 | `PWA` | `pwa` | `PwaIcon` |
 | `Packagist` | `packagist` | `PackagistIcon` |
 | `Packer` | `packer` | `PackerIcon` |
+| `Packt` | `packt` | `PacktIcon` |
+| `Paddle` | `paddle` | `PaddleIcon` |
+| `PaddlePaddle` | `paddlepaddle` | `PaddlepaddleIcon` |
 | `Paddy Power` | `paddypower` | `PaddypowerIcon` |
 | `PagSeguro` | `pagseguro` | `PagseguroIcon` |
 | `PageSpeed Insights` | `pagespeedinsights` | `PagespeedinsightsIcon` |
 | `Pagekit` | `pagekit` | `PagekitIcon` |
 | `PagerDuty` | `pagerduty` | `PagerdutyIcon` |
 | `Palantir` | `palantir` | `PalantirIcon` |
+| `Palo Alto Networks` | `paloaltonetworks` | `PaloaltonetworksIcon` |
 | `Palo Alto Software` | `paloaltosoftware` | `PaloaltosoftwareIcon` |
+| `Panasonic` | `panasonic` | `PanasonicIcon` |
 | `Pandora` | `pandora` | `PandoraIcon` |
 | `Pantheon` | `pantheon` | `PantheonIcon` |
+| `Paperless-ngx` | `paperlessngx` | `PaperlessngxIcon` |
+| `Papers With Code` | `paperswithcode` | `PaperswithcodeIcon` |
+| `Paperspace` | `paperspace` | `PaperspaceIcon` |
+| `Paradox Interactive` | `paradoxinteractive` | `ParadoxinteractiveIcon` |
+| `Paramount+` | `paramountplus` | `ParamountplusIcon` |
 | `Parity Substrate` | `paritysubstrate` | `ParitysubstrateIcon` |
+| `Parrot Security` | `parrotsecurity` | `ParrotsecurityIcon` |
 | `Parse.ly` | `parsedotly` | `ParsedotlyIcon` |
 | `Passport` | `passport` | `PassportIcon` |
 | `Pastebin` | `pastebin` | `PastebinIcon` |
 | `Patreon` | `patreon` | `PatreonIcon` |
 | `PayPal` | `paypal` | `PaypalIcon` |
+| `Paychex` | `paychex` | `PaychexIcon` |
+| `Payhip` | `payhip` | `PayhipIcon` |
+| `Payload CMS` | `payloadcms` | `PayloadcmsIcon` |
 | `Payoneer` | `payoneer` | `PayoneerIcon` |
 | `Paytm` | `paytm` | `PaytmIcon` |
 | `Peak Design` | `peakdesign` | `PeakdesignIcon` |
+| `Pearson` | `pearson` | `PearsonIcon` |
 | `PeerTube` | `peertube` | `PeertubeIcon` |
+| `Peerlist` | `peerlist` | `PeerlistIcon` |
 | `Pegasus Airlines` | `pegasusairlines` | `PegasusairlinesIcon` |
 | `Pelican` | `pelican` | `PelicanIcon` |
 | `Peloton` | `peloton` | `PelotonIcon` |
 | `Penny` | `penny` | `PennyIcon` |
-| `Pepsi` | `pepsi` | `PepsiIcon` |
+| `Penpot` | `penpot` | `PenpotIcon` |
 | `Percy` | `percy` | `PercyIcon` |
 | `Perforce` | `perforce` | `PerforceIcon` |
 | `Perl` | `perl` | `PerlIcon` |
+| `Perplexity` | `perplexity` | `PerplexityIcon` |
+| `Persistent` | `persistent` | `PersistentIcon` |
 | `Personio` | `personio` | `PersonioIcon` |
+| `Pets at Home` | `petsathome` | `PetsathomeIcon` |
 | `Peugeot` | `peugeot` | `PeugeotIcon` |
 | `Pexels` | `pexels` | `PexelsIcon` |
 | `Phabricator` | `phabricator` | `PhabricatorIcon` |
 | `Philips Hue` | `philipshue` | `PhilipshueIcon` |
+| `Phoenix Framework` | `phoenixframework` | `PhoenixframeworkIcon` |
 | `PhonePe` | `phonepe` | `PhonepeIcon` |
+| `Phosphor Icons` | `phosphoricons` | `PhosphoriconsIcon` |
 | `Photobucket` | `photobucket` | `PhotobucketIcon` |
 | `Photocrowd` | `photocrowd` | `PhotocrowdIcon` |
+| `Photon` | `photon` | `PhotonIcon` |
 | `Photopea` | `photopea` | `PhotopeaIcon` |
 | `PhpStorm` | `phpstorm` | `PhpstormIcon` |
+| `Pi Network` | `pinetwork` | `PinetworkIcon` |
 | `Pi-hole` | `pihole` | `PiholeIcon` |
+| `Piaggio Group` | `piaggiogroup` | `PiaggiogroupIcon` |
+| `Piapro` | `piapro` | `PiaproIcon` |
 | `PicPay` | `picpay` | `PicpayIcon` |
 | `Picard Surgelés` | `picardsurgeles` | `PicardsurgelesIcon` |
 | `Picarto.TV` | `picartodottv` | `PicartodottvIcon` |
 | `Picnic` | `picnic` | `PicnicIcon` |
+| `Picrew` | `picrew` | `PicrewIcon` |
+| `Picsart` | `picsart` | `PicsartIcon` |
+| `Picxy` | `picxy` | `PicxyIcon` |
 | `Pimcore` | `pimcore` | `PimcoreIcon` |
 | `Pinboard` | `pinboard` | `PinboardIcon` |
+| `Pine Script` | `pinescript` | `PinescriptIcon` |
 | `Pingdom` | `pingdom` | `PingdomIcon` |
 | `Pinterest` | `pinterest` | `PinterestIcon` |
 | `Pioneer DJ` | `pioneerdj` | `PioneerdjIcon` |
+| `Piped` | `piped` | `PipedIcon` |
 | `Pivotal Tracker` | `pivotaltracker` | `PivotaltrackerIcon` |
 | `Piwigo` | `piwigo` | `PiwigoIcon` |
 | `Pix` | `pix` | `PixIcon` |
 | `Pixabay` | `pixabay` | `PixabayIcon` |
+| `Pixelfed` | `pixelfed` | `PixelfedIcon` |
+| `Pixlr` | `pixlr` | `PixlrIcon` |
 | `PlanGrid` | `plangrid` | `PlangridIcon` |
 | `Planet` | `planet` | `PlanetIcon` |
+| `PlanetScale` | `planetscale` | `PlanetscaleIcon` |
 | `Platform.sh` | `platformdotsh` | `PlatformdotshIcon` |
+| `PlatformIO` | `platformio` | `PlatformioIcon` |
 | `Platzi` | `platzi` | `PlatziIcon` |
 | `Plausible Analytics` | `plausibleanalytics` | `PlausibleanalyticsIcon` |
 | `PlayCanvas` | `playcanvas` | `PlaycanvasIcon` |
@@ -1401,6 +2079,7 @@
 | `PlayStation 3` | `playstation3` | `Playstation3Icon` |
 | `PlayStation 4` | `playstation4` | `Playstation4Icon` |
 | `PlayStation 5` | `playstation5` | `Playstation5Icon` |
+| `PlayStation Portable` | `playstationportable` | `PlaystationportableIcon` |
 | `PlayStation Vita` | `playstationvita` | `PlaystationvitaIcon` |
 | `Player FM` | `playerfm` | `PlayerfmIcon` |
 | `Player.me` | `playerdotme` | `PlayerdotmeIcon` |
@@ -1408,41 +2087,60 @@
 | `Plesk` | `plesk` | `PleskIcon` |
 | `Plex` | `plex` | `PlexIcon` |
 | `Plotly` | `plotly` | `PlotlyIcon` |
+| `Plume` | `plume` | `PlumeIcon` |
 | `Pluralsight` | `pluralsight` | `PluralsightIcon` |
 | `Plurk` | `plurk` | `PlurkIcon` |
 | `Plus Codes` | `pluscodes` | `PluscodesIcon` |
 | `Pocket` | `pocket` | `PocketIcon` |
 | `Pocket Casts` | `pocketcasts` | `PocketcastsIcon` |
+| `PocketBase` | `pocketbase` | `PocketbaseIcon` |
 | `Podcast Addict` | `podcastaddict` | `PodcastaddictIcon` |
+| `Podcast Index` | `podcastindex` | `PodcastindexIcon` |
 | `Podman` | `podman` | `PodmanIcon` |
+| `Poe` | `poe` | `PoeIcon` |
 | `Poetry` | `poetry` | `PoetryIcon` |
 | `Pointy` | `pointy` | `PointyIcon` |
-| `Pokémon` | `pokemon` | `PokemonIcon` |
+| `Polars` | `polars` | `PolarsIcon` |
+| `Polestar` | `polestar` | `PolestarIcon` |
 | `Polkadot` | `polkadot` | `PolkadotIcon` |
 | `Poly` | `poly` | `PolyIcon` |
+| `Polygon` | `polygon` | `PolygonIcon` |
 | `Polymer Project` | `polymerproject` | `PolymerprojectIcon` |
 | `Polywork` | `polywork` | `PolyworkIcon` |
+| `Pond5` | `pond5` | `Pond5Icon` |
 | `Pop!_OS` | `popos` | `PoposIcon` |
+| `Porkbun` | `porkbun` | `PorkbunIcon` |
 | `Porsche` | `porsche` | `PorscheIcon` |
+| `PortSwigger` | `portswigger` | `PortswiggerIcon` |
+| `PortableApps.com` | `portableappsdotcom` | `PortableappsdotcomIcon` |
 | `Portainer` | `portainer` | `PortainerIcon` |
+| `Posit` | `posit` | `PositIcon` |
 | `PostCSS` | `postcss` | `PostcssIcon` |
+| `PostHog` | `posthog` | `PosthogIcon` |
 | `PostgreSQL` | `postgresql` | `PostgresqlIcon` |
 | `Postman` | `postman` | `PostmanIcon` |
 | `Postmates` | `postmates` | `PostmatesIcon` |
-| `Power Apps` | `powerapps` | `PowerappsIcon` |
-| `Power Automate` | `powerautomate` | `PowerautomateIcon` |
-| `Power BI` | `powerbi` | `PowerbiIcon` |
-| `Power Virtual Agents` | `powervirtualagents` | `PowervirtualagentsIcon` |
-| `PowerShell` | `powershell` | `PowershellIcon` |
+| `PreMiD` | `premid` | `PremidIcon` |
+| `Preact` | `preact` | `PreactIcon` |
+| `Prefect` | `prefect` | `PrefectIcon` |
 | `Premier League` | `premierleague` | `PremierleagueIcon` |
+| `PrepBytes` | `prepbytes` | `PrepbytesIcon` |
 | `PrestaShop` | `prestashop` | `PrestashopIcon` |
 | `Presto` | `presto` | `PrestoIcon` |
 | `Prettier` | `prettier` | `PrettierIcon` |
+| `Pretzel` | `pretzel` | `PretzelIcon` |
+| `Prevention` | `prevention` | `PreventionIcon` |
 | `Prezi` | `prezi` | `PreziIcon` |
 | `Prime` | `prime` | `PrimeIcon` |
 | `Prime Video` | `primevideo` | `PrimevideoIcon` |
+| `PrimeFaces` | `primefaces` | `PrimefacesIcon` |
+| `PrimeNG` | `primeng` | `PrimengIcon` |
+| `PrimeReact` | `primereact` | `PrimereactIcon` |
+| `PrimeVue` | `primevue` | `PrimevueIcon` |
+| `Printables` | `printables` | `PrintablesIcon` |
 | `Prisma` | `prisma` | `PrismaIcon` |
 | `Prismic` | `prismic` | `PrismicIcon` |
+| `Private Division` | `privatedivision` | `PrivatedivisionIcon` |
 | `Private Internet Access` | `privateinternetaccess` | `PrivateinternetaccessIcon` |
 | `Pro Tools` | `protools` | `ProtoolsIcon` |
 | `ProSieben` | `prosieben` | `ProsiebenIcon` |
@@ -1453,12 +2151,18 @@
 | `Progate` | `progate` | `ProgateIcon` |
 | `Progress` | `progress` | `ProgressIcon` |
 | `Prometheus` | `prometheus` | `PrometheusIcon` |
+| `Pronouns.page` | `pronounsdotpage` | `PronounsdotpageIcon` |
+| `Proteus` | `proteus` | `ProteusIcon` |
 | `Proto.io` | `protodotio` | `ProtodotioIcon` |
+| `Proton` | `proton` | `ProtonIcon` |
+| `Proton Calendar` | `protoncalendar` | `ProtoncalendarIcon` |
+| `Proton Drive` | `protondrive` | `ProtondriveIcon` |
+| `Proton Mail` | `protonmail` | `ProtonmailIcon` |
+| `Proton VPN` | `protonvpn` | `ProtonvpnIcon` |
 | `ProtonDB` | `protondb` | `ProtondbIcon` |
-| `ProtonMail` | `protonmail` | `ProtonmailIcon` |
-| `ProtonVPN` | `protonvpn` | `ProtonvpnIcon` |
 | `Protractor` | `protractor` | `ProtractorIcon` |
 | `Proxmox` | `proxmox` | `ProxmoxIcon` |
+| `Pterodactyl` | `pterodactyl` | `PterodactylIcon` |
 | `PubMed` | `pubmed` | `PubmedIcon` |
 | `Publons` | `publons` | `PublonsIcon` |
 | `Pug` | `pug` | `PugIcon` |
@@ -1469,24 +2173,34 @@
 | `PureScript` | `purescript` | `PurescriptIcon` |
 | `PurgeCSS` | `purgecss` | `PurgecssIcon` |
 | `Purism` | `purism` | `PurismIcon` |
+| `Pushbullet` | `pushbullet` | `PushbulletIcon` |
 | `Pusher` | `pusher` | `PusherIcon` |
+| `PyCQA` | `pycqa` | `PycqaIcon` |
 | `PyCharm` | `pycharm` | `PycharmIcon` |
+| `PyG` | `pyg` | `PygIcon` |
 | `PyPI` | `pypi` | `PypiIcon` |
 | `PyPy` | `pypy` | `PypyIcon` |
 | `PyScaffold` | `pyscaffold` | `PyscaffoldIcon` |
+| `PySyft` | `pysyft` | `PysyftIcon` |
 | `PyTorch` | `pytorch` | `PytorchIcon` |
-| `PyTorch Lightning` | `pytorchlightning` | `PytorchlightningIcon` |
 | `PyUp` | `pyup` | `PyupIcon` |
+| `Pydantic` | `pydantic` | `PydanticIcon` |
 | `Pytest` | `pytest` | `PytestIcon` |
 | `Python` | `python` | `PythonIcon` |
+| `PythonAnywhere` | `pythonanywhere` | `PythonanywhereIcon` |
 | `QEMU` | `qemu` | `QemuIcon` |
 | `QIWI` | `qiwi` | `QiwiIcon` |
+| `QMK` | `qmk` | `QmkIcon` |
+| `QNAP` | `qnap` | `QnapIcon` |
+| `QQ` | `qq` | `QqIcon` |
 | `Qantas` | `qantas` | `QantasIcon` |
+| `Qase` | `qase` | `QaseIcon` |
 | `Qatar Airways` | `qatarairways` | `QatarairwaysIcon` |
 | `Qgis` | `qgis` | `QgisIcon` |
 | `Qi` | `qi` | `QiIcon` |
 | `Qiita` | `qiita` | `QiitaIcon` |
 | `Qiskit` | `qiskit` | `QiskitIcon` |
+| `Qlik` | `qlik` | `QlikIcon` |
 | `Qt` | `qt` | `QtIcon` |
 | `Qualcomm` | `qualcomm` | `QualcommIcon` |
 | `Qualtrics` | `qualtrics` | `QualtricsIcon` |
@@ -1494,6 +2208,7 @@
 | `QuantConnect` | `quantconnect` | `QuantconnectIcon` |
 | `Quantcast` | `quantcast` | `QuantcastIcon` |
 | `Quarkus` | `quarkus` | `QuarkusIcon` |
+| `Quarto` | `quarto` | `QuartoIcon` |
 | `Quasar` | `quasar` | `QuasarIcon` |
 | `Qubes OS` | `qubesos` | `QubesosIcon` |
 | `Quest` | `quest` | `QuestIcon` |
@@ -1501,85 +2216,136 @@
 | `QuickLook` | `quicklook` | `QuicklookIcon` |
 | `QuickTime` | `quicktime` | `QuicktimeIcon` |
 | `Quip` | `quip` | `QuipIcon` |
+| `Quizlet` | `quizlet` | `QuizletIcon` |
 | `Quora` | `quora` | `QuoraIcon` |
+| `Qwant` | `qwant` | `QwantIcon` |
+| `Qwik` | `qwik` | `QwikIcon` |
 | `Qwiklabs` | `qwiklabs` | `QwiklabsIcon` |
 | `Qzone` | `qzone` | `QzoneIcon` |
 | `R` | `r` | `RIcon` |
 | `R3` | `r3` | `R3Icon` |
+| `RAD Studio` | `radstudio` | `RadstudioIcon` |
 | `REWE` | `rewe` | `ReweIcon` |
+| `RISC-V` | `riscv` | `RiscvIcon` |
 | `ROS` | `ros` | `RosIcon` |
 | `RSS` | `rss` | `RssIcon` |
-| `RStudio` | `rstudio` | `RstudioIcon` |
+| `RSocket` | `rsocket` | `RsocketIcon` |
+| `RStudio IDE` | `rstudioide` | `RstudioideIcon` |
 | `RTL` | `rtl` | `RtlIcon` |
 | `RTLZWEI` | `rtlzwei` | `RtlzweiIcon` |
+| `RTM` | `rtm` | `RtmIcon` |
 | `RTÉ` | `rte` | `RteIcon` |
 | `RabbitMQ` | `rabbitmq` | `RabbitmqIcon` |
 | `Racket` | `racket` | `RacketIcon` |
 | `Radar` | `radar` | `RadarIcon` |
-| `RadioPublic` | `radiopublic` | `RadiopublicIcon` |
+| `Radio France` | `radiofrance` | `RadiofranceIcon` |
+| `Radix UI` | `radixui` | `RadixuiIcon` |
 | `Railway` | `railway` | `RailwayIcon` |
 | `Rainmeter` | `rainmeter` | `RainmeterIcon` |
 | `Rakuten` | `rakuten` | `RakutenIcon` |
+| `Rakuten Kobo` | `rakutenkobo` | `RakutenkoboIcon` |
 | `Ram` | `ram` | `RamIcon` |
 | `Rancher` | `rancher` | `RancherIcon` |
+| `Rapid` | `rapid` | `RapidIcon` |
 | `Rarible` | `rarible` | `RaribleIcon` |
+| `Rasa` | `rasa` | `RasaIcon` |
 | `Raspberry Pi` | `raspberrypi` | `RaspberrypiIcon` |
+| `Ravelry` | `ravelry` | `RavelryIcon` |
 | `Ray` | `ray` | `RayIcon` |
+| `Raycast` | `raycast` | `RaycastIcon` |
+| `Raylib` | `raylib` | `RaylibIcon` |
 | `Razer` | `razer` | `RazerIcon` |
 | `Razorpay` | `razorpay` | `RazorpayIcon` |
+| `Rclone` | `rclone` | `RcloneIcon` |
 | `ReScript` | `rescript` | `RescriptIcon` |
+| `ReSharper` | `resharper` | `ResharperIcon` |
+| `ReVanced` | `revanced` | `RevancedIcon` |
 | `React` | `react` | `ReactIcon` |
+| `React Bootstrap` | `reactbootstrap` | `ReactbootstrapIcon` |
+| `React Hook Form` | `reacthookform` | `ReacthookformIcon` |
 | `React Query` | `reactquery` | `ReactqueryIcon` |
 | `React Router` | `reactrouter` | `ReactrouterIcon` |
 | `React Table` | `reacttable` | `ReacttableIcon` |
 | `ReactOS` | `reactos` | `ReactosIcon` |
+| `Reactive Resume` | `reactiveresume` | `ReactiveresumeIcon` |
 | `ReactiveX` | `reactivex` | `ReactivexIcon` |
 | `Read the Docs` | `readthedocs` | `ReadthedocsIcon` |
-| `Realm` | `realm` | `RealmIcon` |
+| `Read.cv` | `readdotcv` | `ReaddotcvIcon` |
+| `ReadMe` | `readme` | `ReadmeIcon` |
 | `Reason` | `reason` | `ReasonIcon` |
 | `Reason Studios` | `reasonstudios` | `ReasonstudiosIcon` |
+| `Recoil` | `recoil` | `RecoilIcon` |
+| `Red` | `red` | `RedIcon` |
+| `Red Bull` | `redbull` | `RedbullIcon` |
+| `Red Candle Games` | `redcandlegames` | `RedcandlegamesIcon` |
 | `Red Hat` | `redhat` | `RedhatIcon` |
 | `Red Hat Open Shift` | `redhatopenshift` | `RedhatopenshiftIcon` |
+| `Redash` | `redash` | `RedashIcon` |
 | `Redbubble` | `redbubble` | `RedbubbleIcon` |
 | `Reddit` | `reddit` | `RedditIcon` |
 | `Redis` | `redis` | `RedisIcon` |
 | `Redmine` | `redmine` | `RedmineIcon` |
+| `Redox` | `redox` | `RedoxIcon` |
+| `Redragon` | `redragon` | `RedragonIcon` |
+| `Redsys` | `redsys` | `RedsysIcon` |
 | `Redux` | `redux` | `ReduxIcon` |
 | `Redux-Saga` | `reduxsaga` | `ReduxsagaIcon` |
 | `RedwoodJS` | `redwoodjs` | `RedwoodjsIcon` |
 | `Reebok` | `reebok` | `ReebokIcon` |
+| `Refine` | `refine` | `RefineIcon` |
+| `Refined GitHub` | `refinedgithub` | `RefinedgithubIcon` |
+| `Relay` | `relay` | `RelayIcon` |
 | `Reliance Industries Limited` | `relianceindustrieslimited` | `RelianceindustrieslimitedIcon` |
+| `Remedy Entertainment` | `remedyentertainment` | `RemedyentertainmentIcon` |
+| `Remix` | `remix` | `RemixIcon` |
 | `Ren'Py` | `renpy` | `RenpyIcon` |
 | `Renault` | `renault` | `RenaultIcon` |
-| `RenovateBot` | `renovatebot` | `RenovatebotIcon` |
+| `Render` | `render` | `RenderIcon` |
+| `Renovate` | `renovate` | `RenovateIcon` |
 | `Renren` | `renren` | `RenrenIcon` |
+| `Replicate` | `replicate` | `ReplicateIcon` |
 | `Replit` | `replit` | `ReplitIcon` |
 | `Republic of Gamers` | `republicofgamers` | `RepublicofgamersIcon` |
 | `RescueTime` | `rescuetime` | `RescuetimeIcon` |
 | `ResearchGate` | `researchgate` | `ResearchgateIcon` |
+| `Resend` | `resend` | `ResendIcon` |
 | `Resurrection Remix OS` | `resurrectionremixos` | `ResurrectionremixosIcon` |
+| `Retool` | `retool` | `RetoolIcon` |
 | `RetroArch` | `retroarch` | `RetroarchIcon` |
 | `RetroPie` | `retropie` | `RetropieIcon` |
 | `ReverbNation` | `reverbnation` | `ReverbnationIcon` |
+| `Revolt.chat` | `revoltdotchat` | `RevoltdotchatIcon` |
 | `Revolut` | `revolut` | `RevolutIcon` |
-| `Revue` | `revue` | `RevueIcon` |
 | `Rezgo` | `rezgo` | `RezgoIcon` |
 | `Rhinoceros` | `rhinoceros` | `RhinocerosIcon` |
+| `Rich` | `rich` | `RichIcon` |
 | `Rider` | `rider` | `RiderIcon` |
 | `Rimac Automobili` | `rimacautomobili` | `RimacautomobiliIcon` |
+| `Rime` | `rime` | `RimeIcon` |
 | `Ring` | `ring` | `RingIcon` |
 | `Riot Games` | `riotgames` | `RiotgamesIcon` |
 | `Ripple` | `ripple` | `RippleIcon` |
 | `Riseup` | `riseup` | `RiseupIcon` |
+| `Ritz Carlton` | `ritzcarlton` | `RitzcarltonIcon` |
+| `Rive` | `rive` | `RiveIcon` |
 | `Roam Research` | `roamresearch` | `RoamresearchIcon` |
+| `Robinhood` | `robinhood` | `RobinhoodIcon` |
 | `Roblox` | `roblox` | `RobloxIcon` |
+| `Roblox Studio` | `robloxstudio` | `RobloxstudioIcon` |
+| `Roboflow` | `roboflow` | `RoboflowIcon` |
 | `Robot Framework` | `robotframework` | `RobotframeworkIcon` |
+| `Rocket` | `rocket` | `RocketIcon` |
 | `Rocket.Chat` | `rocketdotchat` | `RocketdotchatIcon` |
 | `RocksDB` | `rocksdb` | `RocksdbIcon` |
+| `Rockstar Games` | `rockstargames` | `RockstargamesIcon` |
+| `Rockwell Automation` | `rockwellautomation` | `RockwellautomationIcon` |
 | `Rocky Linux` | `rockylinux` | `RockylinuxIcon` |
 | `Roku` | `roku` | `RokuIcon` |
+| `Roll20` | `roll20` | `Roll20Icon` |
 | `Rolls-Royce` | `rollsroyce` | `RollsroyceIcon` |
-| `Rome` | `rome` | `RomeIcon` |
+| `Rook` | `rook` | `RookIcon` |
+| `Roon` | `roon` | `RoonIcon` |
+| `Root Me` | `rootme` | `RootmeIcon` |
 | `Roots` | `roots` | `RootsIcon` |
 | `Roots Bedrock` | `rootsbedrock` | `RootsbedrockIcon` |
 | `Roots Sage` | `rootssage` | `RootssageIcon` |
@@ -1587,15 +2353,24 @@
 | `Rotary International` | `rotaryinternational` | `RotaryinternationalIcon` |
 | `Rotten Tomatoes` | `rottentomatoes` | `RottentomatoesIcon` |
 | `Roundcube` | `roundcube` | `RoundcubeIcon` |
+| `RuboCop` | `rubocop` | `RubocopIcon` |
 | `Ruby` | `ruby` | `RubyIcon` |
 | `Ruby Sinatra` | `rubysinatra` | `RubysinatraIcon` |
 | `Ruby on Rails` | `rubyonrails` | `RubyonrailsIcon` |
 | `RubyGems` | `rubygems` | `RubygemsIcon` |
+| `RubyMine` | `rubymine` | `RubymineIcon` |
+| `Ruff` | `ruff` | `RuffIcon` |
+| `Rumahweb` | `rumahweb` | `RumahwebIcon` |
+| `Rumble` | `rumble` | `RumbleIcon` |
 | `RunKit` | `runkit` | `RunkitIcon` |
+| `Rundeck` | `rundeck` | `RundeckIcon` |
 | `Runkeeper` | `runkeeper` | `RunkeeperIcon` |
+| `Runrun.it` | `runrundotit` | `RunrundotitIcon` |
 | `Rust` | `rust` | `RustIcon` |
+| `RustDesk` | `rustdesk` | `RustdeskIcon` |
 | `RxDB` | `rxdb` | `RxdbIcon` |
 | `Ryanair` | `ryanair` | `RyanairIcon` |
+| `Rye` | `rye` | `RyeIcon` |
 | `S7 Airlines` | `s7airlines` | `S7airlinesIcon` |
 | `SAP` | `sap` | `SapIcon` |
 | `SCP Foundation` | `scpfoundation` | `ScpfoundationIcon` |
@@ -1603,34 +2378,55 @@
 | `SEPA` | `sepa` | `SepaIcon` |
 | `SFML` | `sfml` | `SfmlIcon` |
 | `SMRT` | `smrt` | `SmrtIcon` |
+| `SNCF` | `sncf` | `SncfIcon` |
 | `SPDX` | `spdx` | `SpdxIcon` |
+| `SQLAlchemy` | `sqlalchemy` | `SqlalchemyIcon` |
 | `SQLite` | `sqlite` | `SqliteIcon` |
+| `SRG SSR` | `srgssr` | `SrgssrIcon` |
 | `SSRN` | `ssrn` | `SsrnIcon` |
+| `SST` | `sst` | `SstIcon` |
 | `STARZ` | `starz` | `StarzIcon` |
 | `STMicroelectronics` | `stmicroelectronics` | `StmicroelectronicsIcon` |
 | `SUSE` | `suse` | `SuseIcon` |
 | `SVG` | `svg` | `SvgIcon` |
+| `SVG.js` | `svgdotjs` | `SvgdotjsIcon` |
 | `SVGO` | `svgo` | `SvgoIcon` |
 | `SWC` | `swc` | `SwcIcon` |
+| `SWR` | `swr` | `SwrIcon` |
 | `Sabanci` | `sabanci` | `SabanciIcon` |
 | `Safari` | `safari` | `SafariIcon` |
+| `Sage` | `sage` | `SageIcon` |
+| `SageMath` | `sagemath` | `SagemathIcon` |
 | `Sahibinden` | `sahibinden` | `SahibindenIcon` |
+| `Sailfish OS` | `sailfishos` | `SailfishosIcon` |
+| `Sails.js` | `sailsdotjs` | `SailsdotjsIcon` |
 | `Salesforce` | `salesforce` | `SalesforceIcon` |
+| `Salla` | `salla` | `SallaIcon` |
 | `Salt Project` | `saltproject` | `SaltprojectIcon` |
+| `Sam's Club` | `samsclub` | `SamsclubIcon` |
 | `Samsung` | `samsung` | `SamsungIcon` |
 | `Samsung Pay` | `samsungpay` | `SamsungpayIcon` |
 | `San Francisco Municipal Railway` | `sanfranciscomunicipalrailway` | `SanfranciscomunicipalrailwayIcon` |
 | `SanDisk` | `sandisk` | `SandiskIcon` |
+| `Sanic` | `sanic` | `SanicIcon` |
+| `Sanity` | `sanity` | `SanityIcon` |
+| `Sartorius` | `sartorius` | `SartoriusIcon` |
 | `Sass` | `sass` | `SassIcon` |
 | `Sat.1` | `sat1` | `Sat1Icon` |
+| `Satellite` | `satellite` | `SatelliteIcon` |
 | `Saturn` | `saturn` | `SaturnIcon` |
 | `Sauce Labs` | `saucelabs` | `SaucelabsIcon` |
+| `Saudia` | `saudia` | `SaudiaIcon` |
 | `Scala` | `scala` | `ScalaIcon` |
+| `Scalar` | `scalar` | `ScalarIcon` |
 | `Scaleway` | `scaleway` | `ScalewayIcon` |
 | `Scania` | `scania` | `ScaniaIcon` |
 | `Schneider Electric` | `schneiderelectric` | `SchneiderelectricIcon` |
 | `SciPy` | `scipy` | `ScipyIcon` |
+| `Scilab` | `scilab` | `ScilabIcon` |
 | `Scopus` | `scopus` | `ScopusIcon` |
+| `Scrapbox` | `scrapbox` | `ScrapboxIcon` |
+| `Scrapy` | `scrapy` | `ScrapyIcon` |
 | `Scratch` | `scratch` | `ScratchIcon` |
 | `Screencastify` | `screencastify` | `ScreencastifyIcon` |
 | `Scribd` | `scribd` | `ScribdIcon` |
@@ -1638,94 +2434,126 @@
 | `ScrollReveal` | `scrollreveal` | `ScrollrevealIcon` |
 | `Scrum Alliance` | `scrumalliance` | `ScrumallianceIcon` |
 | `Scrutinizer CI` | `scrutinizerci` | `ScrutinizerciIcon` |
+| `ScyllaDB` | `scylladb` | `ScylladbIcon` |
 | `Seagate` | `seagate` | `SeagateIcon` |
+| `SearXNG` | `searxng` | `SearxngIcon` |
+| `SeatGeek` | `seatgeek` | `SeatgeekIcon` |
+| `SecurityScorecard` | `securityscorecard` | `SecurityscorecardIcon` |
 | `Sefaria` | `sefaria` | `SefariaIcon` |
 | `Sega` | `sega` | `SegaIcon` |
 | `Selenium` | `selenium` | `SeleniumIcon` |
 | `Sellfy` | `sellfy` | `SellfyIcon` |
 | `SemVer` | `semver` | `SemverIcon` |
+| `Semantic Scholar` | `semanticscholar` | `SemanticscholarIcon` |
+| `Semantic UI` | `semanticui` | `SemanticuiIcon` |
 | `Semantic UI React` | `semanticuireact` | `SemanticuireactIcon` |
 | `Semantic Web` | `semanticweb` | `SemanticwebIcon` |
 | `Semaphore CI` | `semaphoreci` | `SemaphoreciIcon` |
+| `Semrush` | `semrush` | `SemrushIcon` |
 | `Sencha` | `sencha` | `SenchaIcon` |
+| `SendGrid` | `sendgrid` | `SendgridIcon` |
 | `Sennheiser` | `sennheiser` | `SennheiserIcon` |
 | `Sensu` | `sensu` | `SensuIcon` |
 | `Sentry` | `sentry` | `SentryIcon` |
 | `Sequelize` | `sequelize` | `SequelizeIcon` |
 | `Server Fault` | `serverfault` | `ServerfaultIcon` |
 | `Serverless` | `serverless` | `ServerlessIcon` |
+| `Session` | `session` | `SessionIcon` |
+| `Sessionize` | `sessionize` | `SessionizeIcon` |
+| `Setapp` | `setapp` | `SetappIcon` |
 | `Shadow` | `shadow` | `ShadowIcon` |
 | `Shanghai Metro` | `shanghaimetro` | `ShanghaimetroIcon` |
+| `ShareX` | `sharex` | `SharexIcon` |
 | `Shazam` | `shazam` | `ShazamIcon` |
 | `Shell` | `shell` | `ShellIcon` |
 | `Shelly` | `shelly` | `ShellyIcon` |
 | `Shenzhen Metro` | `shenzhenmetro` | `ShenzhenmetroIcon` |
 | `Shields.io` | `shieldsdotio` | `ShieldsdotioIcon` |
 | `Shikimori` | `shikimori` | `ShikimoriIcon` |
+| `Shopee` | `shopee` | `ShopeeIcon` |
 | `Shopify` | `shopify` | `ShopifyIcon` |
 | `Shopware` | `shopware` | `ShopwareIcon` |
-| `Shotcut` | `shotcut` | `ShotcutIcon` |
+| `Shortcut` | `shortcut` | `ShortcutIcon` |
 | `Showpad` | `showpad` | `ShowpadIcon` |
 | `Showtime` | `showtime` | `ShowtimeIcon` |
+| `Showwcase` | `showwcase` | `ShowwcaseIcon` |
 | `Shutterstock` | `shutterstock` | `ShutterstockIcon` |
+| `SiFive` | `sifive` | `SifiveIcon` |
+| `SiYuan` | `siyuan` | `SiyuanIcon` |
+| `SideQuest` | `sidequest` | `SidequestIcon` |
+| `Sidekiq` | `sidekiq` | `SidekiqIcon` |
 | `Siemens` | `siemens` | `SiemensIcon` |
 | `Signal` | `signal` | `SignalIcon` |
+| `Silver Airways` | `silverairways` | `SilverairwaysIcon` |
+| `Similarweb` | `similarweb` | `SimilarwebIcon` |
 | `Simkl` | `simkl` | `SimklIcon` |
 | `Simple Analytics` | `simpleanalytics` | `SimpleanalyticsIcon` |
 | `Simple Icons` | `simpleicons` | `SimpleiconsIcon` |
+| `SimpleLogin` | `simplelogin` | `SimpleloginIcon` |
+| `SimpleX` | `simplex` | `SimplexIcon` |
 | `Simplenote` | `simplenote` | `SimplenoteIcon` |
 | `Sina Weibo` | `sinaweibo` | `SinaweiboIcon` |
+| `Singapore Airlines` | `singaporeairlines` | `SingaporeairlinesIcon` |
 | `SingleStore` | `singlestore` | `SinglestoreIcon` |
 | `SitePoint` | `sitepoint` | `SitepointIcon` |
+| `Sitecore` | `sitecore` | `SitecoreIcon` |
+| `Skaffold` | `skaffold` | `SkaffoldIcon` |
 | `Sketch` | `sketch` | `SketchIcon` |
 | `SketchUp` | `sketchup` | `SketchupIcon` |
 | `Sketchfab` | `sketchfab` | `SketchfabIcon` |
 | `Skillshare` | `skillshare` | `SkillshareIcon` |
 | `Sky` | `sky` | `SkyIcon` |
-| `Skynet` | `skynet` | `SkynetIcon` |
 | `Skypack` | `skypack` | `SkypackIcon` |
-| `Skype` | `skype` | `SkypeIcon` |
-| `Skype for Business` | `skypeforbusiness` | `SkypeforbusinessIcon` |
 | `Slack` | `slack` | `SlackIcon` |
 | `Slackware` | `slackware` | `SlackwareIcon` |
 | `Slashdot` | `slashdot` | `SlashdotIcon` |
 | `SlickPic` | `slickpic` | `SlickpicIcon` |
 | `SlideShare` | `slideshare` | `SlideshareIcon` |
 | `Slides` | `slides` | `SlidesIcon` |
+| `Slint` | `slint` | `SlintIcon` |
 | `SmartThings` | `smartthings` | `SmartthingsIcon` |
 | `Smashing Magazine` | `smashingmagazine` | `SmashingmagazineIcon` |
 | `SmugMug` | `smugmug` | `SmugmugIcon` |
 | `Snapchat` | `snapchat` | `SnapchatIcon` |
 | `Snapcraft` | `snapcraft` | `SnapcraftIcon` |
+| `Snapdragon` | `snapdragon` | `SnapdragonIcon` |
+| `Snort` | `snort` | `SnortIcon` |
 | `Snowflake` | `snowflake` | `SnowflakeIcon` |
 | `Snowpack` | `snowpack` | `SnowpackIcon` |
 | `Snyk` | `snyk` | `SnykIcon` |
 | `Social Blade` | `socialblade` | `SocialbladeIcon` |
 | `Society6` | `society6` | `Society6Icon` |
+| `Socket` | `socket` | `SocketIcon` |
 | `Socket.io` | `socketdotio` | `SocketdotioIcon` |
+| `Softcatalà` | `softcatala` | `SoftcatalaIcon` |
+| `Softpedia` | `softpedia` | `SoftpediaIcon` |
 | `Sogou` | `sogou` | `SogouIcon` |
+| `Solana` | `solana` | `SolanaIcon` |
 | `Solid` | `solid` | `SolidIcon` |
 | `Solidity` | `solidity` | `SolidityIcon` |
 | `Sololearn` | `sololearn` | `SololearnIcon` |
 | `Solus` | `solus` | `SolusIcon` |
+| `Sonar` | `sonar` | `SonarIcon` |
 | `SonarCloud` | `sonarcloud` | `SonarcloudIcon` |
 | `SonarLint` | `sonarlint` | `SonarlintIcon` |
 | `SonarQube` | `sonarqube` | `SonarqubeIcon` |
-| `SonarSource` | `sonarsource` | `SonarsourceIcon` |
+| `Sonatype` | `sonatype` | `SonatypeIcon` |
 | `Songkick` | `songkick` | `SongkickIcon` |
 | `Songoda` | `songoda` | `SongodaIcon` |
 | `SonicWall` | `sonicwall` | `SonicwallIcon` |
 | `Sonos` | `sonos` | `SonosIcon` |
 | `Sony` | `sony` | `SonyIcon` |
+| `Soriana` | `soriana` | `SorianaIcon` |
 | `SoundCloud` | `soundcloud` | `SoundcloudIcon` |
 | `Soundcharts` | `soundcharts` | `SoundchartsIcon` |
 | `Source Engine` | `sourceengine` | `SourceengineIcon` |
 | `SourceForge` | `sourceforge` | `SourceforgeIcon` |
-| `Sourcegraph` | `sourcegraph` | `SourcegraphIcon` |
+| `SourceHut` | `sourcehut` | `SourcehutIcon` |
 | `Sourcetree` | `sourcetree` | `SourcetreeIcon` |
 | `Southwest Airlines` | `southwestairlines` | `SouthwestairlinesIcon` |
 | `SpaceX` | `spacex` | `SpacexIcon` |
 | `Spacemacs` | `spacemacs` | `SpacemacsIcon` |
+| `Spaceship` | `spaceship` | `SpaceshipIcon` |
 | `Spark AR` | `sparkar` | `SparkarIcon` |
 | `SparkFun` | `sparkfun` | `SparkfunIcon` |
 | `SparkPost` | `sparkpost` | `SparkpostIcon` |
@@ -1733,8 +2561,12 @@
 | `Speaker Deck` | `speakerdeck` | `SpeakerdeckIcon` |
 | `Spectrum` | `spectrum` | `SpectrumIcon` |
 | `Speedtest` | `speedtest` | `SpeedtestIcon` |
+| `SpeedyPage` | `speedypage` | `SpeedypageIcon` |
+| `Sphere Online Judge` | `spoj` | `SpojIcon` |
+| `Sphinx` | `sphinx` | `SphinxIcon` |
+| `SpigotMC` | `spigotmc` | `SpigotmcIcon` |
+| `Spine` | `spine` | `SpineIcon` |
 | `Spinnaker` | `spinnaker` | `SpinnakerIcon` |
-| `Spinrilla` | `spinrilla` | `SpinrillaIcon` |
 | `Splunk` | `splunk` | `SplunkIcon` |
 | `Spond` | `spond` | `SpondIcon` |
 | `Spotify` | `spotify` | `SpotifyIcon` |
@@ -1750,21 +2582,28 @@
 | `Squarespace` | `squarespace` | `SquarespaceIcon` |
 | `Stack Exchange` | `stackexchange` | `StackexchangeIcon` |
 | `Stack Overflow` | `stackoverflow` | `StackoverflowIcon` |
+| `StackBlitz` | `stackblitz` | `StackblitzIcon` |
 | `StackEdit` | `stackedit` | `StackeditIcon` |
-| `StackPath` | `stackpath` | `StackpathIcon` |
+| `StackHawk` | `stackhawk` | `StackhawkIcon` |
 | `StackShare` | `stackshare` | `StackshareIcon` |
 | `Stackbit` | `stackbit` | `StackbitIcon` |
 | `Stadia` | `stadia` | `StadiaIcon` |
 | `Staffbase` | `staffbase` | `StaffbaseIcon` |
+| `Stagetimer` | `stagetimer` | `StagetimerIcon` |
+| `Standard Resume` | `standardresume` | `StandardresumeIcon` |
+| `StandardJS` | `standardjs` | `StandardjsIcon` |
 | `Star Trek` | `startrek` | `StartrekIcon` |
 | `Starbucks` | `starbucks` | `StarbucksIcon` |
 | `Stardock` | `stardock` | `StardockIcon` |
 | `Starling Bank` | `starlingbank` | `StarlingbankIcon` |
 | `Starship` | `starship` | `StarshipIcon` |
+| `Startpage` | `startpage` | `StartpageIcon` |
 | `Statamic` | `statamic` | `StatamicIcon` |
+| `Statista` | `statista` | `StatistaIcon` |
 | `Statuspage` | `statuspage` | `StatuspageIcon` |
 | `Statuspal` | `statuspal` | `StatuspalIcon` |
 | `Steam` | `steam` | `SteamIcon` |
+| `Steam Deck` | `steamdeck` | `SteamdeckIcon` |
 | `SteamDB` | `steamdb` | `SteamdbIcon` |
 | `Steamworks` | `steamworks` | `SteamworksIcon` |
 | `Steelseries` | `steelseries` | `SteelseriesIcon` |
@@ -1772,122 +2611,191 @@
 | `Steemit` | `steemit` | `SteemitIcon` |
 | `Steinberg` | `steinberg` | `SteinbergIcon` |
 | `Stellar` | `stellar` | `StellarIcon` |
+| `Stencil` | `stencil` | `StencilIcon` |
 | `Stencyl` | `stencyl` | `StencylIcon` |
 | `Stimulus` | `stimulus` | `StimulusIcon` |
-| `Stitcher` | `stitcher` | `StitcherIcon` |
+| `StockX` | `stockx` | `StockxIcon` |
 | `StopStalk` | `stopstalk` | `StopstalkIcon` |
 | `Storyblok` | `storyblok` | `StoryblokIcon` |
 | `Storybook` | `storybook` | `StorybookIcon` |
 | `Strapi` | `strapi` | `StrapiIcon` |
 | `Strava` | `strava` | `StravaIcon` |
+| `StreamRunners` | `streamrunners` | `StreamrunnersIcon` |
+| `Streamlabs` | `streamlabs` | `StreamlabsIcon` |
 | `Streamlit` | `streamlit` | `StreamlitIcon` |
+| `Stremio` | `stremio` | `StremioIcon` |
 | `Stripe` | `stripe` | `StripeIcon` |
+| `Stryker` | `stryker` | `StrykerIcon` |
 | `StubHub` | `stubhub` | `StubhubIcon` |
+| `Studio 3T` | `studio3t` | `Studio3tIcon` |
 | `StyleShare` | `styleshare` | `StyleshareIcon` |
 | `Stylus` | `stylus` | `StylusIcon` |
 | `Subaru` | `subaru` | `SubaruIcon` |
 | `Sublime Text` | `sublimetext` | `SublimetextIcon` |
 | `Substack` | `substack` | `SubstackIcon` |
+| `Subtitle Edit` | `subtitleedit` | `SubtitleeditIcon` |
 | `Subversion` | `subversion` | `SubversionIcon` |
+| `Sui` | `sui` | `SuiIcon` |
 | `Sumo Logic` | `sumologic` | `SumologicIcon` |
+| `Suno` | `suno` | `SunoIcon` |
+| `Sunrise` | `sunrise` | `SunriseIcon` |
 | `Supabase` | `supabase` | `SupabaseIcon` |
 | `Super User` | `superuser` | `SuperuserIcon` |
+| `Supercrease` | `supercrease` | `SupercreaseIcon` |
 | `Supermicro` | `supermicro` | `SupermicroIcon` |
+| `Surfshark` | `surfshark` | `SurfsharkIcon` |
+| `SurrealDB` | `surrealdb` | `SurrealdbIcon` |
 | `SurveyMonkey` | `surveymonkey` | `SurveymonkeyIcon` |
 | `Suzuki` | `suzuki` | `SuzukiIcon` |
 | `Svelte` | `svelte` | `SvelteIcon` |
+| `SvgTrace` | `svgtrace` | `SvgtraceIcon` |
 | `Swagger` | `swagger` | `SwaggerIcon` |
 | `Swarm` | `swarm` | `SwarmIcon` |
+| `Sway` | `sway` | `SwayIcon` |
 | `Swift` | `swift` | `SwiftIcon` |
 | `Swiggy` | `swiggy` | `SwiggyIcon` |
 | `Swiper` | `swiper` | `SwiperIcon` |
 | `SymPy` | `sympy` | `SympyIcon` |
 | `Symantec` | `symantec` | `SymantecIcon` |
+| `Symbolab` | `symbolab` | `SymbolabIcon` |
 | `Symfony` | `symfony` | `SymfonyIcon` |
 | `Symphony` | `symphony` | `SymphonyIcon` |
+| `Syncthing` | `syncthing` | `SyncthingIcon` |
 | `Synology` | `synology` | `SynologyIcon` |
+| `System76` | `system76` | `System76Icon` |
 | `São Paulo Metro` | `saopaulometro` | `SaopaulometroIcon` |
-| `T-Mobile` | `tmobile` | `TmobileIcon` |
+| `TAROM` | `tarom` | `TaromIcon` |
 | `TED` | `ted` | `TedIcon` |
-| `TELE5` | `tele5` | `Tele5Icon` |
+| `TELE 5` | `tele5` | `Tele5Icon` |
+| `TGA` | `tga` | `TgaIcon` |
+| `THE FINALS` | `thefinals` | `ThefinalsIcon` |
+| `TOML` | `toml` | `TomlIcon` |
+| `TON` | `ton` | `TonIcon` |
+| `TOTVS` | `totvs` | `TotvsIcon` |
 | `TP-Link` | `tplink` | `TplinkIcon` |
 | `TUI` | `tui` | `TuiIcon` |
 | `TV Time` | `tvtime` | `TvtimeIcon` |
+| `TV4 Play` | `tv4play` | `Tv4playIcon` |
 | `TYPO3` | `typo3` | `Typo3Icon` |
-| `Tableau` | `tableau` | `TableauIcon` |
+| `Tabelog` | `tabelog` | `TabelogIcon` |
+| `TableCheck` | `tablecheck` | `TablecheckIcon` |
+| `Taco Bell` | `tacobell` | `TacobellIcon` |
+| `Taichi Graphics` | `taichigraphics` | `TaichigraphicsIcon` |
+| `Taichi Lang` | `taichilang` | `TaichilangIcon` |
 | `Tails` | `tails` | `TailsIcon` |
+| `Tailscale` | `tailscale` | `TailscaleIcon` |
 | `Tailwind CSS` | `tailwindcss` | `TailwindcssIcon` |
+| `Taipy` | `taipy` | `TaipyIcon` |
+| `Take-Two Interactive Software` | `taketwointeractivesoftware` | `TaketwointeractivesoftwareIcon` |
 | `Talend` | `talend` | `TalendIcon` |
 | `Talenthouse` | `talenthouse` | `TalenthouseIcon` |
+| `Talos` | `talos` | `TalosIcon` |
+| `Tamiya` | `tamiya` | `TamiyaIcon` |
 | `Tampermonkey` | `tampermonkey` | `TampermonkeyIcon` |
 | `Taobao` | `taobao` | `TaobaoIcon` |
 | `Tapas` | `tapas` | `TapasIcon` |
 | `Target` | `target` | `TargetIcon` |
+| `Task` | `task` | `TaskIcon` |
 | `Tasmota` | `tasmota` | `TasmotaIcon` |
 | `Tata` | `tata` | `TataIcon` |
+| `Tata Consultancy Services` | `tcs` | `TcsIcon` |
 | `Tauri` | `tauri` | `TauriIcon` |
 | `TaxBuzz` | `taxbuzz` | `TaxbuzzIcon` |
+| `Teal` | `teal` | `TealIcon` |
 | `TeamCity` | `teamcity` | `TeamcityIcon` |
 | `TeamSpeak` | `teamspeak` | `TeamspeakIcon` |
 | `TeamViewer` | `teamviewer` | `TeamviewerIcon` |
+| `TechCrunch` | `techcrunch` | `TechcrunchIcon` |
+| `TeePublic` | `teepublic` | `TeepublicIcon` |
 | `Teespring` | `teespring` | `TeespringIcon` |
 | `Tekton` | `tekton` | `TektonIcon` |
+| `Telefónica` | `telefonica` | `TelefonicaIcon` |
 | `Telegram` | `telegram` | `TelegramIcon` |
 | `Telegraph` | `telegraph` | `TelegraphIcon` |
 | `Temporal` | `temporal` | `TemporalIcon` |
-| `Tencent QQ` | `tencentqq` | `TencentqqIcon` |
 | `TensorFlow` | `tensorflow` | `TensorflowIcon` |
 | `Teradata` | `teradata` | `TeradataIcon` |
+| `Termius` | `termius` | `TermiusIcon` |
 | `Terraform` | `terraform` | `TerraformIcon` |
 | `Tesco` | `tesco` | `TescoIcon` |
 | `Tesla` | `tesla` | `TeslaIcon` |
 | `TestCafe` | `testcafe` | `TestcafeIcon` |
+| `TestRail` | `testrail` | `TestrailIcon` |
 | `Testin` | `testin` | `TestinIcon` |
 | `Testing Library` | `testinglibrary` | `TestinglibraryIcon` |
 | `Tether` | `tether` | `TetherIcon` |
 | `Textpattern` | `textpattern` | `TextpatternIcon` |
+| `Thangs` | `thangs` | `ThangsIcon` |
+| `Thanos` | `thanos` | `ThanosIcon` |
 | `The Algorithms` | `thealgorithms` | `ThealgorithmsIcon` |
+| `The Boring Company` | `theboringcompany` | `TheboringcompanyIcon` |
 | `The Conversation` | `theconversation` | `TheconversationIcon` |
+| `The Guardian` | `theguardian` | `TheguardianIcon` |
 | `The Irish Times` | `theirishtimes` | `TheirishtimesIcon` |
 | `The Mighty` | `themighty` | `ThemightyIcon` |
 | `The Models Resource` | `themodelsresource` | `ThemodelsresourceIcon` |
 | `The Movie Database` | `themoviedatabase` | `ThemoviedatabaseIcon` |
 | `The North Face` | `thenorthface` | `ThenorthfaceIcon` |
+| `The Odin Project` | `theodinproject` | `TheodinprojectIcon` |
 | `The Register` | `theregister` | `TheregisterIcon` |
 | `The Sounds Resource` | `thesoundsresource` | `ThesoundsresourceIcon` |
 | `The Spriters Resource` | `thespritersresource` | `ThespritersresourceIcon` |
 | `The Washington Post` | `thewashingtonpost` | `ThewashingtonpostIcon` |
+| `The Weather Channel` | `theweatherchannel` | `TheweatherchannelIcon` |
 | `Thingiverse` | `thingiverse` | `ThingiverseIcon` |
 | `ThinkPad` | `thinkpad` | `ThinkpadIcon` |
 | `Threadless` | `threadless` | `ThreadlessIcon` |
+| `Threads` | `threads` | `ThreadsIcon` |
 | `Three.js` | `threedotjs` | `ThreedotjsIcon` |
 | `Threema` | `threema` | `ThreemaIcon` |
 | `Thumbtack` | `thumbtack` | `ThumbtackIcon` |
 | `Thunderbird` | `thunderbird` | `ThunderbirdIcon` |
+| `Thunderstore` | `thunderstore` | `ThunderstoreIcon` |
+| `Thurgauer Kantonalbank` | `thurgauerkantonalbank` | `ThurgauerkantonalbankIcon` |
 | `Thymeleaf` | `thymeleaf` | `ThymeleafIcon` |
+| `TickTick` | `ticktick` | `TicktickIcon` |
 | `Ticketmaster` | `ticketmaster` | `TicketmasterIcon` |
 | `Tidal` | `tidal` | `TidalIcon` |
+| `TiddlyWiki` | `tiddlywiki` | `TiddlywikiIcon` |
 | `Tide` | `tide` | `TideIcon` |
+| `Tidyverse` | `tidyverse` | `TidyverseIcon` |
 | `TietoEVRY` | `tietoevry` | `TietoevryIcon` |
 | `TikTok` | `tiktok` | `TiktokIcon` |
+| `Tilda Publishing` | `tildapublishing` | `TildapublishingIcon` |
 | `Tile` | `tile` | `TileIcon` |
 | `Timescale` | `timescale` | `TimescaleIcon` |
+| `Tina` | `tina` | `TinaIcon` |
 | `Tinder` | `tinder` | `TinderIcon` |
+| `Tindie` | `tindie` | `TindieIcon` |
+| `Tinkercad` | `tinkercad` | `TinkercadIcon` |
 | `TinyLetter` | `tinyletter` | `TinyletterIcon` |
+| `Tistory` | `tistory` | `TistoryIcon` |
 | `Todoist` | `todoist` | `TodoistIcon` |
 | `Toggl` | `toggl` | `TogglIcon` |
+| `Toggl Track` | `toggltrack` | `ToggltrackIcon` |
 | `Tokyo Metro` | `tokyometro` | `TokyometroIcon` |
+| `Toll` | `toll` | `TollIcon` |
+| `TomTom` | `tomtom` | `TomtomIcon` |
 | `Tomorrowland` | `tomorrowland` | `TomorrowlandIcon` |
+| `Top.gg` | `topdotgg` | `TopdotggIcon` |
 | `Topcoder` | `topcoder` | `TopcoderIcon` |
 | `Toptal` | `toptal` | `ToptalIcon` |
 | `Tor Browser` | `torbrowser` | `TorbrowserIcon` |
 | `Tor Project` | `torproject` | `TorprojectIcon` |
+| `Torizon` | `torizon` | `TorizonIcon` |
 | `Toshiba` | `toshiba` | `ToshibaIcon` |
+| `TourBox` | `tourbox` | `TourboxIcon` |
+| `Tower` | `tower` | `TowerIcon` |
 | `Toyota` | `toyota` | `ToyotaIcon` |
+| `Traccar` | `traccar` | `TraccarIcon` |
+| `TradingView` | `tradingview` | `TradingviewIcon` |
 | `Traefik Mesh` | `traefikmesh` | `TraefikmeshIcon` |
+| `Traefik Proxy` | `traefikproxy` | `TraefikproxyIcon` |
+| `Trailforks` | `trailforks` | `TrailforksIcon` |
 | `TrainerRoad` | `trainerroad` | `TrainerroadIcon` |
 | `Trakt` | `trakt` | `TraktIcon` |
-| `TransferWise` | `transferwise` | `TransferwiseIcon` |
+| `Transifex` | `transifex` | `TransifexIcon` |
+| `Transmission` | `transmission` | `TransmissionIcon` |
 | `Transport for Ireland` | `transportforireland` | `TransportforirelandIcon` |
 | `Transport for London` | `transportforlondon` | `TransportforlondonIcon` |
 | `Travis CI` | `travisci` | `TravisciIcon` |
@@ -1895,12 +2803,18 @@
 | `Trello` | `trello` | `TrelloIcon` |
 | `Trend Micro` | `trendmicro` | `TrendmicroIcon` |
 | `Treyarch` | `treyarch` | `TreyarchIcon` |
+| `Tricentis` | `tricentis` | `TricentisIcon` |
+| `Trilium` | `trilium` | `TriliumIcon` |
 | `Triller` | `triller` | `TrillerIcon` |
+| `TrillerTV` | `trillertv` | `TrillertvIcon` |
+| `Trimble` | `trimble` | `TrimbleIcon` |
 | `Trino` | `trino` | `TrinoIcon` |
 | `Trip.com` | `tripdotcom` | `TripdotcomIcon` |
 | `Tripadvisor` | `tripadvisor` | `TripadvisorIcon` |
+| `Trivy` | `trivy` | `TrivyIcon` |
 | `Trove` | `trove` | `TroveIcon` |
 | `TrueNAS` | `truenas` | `TruenasIcon` |
+| `TrueUp` | `trueup` | `TrueupIcon` |
 | `Trusted Shops` | `trustedshops` | `TrustedshopsIcon` |
 | `Trustpilot` | `trustpilot` | `TrustpilotIcon` |
 | `Try It Online` | `tryitonline` | `TryitonlineIcon` |
@@ -1908,17 +2822,27 @@
 | `Tubi` | `tubi` | `TubiIcon` |
 | `Tumblr` | `tumblr` | `TumblrIcon` |
 | `TuneIn` | `tunein` | `TuneinIcon` |
+| `Turbo` | `turbo` | `TurboIcon` |
 | `TurboSquid` | `turbosquid` | `TurbosquidIcon` |
+| `Turborepo` | `turborepo` | `TurborepoIcon` |
 | `Turkish Airlines` | `turkishairlines` | `TurkishairlinesIcon` |
-| `Tutanota` | `tutanota` | `TutanotaIcon` |
+| `Turso` | `turso` | `TursoIcon` |
+| `Tuta` | `tuta` | `TutaIcon` |
 | `Twilio` | `twilio` | `TwilioIcon` |
+| `Twinkly` | `twinkly` | `TwinklyIcon` |
+| `Twinmotion` | `twinmotion` | `TwinmotionIcon` |
 | `Twitch` | `twitch` | `TwitchIcon` |
-| `Twitter` | `twitter` | `TwitterIcon` |
-| `Twoo` | `twoo` | `TwooIcon` |
+| `TypeORM` | `typeorm` | `TypeormIcon` |
 | `TypeScript` | `typescript` | `TypescriptIcon` |
 | `Typeform` | `typeform` | `TypeformIcon` |
+| `Typer` | `typer` | `TyperIcon` |
+| `Typst` | `typst` | `TypstIcon` |
+| `Télé-Québec` | `telequebec` | `TelequebecIcon` |
+| `U.S. News` | `udotsdotnews` | `UdotsdotnewsIcon` |
 | `UFC` | `ufc` | `UfcIcon` |
 | `UIkit` | `uikit` | `UikitIcon` |
+| `UKCA` | `ukca` | `UkcaIcon` |
+| `UML` | `uml` | `UmlIcon` |
 | `UPS` | `ups` | `UpsIcon` |
 | `USPS` | `usps` | `UspsIcon` |
 | `Uber` | `uber` | `UberIcon` |
@@ -1926,90 +2850,144 @@
 | `Ubiquiti` | `ubiquiti` | `UbiquitiIcon` |
 | `Ubisoft` | `ubisoft` | `UbisoftIcon` |
 | `Ubuntu` | `ubuntu` | `UbuntuIcon` |
+| `Ubuntu MATE` | `ubuntumate` | `UbuntumateIcon` |
 | `Udacity` | `udacity` | `UdacityIcon` |
 | `Udemy` | `udemy` | `UdemyIcon` |
+| `UiPath` | `uipath` | `UipathIcon` |
+| `Ultralytics` | `ultralytics` | `UltralyticsIcon` |
 | `Ulule` | `ulule` | `UluleIcon` |
+| `Umami` | `umami` | `UmamiIcon` |
 | `Umbraco` | `umbraco` | `UmbracoIcon` |
+| `Umbrel` | `umbrel` | `UmbrelIcon` |
+| `UnJS` | `unjs` | `UnjsIcon` |
 | `Unacademy` | `unacademy` | `UnacademyIcon` |
 | `Under Armour` | `underarmour` | `UnderarmourIcon` |
 | `Underscore.js` | `underscoredotjs` | `UnderscoredotjsIcon` |
 | `Undertale` | `undertale` | `UndertaleIcon` |
 | `Unicode` | `unicode` | `UnicodeIcon` |
 | `Unilever` | `unilever` | `UnileverIcon` |
+| `Uniqlo` | `uniqlo_ja` | `Uniqlo_jaIcon` |
 | `United Airlines` | `unitedairlines` | `UnitedairlinesIcon` |
+| `United Nations` | `unitednations` | `UnitednationsIcon` |
 | `Unity` | `unity` | `UnityIcon` |
+| `Unlicense` | `unlicense` | `UnlicenseIcon` |
+| `UnoCSS` | `unocss` | `UnocssIcon` |
 | `Unraid` | `unraid` | `UnraidIcon` |
 | `Unreal Engine` | `unrealengine` | `UnrealengineIcon` |
 | `Unsplash` | `unsplash` | `UnsplashIcon` |
-| `Untangle` | `untangle` | `UntangleIcon` |
 | `Untappd` | `untappd` | `UntappdIcon` |
 | `UpCloud` | `upcloud` | `UpcloudIcon` |
 | `UpLabs` | `uplabs` | `UplabsIcon` |
-| `Uploaded` | `uploaded` | `UploadedIcon` |
-| `Uptobox` | `uptobox` | `UptoboxIcon` |
+| `Uphold` | `uphold` | `UpholdIcon` |
+| `Upptime` | `upptime` | `UpptimeIcon` |
+| `Upstash` | `upstash` | `UpstashIcon` |
+| `Uptime Kuma` | `uptimekuma` | `UptimekumaIcon` |
 | `Upwork` | `upwork` | `UpworkIcon` |
 | `V` | `v` | `VIcon` |
+| `V2EX` | `v2ex` | `V2exIcon` |
 | `V8` | `v8` | `V8Icon` |
+| `VEED` | `veed` | `VeedIcon` |
+| `VEGAS` | `vegas` | `VegasIcon` |
 | `VEXXHOST` | `vexxhost` | `VexxhostIcon` |
 | `VK` | `vk` | `VkIcon` |
 | `VLC media player` | `vlcmediaplayer` | `VlcmediaplayerIcon` |
 | `VMware` | `vmware` | `VmwareIcon` |
 | `VOX` | `vox` | `VoxIcon` |
+| `VRChat` | `vrchat` | `VrchatIcon` |
 | `VSCO` | `vsco` | `VscoIcon` |
+| `VSCodium` | `vscodium` | `VscodiumIcon` |
 | `VTEX` | `vtex` | `VtexIcon` |
 | `Vaadin` | `vaadin` | `VaadinIcon` |
 | `Vagrant` | `vagrant` | `VagrantIcon` |
+| `Vala` | `vala` | `ValaIcon` |
+| `Valorant` | `valorant` | `ValorantIcon` |
 | `Valve` | `valve` | `ValveIcon` |
 | `Vapor` | `vapor` | `VaporIcon` |
 | `Vault` | `vault` | `VaultIcon` |
+| `Vaultwarden` | `vaultwarden` | `VaultwardenIcon` |
 | `Vauxhall` | `vauxhall` | `VauxhallIcon` |
+| `Vectary` | `vectary` | `VectaryIcon` |
 | `Vector Logo Zone` | `vectorlogozone` | `VectorlogozoneIcon` |
 | `Vectorworks` | `vectorworks` | `VectorworksIcon` |
 | `Veeam` | `veeam` | `VeeamIcon` |
 | `Veepee` | `veepee` | `VeepeeIcon` |
+| `Vega` | `vega` | `VegaIcon` |
+| `Velocity` | `velocity` | `VelocityIcon` |
 | `Velog` | `velog` | `VelogIcon` |
+| `Vencord` | `vencord` | `VencordIcon` |
 | `Venmo` | `venmo` | `VenmoIcon` |
 | `Vercel` | `vercel` | `VercelIcon` |
 | `Verdaccio` | `verdaccio` | `VerdaccioIcon` |
 | `Veritas` | `veritas` | `VeritasIcon` |
 | `Verizon` | `verizon` | `VerizonIcon` |
+| `Vespa` | `vespa` | `VespaIcon` |
+| `Vestel` | `vestel` | `VestelIcon` |
 | `Viadeo` | `viadeo` | `ViadeoIcon` |
+| `Viaplay` | `viaplay` | `ViaplayIcon` |
 | `Viber` | `viber` | `ViberIcon` |
+| `Viblo` | `viblo` | `VibloIcon` |
+| `VictoriaMetrics` | `victoriametrics` | `VictoriametricsIcon` |
+| `Victron Energy` | `victronenergy` | `VictronenergyIcon` |
 | `Vim` | `vim` | `VimIcon` |
 | `Vimeo` | `vimeo` | `VimeoIcon` |
 | `Vimeo Livestream` | `vimeolivestream` | `VimeolivestreamIcon` |
+| `Vinted` | `vinted` | `VintedIcon` |
 | `Virgin` | `virgin` | `VirginIcon` |
+| `Virgin Atlantic` | `virginatlantic` | `VirginatlanticIcon` |
+| `Virgin Media` | `virginmedia` | `VirginmediaIcon` |
 | `VirtualBox` | `virtualbox` | `VirtualboxIcon` |
 | `VirusTotal` | `virustotal` | `VirustotalIcon` |
 | `Visa` | `visa` | `VisaIcon` |
-| `Visual Studio` | `visualstudio` | `VisualstudioIcon` |
-| `Visual Studio Code` | `visualstudiocode` | `VisualstudiocodeIcon` |
 | `Vite` | `vite` | `ViteIcon` |
+| `VitePress` | `vitepress` | `VitepressIcon` |
+| `Vitess` | `vitess` | `VitessIcon` |
+| `Vitest` | `vitest` | `VitestIcon` |
+| `Viva Wallet` | `vivawallet` | `VivawalletIcon` |
 | `Vivaldi` | `vivaldi` | `VivaldiIcon` |
 | `Vivino` | `vivino` | `VivinoIcon` |
+| `Vivint` | `vivint` | `VivintIcon` |
+| `VoIP.ms` | `voipdotms` | `VoipdotmsIcon` |
 | `Vodafone` | `vodafone` | `VodafoneIcon` |
+| `Void Linux` | `voidlinux` | `VoidlinuxIcon` |
 | `Volkswagen` | `volkswagen` | `VolkswagenIcon` |
 | `Volvo` | `volvo` | `VolvoIcon` |
 | `Vonage` | `vonage` | `VonageIcon` |
+| `Voron Design` | `vorondesign` | `VorondesignIcon` |
+| `Vowpal Wabbit` | `vowpalwabbit` | `VowpalwabbitIcon` |
 | `Vue.js` | `vuedotjs` | `VuedotjsIcon` |
 | `Vuetify` | `vuetify` | `VuetifyIcon` |
 | `Vulkan` | `vulkan` | `VulkanIcon` |
 | `Vultr` | `vultr` | `VultrIcon` |
-| `W3C` | `w3c` | `W3cIcon` |
+| `Vyond` | `vyond` | `VyondIcon` |
+| `W3Schools` | `w3schools` | `W3schoolsIcon` |
 | `WALKMAN` | `walkman` | `WalkmanIcon` |
+| `WEB.DE` | `webdotde` | `WebdotdeIcon` |
 | `WEBTOON` | `webtoon` | `WebtoonIcon` |
 | `WEMO` | `wemo` | `WemoIcon` |
 | `WP Engine` | `wpengine` | `WpengineIcon` |
 | `WP Rocket` | `wprocket` | `WprocketIcon` |
+| `WPExplorer` | `wpexplorer` | `WpexplorerIcon` |
 | `WWE` | `wwe` | `WweIcon` |
+| `WXT` | `wxt` | `WxtIcon` |
+| `Wacom` | `wacom` | `WacomIcon` |
+| `Wagmi` | `wagmi` | `WagmiIcon` |
 | `Wagtail` | `wagtail` | `WagtailIcon` |
+| `Wails` | `wails` | `WailsIcon` |
 | `WakaTime` | `wakatime` | `WakatimeIcon` |
 | `Wallabag` | `wallabag` | `WallabagIcon` |
+| `WalletConnect` | `walletconnect` | `WalletconnectIcon` |
 | `Walmart` | `walmart` | `WalmartIcon` |
+| `Wantedly` | `wantedly` | `WantedlyIcon` |
 | `Wappalyzer` | `wappalyzer` | `WappalyzerIcon` |
 | `Warner Bros.` | `warnerbros` | `WarnerbrosIcon` |
+| `Warp` | `warp` | `WarpIcon` |
+| `Wasabi` | `wasabi` | `WasabiIcon` |
+| `Wasmer` | `wasmer` | `WasmerIcon` |
+| `Watchtower` | `watchtower` | `WatchtowerIcon` |
 | `Wattpad` | `wattpad` | `WattpadIcon` |
+| `Wayland` | `wayland` | `WaylandIcon` |
 | `Waze` | `waze` | `WazeIcon` |
+| `WazirX` | `wazirx` | `WazirxIcon` |
 | `WeChat` | `wechat` | `WechatIcon` |
 | `WeGame` | `wegame` | `WegameIcon` |
 | `WeTransfer` | `wetransfer` | `WetransferIcon` |
@@ -2019,39 +2997,41 @@
 | `WebAssembly` | `webassembly` | `WebassemblyIcon` |
 | `WebAuthn` | `webauthn` | `WebauthnIcon` |
 | `WebGL` | `webgl` | `WebglIcon` |
+| `WebGPU` | `webgpu` | `WebgpuIcon` |
 | `WebMoney` | `webmoney` | `WebmoneyIcon` |
 | `WebRTC` | `webrtc` | `WebrtcIcon` |
 | `WebStorm` | `webstorm` | `WebstormIcon` |
 | `WebdriverIO` | `webdriverio` | `WebdriverioIcon` |
+| `Webex` | `webex` | `WebexIcon` |
 | `Webflow` | `webflow` | `WebflowIcon` |
 | `Weblate` | `weblate` | `WeblateIcon` |
 | `Webmin` | `webmin` | `WebminIcon` |
 | `Webpack` | `webpack` | `WebpackIcon` |
 | `Weights & Biases` | `weightsandbiases` | `WeightsandbiasesIcon` |
 | `Welcome to the Jungle` | `welcometothejungle` | `WelcometothejungleIcon` |
+| `Wellfound` | `wellfound` | `WellfoundIcon` |
+| `Wells Fargo` | `wellsfargo` | `WellsfargoIcon` |
 | `Western Digital` | `westerndigital` | `WesterndigitalIcon` |
+| `Western Union` | `westernunion` | `WesternunionIcon` |
+| `WezTerm` | `wezterm` | `WeztermIcon` |
 | `WhatsApp` | `whatsapp` | `WhatsappIcon` |
 | `When I Work` | `wheniwork` | `WheniworkIcon` |
-| `WhiteSource` | `whitesource` | `WhitesourceIcon` |
-| `Wii` | `wii` | `WiiIcon` |
-| `Wii U` | `wiiu` | `WiiuIcon` |
 | `Wiki.js` | `wikidotjs` | `WikidotjsIcon` |
+| `Wikibooks` | `wikibooks` | `WikibooksIcon` |
 | `Wikidata` | `wikidata` | `WikidataIcon` |
 | `Wikimedia Commons` | `wikimediacommons` | `WikimediacommonsIcon` |
+| `Wikimedia Foundation` | `wikimediafoundation` | `WikimediafoundationIcon` |
 | `Wikipedia` | `wikipedia` | `WikipediaIcon` |
 | `Wikiquote` | `wikiquote` | `WikiquoteIcon` |
+| `Wikiversity` | `wikiversity` | `WikiversityIcon` |
 | `Wikivoyage` | `wikivoyage` | `WikivoyageIcon` |
 | `Winamp` | `winamp` | `WinampIcon` |
-| `Windi CSS` | `windicss` | `WindicssIcon` |
-| `Windows` | `windows` | `WindowsIcon` |
-| `Windows 95` | `windows95` | `Windows95Icon` |
-| `Windows Terminal` | `windowsterminal` | `WindowsterminalIcon` |
-| `Windows XP` | `windowsxp` | `WindowsxpIcon` |
-| `Winmate` | `winmate` | `WinmateIcon` |
+| `Wine` | `wine` | `WineIcon` |
 | `Wipro` | `wipro` | `WiproIcon` |
 | `Wire` | `wire` | `WireIcon` |
 | `WireGuard` | `wireguard` | `WireguardIcon` |
 | `Wireshark` | `wireshark` | `WiresharkIcon` |
+| `Wise` | `wise` | `WiseIcon` |
 | `Wish` | `wish` | `WishIcon` |
 | `Wistia` | `wistia` | `WistiaIcon` |
 | `Wix` | `wix` | `WixIcon` |
@@ -2059,89 +3039,125 @@
 | `Wolfram` | `wolfram` | `WolframIcon` |
 | `Wolfram Language` | `wolframlanguage` | `WolframlanguageIcon` |
 | `Wolfram Mathematica` | `wolframmathematica` | `WolframmathematicaIcon` |
+| `Wondershare` | `wondershare` | `WondershareIcon` |
+| `Wondershare Filmora` | `wondersharefilmora` | `WondersharefilmoraIcon` |
 | `Woo` | `woo` | `WooIcon` |
 | `WooCommerce` | `woocommerce` | `WoocommerceIcon` |
 | `WordPress` | `wordpress` | `WordpressIcon` |
 | `Workplace` | `workplace` | `WorkplaceIcon` |
 | `World Health Organization` | `worldhealthorganization` | `WorldhealthorganizationIcon` |
+| `Write.as` | `writedotas` | `WritedotasIcon` |
 | `Wwise` | `wwise` | `WwiseIcon` |
+| `Wykop` | `wykop` | `WykopIcon` |
+| `Wyze` | `wyze` | `WyzeIcon` |
+| `X` | `x` | `XIcon` |
 | `X.Org` | `xdotorg` | `XdotorgIcon` |
-| `XAML` | `xaml` | `XamlIcon` |
 | `XAMPP` | `xampp` | `XamppIcon` |
 | `XDA Developers` | `xdadevelopers` | `XdadevelopersIcon` |
 | `XFCE` | `xfce` | `XfceIcon` |
+| `XML` | `xml` | `XmlIcon` |
 | `XMPP` | `xmpp` | `XmppIcon` |
+| `XO` | `xo` | `XoIcon` |
 | `XRP` | `xrp` | `XrpIcon` |
 | `XSplit` | `xsplit` | `XsplitIcon` |
 | `XState` | `xstate` | `XstateIcon` |
-| `Xamarin` | `xamarin` | `XamarinIcon` |
-| `Xbox` | `xbox` | `XboxIcon` |
 | `Xcode` | `xcode` | `XcodeIcon` |
+| `Xendit` | `xendit` | `XenditIcon` |
 | `Xero` | `xero` | `XeroIcon` |
+| `Xiaohongshu` | `xiaohongshu` | `XiaohongshuIcon` |
 | `Xiaomi` | `xiaomi` | `XiaomiIcon` |
-| `Xilinx` | `xilinx` | `XilinxIcon` |
 | `Xing` | `xing` | `XingIcon` |
+| `Xubuntu` | `xubuntu` | `XubuntuIcon` |
 | `Y Combinator` | `ycombinator` | `YcombinatorIcon` |
+| `YAML` | `yaml` | `YamlIcon` |
 | `YOLO` | `yolo` | `YoloIcon` |
-| `Yahoo!` | `yahoo` | `YahooIcon` |
 | `Yale` | `yale` | `YaleIcon` |
 | `Yamaha Corporation` | `yamahacorporation` | `YamahacorporationIcon` |
 | `Yamaha Motor Corporation` | `yamahamotorcorporation` | `YamahamotorcorporationIcon` |
-| `Yammer` | `yammer` | `YammerIcon` |
+| `Yandex Cloud` | `yandexcloud` | `YandexcloudIcon` |
 | `Yarn` | `yarn` | `YarnIcon` |
 | `Yelp` | `yelp` | `YelpIcon` |
+| `Yeti` | `yeti` | `YetiIcon` |
+| `Yii` | `yii` | `YiiIcon` |
 | `Yoast` | `yoast` | `YoastIcon` |
+| `YouHodler` | `youhodler` | `YouhodlerIcon` |
 | `YouTube` | `youtube` | `YoutubeIcon` |
 | `YouTube Gaming` | `youtubegaming` | `YoutubegamingIcon` |
+| `YouTube Kids` | `youtubekids` | `YoutubekidsIcon` |
 | `YouTube Music` | `youtubemusic` | `YoutubemusicIcon` |
+| `YouTube Shorts` | `youtubeshorts` | `YoutubeshortsIcon` |
 | `YouTube Studio` | `youtubestudio` | `YoutubestudioIcon` |
 | `YouTube TV` | `youtubetv` | `YoutubetvIcon` |
-| `YourTravel.TV` | `yourtraveldottv` | `YourtraveldottvIcon` |
-| `Z-Wave` | `zwave` | `ZwaveIcon` |
+| `Yr` | `yr` | `YrIcon` |
+| `Yubico` | `yubico` | `YubicoIcon` |
+| `YunoHost` | `yunohost` | `YunohostIcon` |
+| `ZAP` | `zap` | `ZapIcon` |
+| `ZCOOL` | `zcool` | `ZcoolIcon` |
 | `ZDF` | `zdf` | `ZdfIcon` |
+| `Zaim` | `zaim` | `ZaimIcon` |
 | `Zalando` | `zalando` | `ZalandoIcon` |
 | `Zalo` | `zalo` | `ZaloIcon` |
 | `Zapier` | `zapier` | `ZapierIcon` |
 | `Zara` | `zara` | `ZaraIcon` |
 | `Zazzle` | `zazzle` | `ZazzleIcon` |
 | `Zcash` | `zcash` | `ZcashIcon` |
+| `ZebPay` | `zebpay` | `ZebpayIcon` |
+| `Zebra Technologies` | `zebratechnologies` | `ZebratechnologiesIcon` |
+| `Zed Industries` | `zedindustries` | `ZedindustriesIcon` |
 | `Zelle` | `zelle` | `ZelleIcon` |
+| `Zen Browser` | `zenbrowser` | `ZenbrowserIcon` |
 | `Zend` | `zend` | `ZendIcon` |
-| `Zend Framework` | `zendframework` | `ZendframeworkIcon` |
 | `Zendesk` | `zendesk` | `ZendeskIcon` |
 | `Zenn` | `zenn` | `ZennIcon` |
 | `Zenodo` | `zenodo` | `ZenodoIcon` |
-| `ZeroMQ` | `zeromq` | `ZeromqIcon` |
+| `Zensar` | `zensar` | `ZensarIcon` |
+| `ZeroTier` | `zerotier` | `ZerotierIcon` |
 | `Zerodha` | `zerodha` | `ZerodhaIcon` |
-| `Zerply` | `zerply` | `ZerplyIcon` |
+| `Zettlr` | `zettlr` | `ZettlrIcon` |
 | `Zhihu` | `zhihu` | `ZhihuIcon` |
 | `Zig` | `zig` | `ZigIcon` |
 | `Zigbee` | `zigbee` | `ZigbeeIcon` |
+| `Zigbee2MQTT` | `zigbee2mqtt` | `Zigbee2mqttIcon` |
+| `Ziggo` | `ziggo` | `ZiggoIcon` |
+| `Zilch` | `zilch` | `ZilchIcon` |
 | `Zillow` | `zillow` | `ZillowIcon` |
+| `ZincSearch` | `zincsearch` | `ZincsearchIcon` |
 | `Zingat` | `zingat` | `ZingatIcon` |
+| `Zod` | `zod` | `ZodIcon` |
 | `Zoho` | `zoho` | `ZohoIcon` |
 | `Zoiper` | `zoiper` | `ZoiperIcon` |
 | `Zomato` | `zomato` | `ZomatoIcon` |
 | `Zoom` | `zoom` | `ZoomIcon` |
 | `Zorin` | `zorin` | `ZorinIcon` |
 | `Zotero` | `zotero` | `ZoteroIcon` |
+| `Zsh` | `zsh` | `ZshIcon` |
 | `Zulip` | `zulip` | `ZulipIcon` |
 | `Zyte` | `zyte` | `ZyteIcon` |
+| `abuse.ch` | `abusedotch` | `AbusedotchIcon` |
+| `addy.io` | `addydotio` | `AddydotioIcon` |
 | `arXiv` | `arxiv` | `ArxivIcon` |
 | `asciinema` | `asciinema` | `AsciinemaIcon` |
+| `avajs` | `avajs` | `AvajsIcon` |
+| `avianca` | `avianca` | `AviancaIcon` |
 | `awesomeWM` | `awesomewm` | `AwesomewmIcon` |
+| `bat` | `bat` | `BatIcon` |
 | `bigbasket` | `bigbasket` | `BigbasketIcon` |
+| `boAt` | `boat` | `BoatIcon` |
 | `boulanger` | `boulanger` | `BoulangerIcon` |
+| `bspwm` | `bspwm` | `BspwmIcon` |
 | `bunq` | `bunq` | `BunqIcon` |
-| `byte` | `byte` | `ByteIcon` |
 | `cPanel` | `cpanel` | `CpanelIcon` |
+| `cohost` | `cohost` | `CohostIcon` |
+| `comma` | `comma` | `CommaIcon` |
+| `commitlint` | `commitlint` | `CommitlintIcon` |
 | `containerd` | `containerd` | `ContainerdIcon` |
 | `curl` | `curl` | `CurlIcon` |
+| `daily.dev` | `dailydotdev` | `DailydotdevIcon` |
 | `data.ai` | `datadotai` | `DatadotaiIcon` |
+| `date-fns` | `datefns` | `DatefnsIcon` |
 | `dblp` | `dblp` | `DblpIcon` |
 | `dbt` | `dbt` | `DbtIcon` |
 | `deepin` | `deepin` | `DeepinIcon` |
-| `del.icio.us` | `delicious` | `DeliciousIcon` |
 | `dev.to` | `devdotto` | `DevdottoIcon` |
 | `devRant` | `devrant` | `DevrantIcon` |
 | `diagrams.net` | `diagramsdotnet` | `DiagramsdotnetIcon` |
@@ -2151,72 +3167,129 @@
 | `easyJet` | `easyjet` | `EasyjetIcon` |
 | `edX` | `edx` | `EdxIcon` |
 | `egghead` | `egghead` | `EggheadIcon` |
+| `electron-builder` | `electronbuilder` | `ElectronbuilderIcon` |
 | `elementary` | `elementary` | `ElementaryIcon` |
 | `esbuild` | `esbuild` | `EsbuildIcon` |
 | `etcd` | `etcd` | `EtcdIcon` |
 | `figshare` | `figshare` | `FigshareIcon` |
+| `fish shell` | `fishshell` | `FishshellIcon` |
+| `foobar2000` | `foobar2000` | `Foobar2000Icon` |
 | `foodpanda` | `foodpanda` | `FoodpandaIcon` |
 | `freeCodeCamp` | `freecodecamp` | `FreecodecampIcon` |
 | `freedesktop.org` | `freedesktopdotorg` | `FreedesktopdotorgIcon` |
+| `freelancermap` | `freelancermap` | `FreelancermapIcon` |
+| `freenet` | `freenet` | `FreenetIcon` |
 | `gitignore.io` | `gitignoredotio` | `GitignoredotioIcon` |
+| `glTF` | `gltf` | `GltfIcon` |
 | `gulp` | `gulp` | `GulpIcon` |
-| `haveibeenpwned` | `haveibeenpwned` | `HaveibeenpwnedIcon` |
+| `hearthis.at` | `hearthisdotat` | `HearthisdotatIcon` |
 | `homify` | `homify` | `HomifyIcon` |
+| `htmx` | `htmx` | `HtmxIcon` |
+| `htop` | `htop` | `HtopIcon` |
 | `i18next` | `i18next` | `I18nextIcon` |
+| `i3` | `i3` | `I3Icon` |
 | `iBeacon` | `ibeacon` | `IbeaconIcon` |
 | `iCloud` | `icloud` | `IcloudIcon` |
 | `iFixit` | `ifixit` | `IfixitIcon` |
 | `iFood` | `ifood` | `IfoodIcon` |
 | `iHeartRadio` | `iheartradio` | `IheartradioIcon` |
+| `iMessage` | `imessage` | `ImessageIcon` |
 | `iOS` | `ios` | `IosIcon` |
+| `iRobot` | `irobot` | `IrobotIcon` |
 | `iTerm2` | `iterm2` | `Iterm2Icon` |
 | `iTunes` | `itunes` | `ItunesIcon` |
 | `ioBroker` | `iobroker` | `IobrokerIcon` |
 | `jQuery` | `jquery` | `JqueryIcon` |
 | `jsDelivr` | `jsdelivr` | `JsdelivrIcon` |
+| `k6` | `k6` | `K6Icon` |
+| `levels.fyi` | `levelsdotfyi` | `LevelsdotfyiIcon` |
 | `libuv` | `libuv` | `LibuvIcon` |
+| `listmonk` | `listmonk` | `ListmonkIcon` |
 | `macOS` | `macos` | `MacosIcon` |
+| `mail.com` | `maildotcom` | `MaildotcomIcon` |
+| `mailbox.org` | `mailboxdotorg` | `MailboxdotorgIcon` |
 | `mastercomfig` | `mastercomfig` | `MastercomfigIcon` |
+| `mdBook` | `mdbook` | `MdbookIcon` |
+| `miHoYo` | `mihoyo` | `MihoyoIcon` |
 | `micro:bit` | `microbit` | `MicrobitIcon` |
 | `monkey tie` | `monkeytie` | `MonkeytieIcon` |
+| `mpv` | `mpv` | `MpvIcon` |
+| `n8n` | `n8n` | `N8nIcon` |
+| `netcup` | `netcup` | `NetcupIcon` |
+| `nf-core` | `nfcore` | `NfcoreIcon` |
 | `ngrok` | `ngrok` | `NgrokIcon` |
 | `niconico` | `niconico` | `NiconicoIcon` |
 | `npm` | `npm` | `NpmIcon` |
+| `ntfy` | `ntfy` | `NtfyIcon` |
+| `nvm` | `nvm` | `NvmIcon` |
+| `oclif` | `oclif` | `OclifIcon` |
 | `okcupid` | `okcupid` | `OkcupidIcon` |
+| `openHAB` | `openhab` | `OpenhabIcon` |
 | `openSUSE` | `opensuse` | `OpensuseIcon` |
+| `openmediavault` | `openmediavault` | `OpenmediavaultIcon` |
 | `osu!` | `osu` | `OsuIcon` |
+| `ownCloud` | `owncloud` | `OwncloudIcon` |
 | `p5.js` | `p5dotjs` | `P5dotjsIcon` |
 | `pandas` | `pandas` | `PandasIcon` |
 | `pfSense` | `pfsense` | `PfsenseIcon` |
+| `phpBB` | `phpbb` | `PhpbbIcon` |
 | `phpMyAdmin` | `phpmyadmin` | `PhpmyadminIcon` |
+| `pino` | `pino` | `PinoIcon` |
+| `pipx` | `pipx` | `PipxIcon` |
 | `pixiv` | `pixiv` | `PixivIcon` |
 | `pkgsrc` | `pkgsrc` | `PkgsrcIcon` |
 | `pnpm` | `pnpm` | `PnpmIcon` |
 | `pr.co` | `prdotco` | `PrdotcoIcon` |
 | `pre-commit` | `precommit` | `PrecommitIcon` |
 | `protocols.io` | `protocolsdotio` | `ProtocolsdotioIcon` |
+| `qbittorrent` | `qbittorrent` | `QbittorrentIcon` |
+| `quicktype` | `quicktype` | `QuicktypeIcon` |
+| `radarr` | `radarr` | `RadarrIcon` |
+| `remark` | `remark` | `RemarkIcon` |
+| `remove.bg` | `removedotbg` | `RemovedotbgIcon` |
 | `reveal.js` | `revealdotjs` | `RevealdotjsIcon` |
+| `roadmap.sh` | `roadmapdotsh` | `RoadmapdotshIcon` |
 | `rollup.js` | `rollupdotjs` | `RollupdotjsIcon` |
 | `scikit-learn` | `scikitlearn` | `ScikitlearnIcon` |
 | `semantic-release` | `semanticrelease` | `SemanticreleaseIcon` |
+| `shadcn/ui` | `shadcnui` | `ShadcnuiIcon` |
 | `sharp` | `sharp` | `SharpIcon` |
 | `smart` | `smart` | `SmartIcon` |
-| `smash.gg` | `smashdotgg` | `SmashdotggIcon` |
+| `sonarr` | `sonarr` | `SonarrIcon` |
+| `spaCy` | `spacy` | `SpacyIcon` |
+| `start.gg` | `startdotgg` | `StartdotggIcon` |
 | `strongSwan` | `strongswan` | `StrongswanIcon` |
 | `styled-components` | `styledcomponents` | `StyledcomponentsIcon` |
 | `stylelint` | `stylelint` | `StylelintIcon` |
 | `suckless` | `suckless` | `SucklessIcon` |
+| `tRPC` | `trpc` | `TrpcIcon` |
 | `tado°` | `tado` | `TadoIcon` |
 | `teratail` | `teratail` | `TeratailIcon` |
+| `thirdweb` | `thirdweb` | `ThirdwebIcon` |
+| `tinygrad` | `tinygrad` | `TinygradIcon` |
+| `tldraw` | `tldraw` | `TldrawIcon` |
 | `tmux` | `tmux` | `TmuxIcon` |
 | `tqdm` | `tqdm` | `TqdmIcon` |
+| `trivago` | `trivago` | `TrivagoIcon` |
 | `trulia` | `trulia` | `TruliaIcon` |
 | `ts-node` | `tsnode` | `TsnodeIcon` |
 | `uBlock Origin` | `ublockorigin` | `UblockoriginIcon` |
+| `uTorrent` | `utorrent` | `UtorrentIcon` |
+| `unpkg` | `unpkg` | `UnpkgIcon` |
+| `uv` | `uv` | `UvIcon` |
+| `v0` | `v0` | `V0Icon` |
 | `vBulletin` | `vbulletin` | `VbulletinIcon` |
 | `vFairs` | `vfairs` | `VfairsIcon` |
+| `visx` | `visx` | `VisxIcon` |
+| `vivo` | `vivo` | `VivoIcon` |
+| `wasmCloud` | `wasmcloud` | `WasmcloudIcon` |
 | `webcomponents.org` | `webcomponentsdotorg` | `WebcomponentsdotorgIcon` |
-| `webhint` | `webhint` | `WebhintIcon` |
-| `write.as` | `writedotas` | `WritedotasIcon` |
+| `webtrees` | `webtrees` | `WebtreesIcon` |
+| `wgpu` | `wgpu` | `WgpuIcon` |
+| `wiki.gg` | `wikidotgg` | `WikidotggIcon` |
+| `xyflow` | `xyflow` | `XyflowIcon` |
+| `yabai` | `yabai` | `YabaiIcon` |
+| `Île-de-France Mobilités` | `iledefrancemobilites` | `IledefrancemobilitesIcon` |
+| `ÖBB` | `obb` | `ObbIcon` |
 | `ŠKODA` | `skoda` | `SkodaIcon` |
 | `Żabka` | `zabka` | `ZabkaIcon` |
