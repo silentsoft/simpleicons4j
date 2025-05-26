@@ -186,6 +186,7 @@
 | `AntV` | `antv` | `AntvIcon` |
 | `Anta` | `anta` | `AntaIcon` |
 | `Antena 3` | `antena3` | `Antena3Icon` |
+| `AntennaPod` | `antennapod` | `AntennapodIcon` |
 | `Anthropic` | `anthropic` | `AnthropicIcon` |
 | `AnyDesk` | `anydesk` | `AnydeskIcon` |
 | `Anycubic` | `anycubic` | `AnycubicIcon` |
@@ -409,6 +410,7 @@
 | `Box` | `box` | `BoxIcon` |
 | `Boxy SVG` | `boxysvg` | `BoxysvgIcon` |
 | `Braintree` | `braintree` | `BraintreeIcon` |
+| `Brandfetch` | `brandfetch` | `BrandfetchIcon` |
 | `Brandfolder` | `brandfolder` | `BrandfolderIcon` |
 | `Brave` | `brave` | `BraveIcon` |
 | `Breaker` | `breaker` | `BreakerIcon` |
@@ -688,6 +690,7 @@
 | `DHL` | `dhl` | `DhlIcon` |
 | `DJI` | `dji` | `DjiIcon` |
 | `DLNA` | `dlna` | `DlnaIcon` |
+| `DMM` | `dmm` | `DmmIcon` |
 | `DOI` | `doi` | `DoiIcon` |
 | `DPD` | `dpd` | `DpdIcon` |
 | `DS Automobiles` | `dsautomobiles` | `DsautomobilesIcon` |
@@ -872,6 +875,7 @@
 | `Event Store` | `eventstore` | `EventstoreIcon` |
 | `Eventbrite` | `eventbrite` | `EventbriteIcon` |
 | `Evernote` | `evernote` | `EvernoteIcon` |
+| `Every.org` | `everydotorg` | `EverydotorgIcon` |
 | `Excalidraw` | `excalidraw` | `ExcalidrawIcon` |
 | `Exercism` | `exercism` | `ExercismIcon` |
 | `Exordo` | `exordo` | `ExordoIcon` |
@@ -974,6 +978,7 @@
 | `FontForge` | `fontforge` | `FontforgeIcon` |
 | `Ford` | `ford` | `FordIcon` |
 | `Forgejo` | `forgejo` | `ForgejoIcon` |
+| `Formbricks` | `formbricks` | `FormbricksIcon` |
 | `Formik` | `formik` | `FormikIcon` |
 | `Formspree` | `formspree` | `FormspreeIcon` |
 | `Formstack` | `formstack` | `FormstackIcon` |
@@ -999,6 +1004,7 @@
 | `Freelancer` | `freelancer` | `FreelancerIcon` |
 | `Freepik` | `freepik` | `FreepikIcon` |
 | `Fresh` | `fresh` | `FreshIcon` |
+| `Frigate` | `frigate` | `FrigateIcon` |
 | `Frontend Mentor` | `frontendmentor` | `FrontendmentorIcon` |
 | `Frontify` | `frontify` | `FrontifyIcon` |
 | `Fubo` | `fubo` | `FuboIcon` |
@@ -1360,6 +1366,7 @@
 | `Itch.io` | `itchdotio` | `ItchdotioIcon` |
 | `JBL` | `jbl` | `JblIcon` |
 | `JCB` | `jcb` | `JcbIcon` |
+| `JDoodle` | `jdoodle` | `JdoodleIcon` |
 | `JET` | `jet` | `JetIcon` |
 | `JFrog` | `jfrog` | `JfrogIcon` |
 | `JFrog Pipelines` | `jfrogpipelines` | `JfrogpipelinesIcon` |
@@ -1846,6 +1853,7 @@
 | `Nexus Mods` | `nexusmods` | `NexusmodsIcon` |
 | `NgRx` | `ngrx` | `NgrxIcon` |
 | `Nginx Proxy Manager` | `nginxproxymanager` | `NginxproxymanagerIcon` |
+| `Nhost` | `nhost` | `NhostIcon` |
 | `NiceHash` | `nicehash` | `NicehashIcon` |
 | `Nike` | `nike` | `NikeIcon` |
 | `Nikon` | `nikon` | `NikonIcon` |
@@ -1863,6 +1871,7 @@
 | `Normalize.css` | `normalizedotcss` | `NormalizedotcssIcon` |
 | `Norton` | `norton` | `NortonIcon` |
 | `Norwegian` | `norwegian` | `NorwegianIcon` |
+| `NotebookLM` | `notebooklm` | `NotebooklmIcon` |
 | `Notepad++` | `notepadplusplus` | `NotepadplusplusIcon` |
 | `Notion` | `notion` | `NotionIcon` |
 | `Notist` | `notist` | `NotistIcon` |
@@ -2489,6 +2498,7 @@
 | `Simkl` | `simkl` | `SimklIcon` |
 | `Simple Analytics` | `simpleanalytics` | `SimpleanalyticsIcon` |
 | `Simple Icons` | `simpleicons` | `SimpleiconsIcon` |
+| `SimpleLocalize` | `simplelocalize` | `SimplelocalizeIcon` |
 | `SimpleLogin` | `simplelogin` | `SimpleloginIcon` |
 | `SimpleX` | `simplex` | `SimplexIcon` |
 | `Simplenote` | `simplenote` | `SimplenoteIcon` |
@@ -2655,6 +2665,7 @@
 | `Swift` | `swift` | `SwiftIcon` |
 | `Swiggy` | `swiggy` | `SwiggyIcon` |
 | `Swiper` | `swiper` | `SwiperIcon` |
+| `Swisscows` | `swisscows` | `SwisscowsIcon` |
 | `SymPy` | `sympy` | `SympyIcon` |
 | `Symantec` | `symantec` | `SymantecIcon` |
 | `Symbolab` | `symbolab` | `SymbolabIcon` |
@@ -2669,6 +2680,7 @@
 | `TELE 5` | `tele5` | `Tele5Icon` |
 | `TGA` | `tga` | `TgaIcon` |
 | `THE FINALS` | `thefinals` | `ThefinalsIcon` |
+| `TIDAL` | `tidal` | `TidalIcon` |
 | `TOML` | `toml` | `TomlIcon` |
 | `TON` | `ton` | `TonIcon` |
 | `TOTVS` | `totvs` | `TotvsIcon` |
@@ -2755,7 +2767,6 @@
 | `Thymeleaf` | `thymeleaf` | `ThymeleafIcon` |
 | `TickTick` | `ticktick` | `TicktickIcon` |
 | `Ticketmaster` | `ticketmaster` | `TicketmasterIcon` |
-| `Tidal` | `tidal` | `TidalIcon` |
 | `TiddlyWiki` | `tiddlywiki` | `TiddlywikiIcon` |
 | `Tide` | `tide` | `TideIcon` |
 | `Tidyverse` | `tidyverse` | `TidyverseIcon` |
@@ -3026,6 +3037,7 @@
 | `Wikiversity` | `wikiversity` | `WikiversityIcon` |
 | `Wikivoyage` | `wikivoyage` | `WikivoyageIcon` |
 | `Winamp` | `winamp` | `WinampIcon` |
+| `Windsurf` | `windsurf` | `WindsurfIcon` |
 | `Wine` | `wine` | `WineIcon` |
 | `Wipro` | `wipro` | `WiproIcon` |
 | `Wire` | `wire` | `WireIcon` |
