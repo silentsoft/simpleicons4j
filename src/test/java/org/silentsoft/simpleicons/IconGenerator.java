@@ -70,7 +70,7 @@ public class IconGenerator {
 
         String zipRoot = Nullify.isNull(simpleIconsVersion) ? "simple-icons-master/" : String.format("simple-icons-%s/", simpleIconsVersion);
         try (ZipFile zipFile = new ZipFile(zipPath.toString())) {
-            zipFile.extractFile(zipRoot.concat("_data/"), System.getProperty("user.dir"), "/target/simple-icons/_data");
+            zipFile.extractFile(zipRoot.concat("data/"), System.getProperty("user.dir"), "/target/simple-icons/data");
             zipFile.extractFile(zipRoot.concat("icons/"), System.getProperty("user.dir"), "/target/simple-icons/icons");
         }
     }
@@ -144,7 +144,7 @@ public class IconGenerator {
     }
 
     public static JSONArray getSimpleIcons() throws IOException {
-        return new JSONArray(read(Files.newInputStream(Paths.get(System.getProperty("user.dir"), "target/simple-icons/_data/simple-icons.json"))));
+        return new JSONArray(read(Files.newInputStream(Paths.get(System.getProperty("user.dir"), "target/simple-icons/data/simple-icons.json"))));
     }
 
     private static void generateSlugsMarkdownFile(Map<String, String> iconMap) throws Exception {
