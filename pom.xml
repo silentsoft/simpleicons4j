@@ -6,7 +6,7 @@
 
     <groupId>org.silentsoft</groupId>
     <artifactId>simpleicons4j</artifactId>
-    <version>14.15.0</version>
+    <version>15.0.0</version>
 
     <name>SimpleIcons4J</name>
     <description>SimpleIcons4J is a Java implementation of the simple-icons JavaScript library and is inspired by simpleicons.org.</description>
