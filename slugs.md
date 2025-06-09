@@ -777,6 +777,7 @@
 | `EBOX` | `ebox` | `EboxIcon` |
 | `EDEKA` | `edeka` | `EdekaIcon` |
 | `EJS` | `ejs` | `EjsIcon` |
+| `ENS` | `ens` | `EnsIcon` |
 | `EPEL` | `epel` | `EpelIcon` |
 | `ERPNext` | `erpnext` | `ErpnextIcon` |
 | `ESEA` | `esea` | `EseaIcon` |
@@ -1332,6 +1333,7 @@
 | `Internet Computer` | `internetcomputer` | `InternetcomputerIcon` |
 | `Intigriti` | `intigriti` | `IntigritiIcon` |
 | `Intuit` | `intuit` | `IntuitIcon` |
+| `Invidious` | `invidious` | `InvidiousIcon` |
 | `Invoice Ninja` | `invoiceninja` | `InvoiceninjaIcon` |
 | `Ionic` | `ionic` | `IonicIcon` |
 | `Ionos` | `ionos` | `IonosIcon` |
@@ -1874,7 +1876,7 @@
 | `OKX` | `okx` | `OkxIcon` |
 | `ONLYOFFICE` | `onlyoffice` | `OnlyofficeIcon` |
 | `ONNX` | `onnx` | `OnnxIcon` |
-| `OPNSense` | `opnsense` | `OpnsenseIcon` |
+| `OPNsense` | `opnsense` | `OpnsenseIcon` |
 | `OPPO` | `oppo` | `OppoIcon` |
 | `ORCID` | `orcid` | `OrcidIcon` |
 | `OSF` | `osf` | `OsfIcon` |
@@ -2661,6 +2663,7 @@
 | `TOTVS` | `totvs` | `TotvsIcon` |
 | `TP-Link` | `tplink` | `TplinkIcon` |
 | `TUI` | `tui` | `TuiIcon` |
+| `TUXEDO Computers` | `tuxedocomputers` | `TuxedocomputersIcon` |
 | `TV Time` | `tvtime` | `TvtimeIcon` |
 | `TV4 Play` | `tv4play` | `Tv4playIcon` |
 | `TYPO3` | `typo3` | `Typo3Icon` |
