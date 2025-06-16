@@ -47,6 +47,7 @@
 | `ASDA` | `asda` | `AsdaIcon` |
 | `ASUS` | `asus` | `AsusIcon` |
 | `AT&T` | `atandt` | `AtandtIcon` |
+| `AVM` | `avm` | `AvmIcon` |
 | `Abbott` | `abbott` | `AbbottIcon` |
 | `Abbvie` | `abbvie` | `AbbvieIcon` |
 | `About.me` | `aboutdotme` | `AboutdotmeIcon` |
@@ -64,6 +65,7 @@
 | `Acura` | `acura` | `AcuraIcon` |
 | `AdBlock` | `adblock` | `AdblockIcon` |
 | `AdGuard` | `adguard` | `AdguardIcon` |
+| `Ada` | `ada` | `AdaIcon` |
 | `Adafruit` | `adafruit` | `AdafruitIcon` |
 | `Adblock Plus` | `adblockplus` | `AdblockplusIcon` |
 | `Adidas` | `adidas` | `AdidasIcon` |
@@ -744,6 +746,7 @@
 | `Docusaurus` | `docusaurus` | `DocusaurusIcon` |
 | `Dogecoin` | `dogecoin` | `DogecoinIcon` |
 | `Dolby` | `dolby` | `DolbyIcon` |
+| `Dolibarr` | `dolibarr` | `DolibarrIcon` |
 | `DoorDash` | `doordash` | `DoordashIcon` |
 | `Dota 2` | `dota2` | `Dota2Icon` |
 | `Douban` | `douban` | `DoubanIcon` |
@@ -869,6 +872,7 @@
 | `FIRST` | `first` | `FirstIcon` |
 | `FMOD` | `fmod` | `FmodIcon` |
 | `FOX` | `fox` | `FoxIcon` |
+| `FRITZ!` | `fritz` | `FritzIcon` |
 | `Facebook` | `facebook` | `FacebookIcon` |
 | `Facebook Gaming` | `facebookgaming` | `FacebookgamingIcon` |
 | `Facebook Live` | `facebooklive` | `FacebookliveIcon` |
@@ -1620,6 +1624,7 @@
 | `MX Linux` | `mxlinux` | `MxlinuxIcon` |
 | `MYOB` | `myob` | `MyobIcon` |
 | `MacPaw` | `macpaw` | `MacpawIcon` |
+| `MacPorts` | `macports` | `MacportsIcon` |
 | `Macy's` | `macys` | `MacysIcon` |
 | `Magasins U` | `magasinsu` | `MagasinsuIcon` |
 | `Magic` | `magic` | `MagicIcon` |
@@ -1701,6 +1706,7 @@
 | `Metro` | `metro` | `MetroIcon` |
 | `Metro de Madrid` | `metrodemadrid` | `MetrodemadridIcon` |
 | `Metro de la Ciudad de México` | `metrodelaciudaddemexico` | `MetrodelaciudaddemexicoIcon` |
+| `Mezmo` | `mezmo` | `MezmoIcon` |
 | `Micro Editor` | `microeditor` | `MicroeditorIcon` |
 | `Micro.blog` | `microdotblog` | `MicrodotblogIcon` |
 | `MicroPython` | `micropython` | `MicropythonIcon` |
@@ -1841,6 +1847,7 @@
 | `Nobara Linux` | `nobaralinux` | `NobaralinuxIcon` |
 | `Node-RED` | `nodered` | `NoderedIcon` |
 | `Node.js` | `nodedotjs` | `NodedotjsIcon` |
+| `NodeBB` | `nodebb` | `NodebbIcon` |
 | `Nodemon` | `nodemon` | `NodemonIcon` |
 | `Nokia` | `nokia` | `NokiaIcon` |
 | `Nomad` | `nomad` | `NomadIcon` |
@@ -1976,6 +1983,7 @@
 | `Paddle` | `paddle` | `PaddleIcon` |
 | `PaddlePaddle` | `paddlepaddle` | `PaddlepaddleIcon` |
 | `Paddy Power` | `paddypower` | `PaddypowerIcon` |
+| `Padlet` | `padlet` | `PadletIcon` |
 | `PagSeguro` | `pagseguro` | `PagseguroIcon` |
 | `PageSpeed Insights` | `pagespeedinsights` | `PagespeedinsightsIcon` |
 | `Pagekit` | `pagekit` | `PagekitIcon` |
@@ -2002,6 +2010,7 @@
 | `Payhip` | `payhip` | `PayhipIcon` |
 | `Payload CMS` | `payloadcms` | `PayloadcmsIcon` |
 | `Payoneer` | `payoneer` | `PayoneerIcon` |
+| `Paysafe` | `paysafe` | `PaysafeIcon` |
 | `Paytm` | `paytm` | `PaytmIcon` |
 | `Peak Design` | `peakdesign` | `PeakdesignIcon` |
 | `Pearson` | `pearson` | `PearsonIcon` |
@@ -2186,6 +2195,7 @@
 | `Qiita` | `qiita` | `QiitaIcon` |
 | `Qiskit` | `qiskit` | `QiskitIcon` |
 | `Qlik` | `qlik` | `QlikIcon` |
+| `Qodo` | `qodo` | `QodoIcon` |
 | `Qt` | `qt` | `QtIcon` |
 | `Quad9` | `quad9` | `Quad9Icon` |
 | `Qualcomm` | `qualcomm` | `QualcommIcon` |
@@ -2299,6 +2309,7 @@
 | `Retool` | `retool` | `RetoolIcon` |
 | `RetroArch` | `retroarch` | `RetroarchIcon` |
 | `RetroPie` | `retropie` | `RetropieIcon` |
+| `RevenueCat` | `revenuecat` | `RevenuecatIcon` |
 | `ReverbNation` | `reverbnation` | `ReverbnationIcon` |
 | `Revolt.chat` | `revoltdotchat` | `RevoltdotchatIcon` |
 | `Revolut` | `revolut` | `RevolutIcon` |
@@ -3158,6 +3169,7 @@
 | `dev.to` | `devdotto` | `DevdottoIcon` |
 | `devRant` | `devrant` | `DevrantIcon` |
 | `diagrams.net` | `diagramsdotnet` | `DiagramsdotnetIcon` |
+| `discord.js` | `discorddotjs` | `DiscorddotjsIcon` |
 | `dm` | `dm` | `DmIcon` |
 | `dwm` | `dwm` | `DwmIcon` |
 | `eBay` | `ebay` | `EbayIcon` |
@@ -3214,6 +3226,7 @@
 | `mpv` | `mpv` | `MpvIcon` |
 | `n8n` | `n8n` | `N8nIcon` |
 | `netcup` | `netcup` | `NetcupIcon` |
+| `nextbike` | `nextbike` | `NextbikeIcon` |
 | `nf-core` | `nfcore` | `NfcoreIcon` |
 | `ngrok` | `ngrok` | `NgrokIcon` |
 | `niconico` | `niconico` | `NiconicoIcon` |
@@ -3285,6 +3298,7 @@
 | `webcomponents.org` | `webcomponentsdotorg` | `WebcomponentsdotorgIcon` |
 | `webtrees` | `webtrees` | `WebtreesIcon` |
 | `wgpu` | `wgpu` | `WgpuIcon` |
+| `what3words` | `what3words` | `What3wordsIcon` |
 | `wiki.gg` | `wikidotgg` | `WikidotggIcon` |
 | `xyflow` | `xyflow` | `XyflowIcon` |
 | `yabai` | `yabai` | `YabaiIcon` |
