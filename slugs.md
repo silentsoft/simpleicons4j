@@ -58,11 +58,13 @@
 | `Accusoft` | `accusoft` | `AccusoftIcon` |
 | `Acer` | `acer` | `AcerIcon` |
 | `ActiGraph` | `actigraph` | `ActigraphIcon` |
+| `Activeloop` | `activeloop` | `ActiveloopIcon` |
 | `Activision` | `activision` | `ActivisionIcon` |
 | `ActivityPub` | `activitypub` | `ActivitypubIcon` |
 | `Actix` | `actix` | `ActixIcon` |
 | `Actual Budget` | `actualbudget` | `ActualbudgetIcon` |
 | `Acura` | `acura` | `AcuraIcon` |
+| `AdAway` | `adaway` | `AdawayIcon` |
 | `AdBlock` | `adblock` | `AdblockIcon` |
 | `AdGuard` | `adguard` | `AdguardIcon` |
 | `Ada` | `ada` | `AdaIcon` |
@@ -170,6 +172,7 @@
 | `Apache Cordova` | `apachecordova` | `ApachecordovaIcon` |
 | `Apache CouchDB` | `apachecouchdb` | `ApachecouchdbIcon` |
 | `Apache DolphinScheduler` | `apachedolphinscheduler` | `ApachedolphinschedulerIcon` |
+| `Apache Doris` | `apachedoris` | `ApachedorisIcon` |
 | `Apache Druid` | `apachedruid` | `ApachedruidIcon` |
 | `Apache ECharts` | `apacheecharts` | `ApacheechartsIcon` |
 | `Apache Flink` | `apacheflink` | `ApacheflinkIcon` |
@@ -324,6 +327,7 @@
 | `BentoBox` | `bentobox` | `BentoboxIcon` |
 | `BentoML` | `bentoml` | `BentomlIcon` |
 | `Betfair` | `betfair` | `BetfairIcon` |
+| `Better Auth` | `betterauth` | `BetterauthIcon` |
 | `Better Stack` | `betterstack` | `BetterstackIcon` |
 | `BetterDiscord` | `betterdiscord` | `BetterdiscordIcon` |
 | `Bevy` | `bevy` | `BevyIcon` |
@@ -371,6 +375,7 @@
 | `BookMyShow` | `bookmyshow` | `BookmyshowIcon` |
 | `BookStack` | `bookstack` | `BookstackIcon` |
 | `Bookalope` | `bookalope` | `BookalopeIcon` |
+| `Booking.com` | `bookingdotcom` | `BookingdotcomIcon` |
 | `Bookmeter` | `bookmeter` | `BookmeterIcon` |
 | `Boost` | `boost` | `BoostIcon` |
 | `Boosty` | `boosty` | `BoostyIcon` |
@@ -525,6 +530,7 @@
 | `Clojure` | `clojure` | `ClojureIcon` |
 | `Cloud 66` | `cloud66` | `Cloud66Icon` |
 | `Cloud Foundry` | `cloudfoundry` | `CloudfoundryIcon` |
+| `Cloud Native Build` | `cloudnativebuild` | `CloudnativebuildIcon` |
 | `CloudBees` | `cloudbees` | `CloudbeesIcon` |
 | `CloudCannon` | `cloudcannon` | `CloudcannonIcon` |
 | `Cloudera` | `cloudera` | `ClouderaIcon` |
@@ -1200,6 +1206,7 @@
 | `Have I Been Pwned` | `haveibeenpwned` | `HaveibeenpwnedIcon` |
 | `Havells` | `havells` | `HavellsIcon` |
 | `Haxe` | `haxe` | `HaxeIcon` |
+| `Haystack` | `haystack` | `HaystackIcon` |
 | `Headless UI` | `headlessui` | `HeadlessuiIcon` |
 | `Headphone Zone` | `headphonezone` | `HeadphonezoneIcon` |
 | `Headspace` | `headspace` | `HeadspaceIcon` |
@@ -1427,6 +1434,7 @@
 | `Keenetic` | `keenetic` | `KeeneticIcon` |
 | `Keep a Changelog` | `keepachangelog` | `KeepachangelogIcon` |
 | `Keeper` | `keeper` | `KeeperIcon` |
+| `Kenmei` | `kenmei` | `KenmeiIcon` |
 | `Kentico` | `kentico` | `KenticoIcon` |
 | `Keras` | `keras` | `KerasIcon` |
 | `KeyCDN` | `keycdn` | `KeycdnIcon` |
@@ -1727,6 +1735,7 @@
 | `Miraheze` | `miraheze` | `MirahezeIcon` |
 | `Miro` | `miro` | `MiroIcon` |
 | `Misskey` | `misskey` | `MisskeyIcon` |
+| `Mistral AI` | `mistralai` | `MistralaiIcon` |
 | `Mitsubishi` | `mitsubishi` | `MitsubishiIcon` |
 | `Mix` | `mix` | `MixIcon` |
 | `Mixcloud` | `mixcloud` | `MixcloudIcon` |
@@ -1771,6 +1780,7 @@
 | `MyAnimeList` | `myanimelist` | `MyanimelistIcon` |
 | `MyGet` | `myget` | `MygetIcon` |
 | `MySQL` | `mysql` | `MysqlIcon` |
+| `MyShows` | `myshows` | `MyshowsIcon` |
 | `Myspace` | `myspace` | `MyspaceIcon` |
 | `Métro de Paris` | `metrodeparis` | `MetrodeparisIcon` |
 | `Müller` | `muller` | `MullerIcon` |
@@ -2908,6 +2918,7 @@
 | `Vala` | `vala` | `ValaIcon` |
 | `Valorant` | `valorant` | `ValorantIcon` |
 | `Valve` | `valve` | `ValveIcon` |
+| `Vanilla Extract` | `vanillaextract` | `VanillaextractIcon` |
 | `Vapor` | `vapor` | `VaporIcon` |
 | `Vault` | `vault` | `VaultIcon` |
 | `Vaultwarden` | `vaultwarden` | `VaultwardenIcon` |
@@ -3153,6 +3164,7 @@
 | `boAt` | `boat` | `BoatIcon` |
 | `boulanger` | `boulanger` | `BoulangerIcon` |
 | `bspwm` | `bspwm` | `BspwmIcon` |
+| `bunny.net` | `bunnydotnet` | `BunnydotnetIcon` |
 | `bunq` | `bunq` | `BunqIcon` |
 | `cPanel` | `cpanel` | `CpanelIcon` |
 | `cobalt` | `cobalt` | `CobaltIcon` |
