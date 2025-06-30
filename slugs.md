@@ -389,6 +389,7 @@
 | `Box` | `box` | `BoxIcon` |
 | `Boxy SVG` | `boxysvg` | `BoxysvgIcon` |
 | `Braintree` | `braintree` | `BraintreeIcon` |
+| `Braintrust` | `braintrust` | `BraintrustIcon` |
 | `Brandfetch` | `brandfetch` | `BrandfetchIcon` |
 | `Brandfolder` | `brandfolder` | `BrandfolderIcon` |
 | `Brave` | `brave` | `BraveIcon` |
@@ -753,6 +754,7 @@
 | `Dogecoin` | `dogecoin` | `DogecoinIcon` |
 | `Dolby` | `dolby` | `DolbyIcon` |
 | `Dolibarr` | `dolibarr` | `DolibarrIcon` |
+| `Dolphin` | `dolphin` | `DolphinIcon` |
 | `DoorDash` | `doordash` | `DoordashIcon` |
 | `Dota 2` | `dota2` | `Dota2Icon` |
 | `Douban` | `douban` | `DoubanIcon` |
@@ -834,6 +836,7 @@
 | `Emlakjet` | `emlakjet` | `EmlakjetIcon` |
 | `EndeavourOS` | `endeavouros` | `EndeavourosIcon` |
 | `Enpass` | `enpass` | `EnpassIcon` |
+| `Ente` | `ente` | `EnteIcon` |
 | `EnterpriseDB` | `enterprisedb` | `EnterprisedbIcon` |
 | `Envato` | `envato` | `EnvatoIcon` |
 | `Envoy Proxy` | `envoyproxy` | `EnvoyproxyIcon` |
@@ -1013,6 +1016,7 @@
 | `GNU Privacy Guard` | `gnuprivacyguard` | `GnuprivacyguardIcon` |
 | `GNU social` | `gnusocial` | `GnusocialIcon` |
 | `GOG.com` | `gogdotcom` | `GogdotcomIcon` |
+| `GPLv3` | `gplv3` | `Gplv3Icon` |
 | `GSK` | `gsk` | `GskIcon` |
 | `GSMA` | `gsma` | `GsmaIcon` |
 | `GSMArena.com` | `gsmarenadotcom` | `GsmarenadotcomIcon` |
@@ -1599,6 +1603,7 @@
 | `Lospec` | `lospec` | `LospecIcon` |
 | `LottieFiles` | `lottiefiles` | `LottiefilesIcon` |
 | `Lua` | `lua` | `LuaIcon` |
+| `Luau` | `luau` | `LuauIcon` |
 | `Lubuntu` | `lubuntu` | `LubuntuIcon` |
 | `Lucia` | `lucia` | `LuciaIcon` |
 | `Lucid` | `lucid` | `LucidIcon` |
@@ -2945,6 +2950,7 @@
 | `Viblo` | `viblo` | `VibloIcon` |
 | `VictoriaMetrics` | `victoriametrics` | `VictoriametricsIcon` |
 | `Victron Energy` | `victronenergy` | `VictronenergyIcon` |
+| `Vikunja` | `vikunja` | `VikunjaIcon` |
 | `Vim` | `vim` | `VimIcon` |
 | `Vimeo` | `vimeo` | `VimeoIcon` |
 | `Vimeo Livestream` | `vimeolivestream` | `VimeolivestreamIcon` |
@@ -3090,6 +3096,7 @@
 | `Y Combinator` | `ycombinator` | `YcombinatorIcon` |
 | `YAML` | `yaml` | `YamlIcon` |
 | `YOLO` | `yolo` | `YoloIcon` |
+| `Yaak` | `yaak` | `YaakIcon` |
 | `Yale` | `yale` | `YaleIcon` |
 | `Yamaha Corporation` | `yamahacorporation` | `YamahacorporationIcon` |
 | `Yamaha Motor Corporation` | `yamahamotorcorporation` | `YamahamotorcorporationIcon` |
