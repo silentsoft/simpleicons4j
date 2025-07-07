@@ -352,6 +352,7 @@
 | `Bitrise` | `bitrise` | `BitriseIcon` |
 | `Bitwarden` | `bitwarden` | `BitwardenIcon` |
 | `Bitwig` | `bitwig` | `BitwigIcon` |
+| `Black` | `black` | `BlackIcon` |
 | `Blackberry` | `blackberry` | `BlackberryIcon` |
 | `Blackmagic Design` | `blackmagicdesign` | `BlackmagicdesignIcon` |
 | `Blazemeter` | `blazemeter` | `BlazemeterIcon` |
@@ -464,6 +465,7 @@
 | `Capacitor` | `capacitor` | `CapacitorIcon` |
 | `Car Throttle` | `carthrottle` | `CarthrottleIcon` |
 | `Cardano` | `cardano` | `CardanoIcon` |
+| `Cardmarket` | `cardmarket` | `CardmarketIcon` |
 | `Carlsberg Group` | `carlsberggroup` | `CarlsberggroupIcon` |
 | `Carrd` | `carrd` | `CarrdIcon` |
 | `Carrefour` | `carrefour` | `CarrefourIcon` |
@@ -1984,6 +1986,7 @@
 | `Overcast` | `overcast` | `OvercastIcon` |
 | `Overleaf` | `overleaf` | `OverleafIcon` |
 | `Oxygen` | `oxygen` | `OxygenIcon` |
+| `PAYBACK` | `payback` | `PaybackIcon` |
 | `PCGamingWiki` | `pcgamingwiki` | `PcgamingwikiIcon` |
 | `PDM` | `pdm` | `PdmIcon` |
 | `PDQ` | `pdq` | `PdqIcon` |
@@ -2354,6 +2357,7 @@
 | `Rocky Linux` | `rockylinux` | `RockylinuxIcon` |
 | `Roku` | `roku` | `RokuIcon` |
 | `Roll20` | `roll20` | `Roll20Icon` |
+| `Rollbar` | `rollbar` | `RollbarIcon` |
 | `Rolls-Royce` | `rollsroyce` | `RollsroyceIcon` |
 | `Rook` | `rook` | `RookIcon` |
 | `Roon` | `roon` | `RoonIcon` |
