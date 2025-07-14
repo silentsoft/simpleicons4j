@@ -956,6 +956,7 @@
 | `Flyway` | `flyway` | `FlywayIcon` |
 | `Fnac` | `fnac` | `FnacIcon` |
 | `Folium` | `folium` | `FoliumIcon` |
+| `Folo` | `folo` | `FoloIcon` |
 | `Fonoma` | `fonoma` | `FonomaIcon` |
 | `Font Awesome` | `fontawesome` | `FontawesomeIcon` |
 | `FontBase` | `fontbase` | `FontbaseIcon` |
@@ -1752,6 +1753,7 @@
 | `Mocha` | `mocha` | `MochaIcon` |
 | `Mock Service Worker` | `mockserviceworker` | `MockserviceworkerIcon` |
 | `Modal` | `modal` | `ModalIcon` |
+| `Model Context Protocol` | `modelcontextprotocol` | `ModelcontextprotocolIcon` |
 | `Modin` | `modin` | `ModinIcon` |
 | `Modrinth` | `modrinth` | `ModrinthIcon` |
 | `Mojeek` | `mojeek` | `MojeekIcon` |
@@ -2795,6 +2797,7 @@
 | `Todoist` | `todoist` | `TodoistIcon` |
 | `Toggl` | `toggl` | `TogglIcon` |
 | `Toggl Track` | `toggltrack` | `ToggltrackIcon` |
+| `Tokio` | `tokio` | `TokioIcon` |
 | `Tokyo Metro` | `tokyometro` | `TokyometroIcon` |
 | `Toll` | `toll` | `TollIcon` |
 | `TomTom` | `tomtom` | `TomtomIcon` |
