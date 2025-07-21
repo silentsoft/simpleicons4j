@@ -1055,6 +1055,7 @@
 | `Git LFS` | `gitlfs` | `GitlfsIcon` |
 | `Git for Windows` | `gitforwindows` | `GitforwindowsIcon` |
 | `GitBook` | `gitbook` | `GitbookIcon` |
+| `GitCode` | `gitcode` | `GitcodeIcon` |
 | `GitHub` | `github` | `GithubIcon` |
 | `GitHub Actions` | `githubactions` | `GithubactionsIcon` |
 | `GitHub Copilot` | `githubcopilot` | `GithubcopilotIcon` |
@@ -2266,6 +2267,7 @@
 | `Rarible` | `rarible` | `RaribleIcon` |
 | `Rasa` | `rasa` | `RasaIcon` |
 | `Raspberry Pi` | `raspberrypi` | `RaspberrypiIcon` |
+| `Ratatui` | `ratatui` | `RatatuiIcon` |
 | `Ravelry` | `ravelry` | `RavelryIcon` |
 | `Ray` | `ray` | `RayIcon` |
 | `Raycast` | `raycast` | `RaycastIcon` |
