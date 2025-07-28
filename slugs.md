@@ -272,6 +272,7 @@
 | `Autodesk Revit` | `autodeskrevit` | `AutodeskrevitIcon` |
 | `Automattic` | `automattic` | `AutomatticIcon` |
 | `Autoprefixer` | `autoprefixer` | `AutoprefixerIcon` |
+| `AvaloniaUI` | `avaloniaui` | `AvaloniauiIcon` |
 | `Avast` | `avast` | `AvastIcon` |
 | `Avira` | `avira` | `AviraIcon` |
 | `Awesome Lists` | `awesomelists` | `AwesomelistsIcon` |
@@ -2160,6 +2161,7 @@
 | `Pro Tools` | `protools` | `ProtoolsIcon` |
 | `ProSieben` | `prosieben` | `ProsiebenIcon` |
 | `Probot` | `probot` | `ProbotIcon` |
+| `ProcessOn` | `processon` | `ProcessonIcon` |
 | `ProcessWire` | `processwire` | `ProcesswireIcon` |
 | `Processing Foundation` | `processingfoundation` | `ProcessingfoundationIcon` |
 | `Product Hunt` | `producthunt` | `ProducthuntIcon` |
