@@ -1021,6 +1021,7 @@
 | `GNU social` | `gnusocial` | `GnusocialIcon` |
 | `GOG.com` | `gogdotcom` | `GogdotcomIcon` |
 | `GPLv3` | `gplv3` | `Gplv3Icon` |
+| `GSAP` | `gsap` | `GsapIcon` |
 | `GSK` | `gsk` | `GskIcon` |
 | `GSMA` | `gsma` | `GsmaIcon` |
 | `GSMArena.com` | `gsmarenadotcom` | `GsmarenadotcomIcon` |
@@ -1445,6 +1446,7 @@
 | `Keeper` | `keeper` | `KeeperIcon` |
 | `Kenmei` | `kenmei` | `KenmeiIcon` |
 | `Kentico` | `kentico` | `KenticoIcon` |
+| `Keploy` | `keploy` | `KeployIcon` |
 | `Keras` | `keras` | `KerasIcon` |
 | `KeyCDN` | `keycdn` | `KeycdnIcon` |
 | `Keybase` | `keybase` | `KeybaseIcon` |
@@ -2478,6 +2480,7 @@
 | `Sensu` | `sensu` | `SensuIcon` |
 | `Sentry` | `sentry` | `SentryIcon` |
 | `Sequelize` | `sequelize` | `SequelizeIcon` |
+| `ServBay` | `servbay` | `ServbayIcon` |
 | `Server Fault` | `serverfault` | `ServerfaultIcon` |
 | `Serverless` | `serverless` | `ServerlessIcon` |
 | `Session` | `session` | `SessionIcon` |
