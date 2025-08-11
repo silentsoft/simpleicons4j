@@ -1313,6 +1313,7 @@
 | `ImageJ` | `imagej` | `ImagejIcon` |
 | `Imgur` | `imgur` | `ImgurIcon` |
 | `Immer` | `immer` | `ImmerIcon` |
+| `Immersive Translate` | `immersivetranslate` | `ImmersivetranslateIcon` |
 | `Immich` | `immich` | `ImmichIcon` |
 | `Imou` | `imou` | `ImouIcon` |
 | `ImprovMX` | `improvmx` | `ImprovmxIcon` |
@@ -3166,6 +3167,7 @@
 | `Zod` | `zod` | `ZodIcon` |
 | `Zoho` | `zoho` | `ZohoIcon` |
 | `Zoiper` | `zoiper` | `ZoiperIcon` |
+| `Zola` | `zola` | `ZolaIcon` |
 | `Zomato` | `zomato` | `ZomatoIcon` |
 | `Zoom` | `zoom` | `ZoomIcon` |
 | `Zorin` | `zorin` | `ZorinIcon` |
