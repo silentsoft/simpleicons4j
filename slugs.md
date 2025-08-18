@@ -1597,6 +1597,8 @@
 | `Livewire` | `livewire` | `LivewireIcon` |
 | `Lobsters` | `lobsters` | `LobstersIcon` |
 | `Local` | `local` | `LocalIcon` |
+| `LocalSend` | `localsend` | `LocalsendIcon` |
+| `LocalXpose` | `localxpose` | `LocalxposeIcon` |
 | `Lodash` | `lodash` | `LodashIcon` |
 | `LogMeIn` | `logmein` | `LogmeinIcon` |
 | `Logitech` | `logitech` | `LogitechIcon` |
@@ -1992,6 +1994,7 @@
 | `Outline` | `outline` | `OutlineIcon` |
 | `Overcast` | `overcast` | `OvercastIcon` |
 | `Overleaf` | `overleaf` | `OverleafIcon` |
+| `Oxc` | `oxc` | `OxcIcon` |
 | `Oxygen` | `oxygen` | `OxygenIcon` |
 | `PAYBACK` | `payback` | `PaybackIcon` |
 | `PCGamingWiki` | `pcgamingwiki` | `PcgamingwikiIcon` |
@@ -2367,6 +2370,7 @@
 | `Roku` | `roku` | `RokuIcon` |
 | `Roll20` | `roll20` | `Roll20Icon` |
 | `Rollbar` | `rollbar` | `RollbarIcon` |
+| `Rolldown` | `rolldown` | `RolldownIcon` |
 | `Rolls-Royce` | `rollsroyce` | `RollsroyceIcon` |
 | `Rook` | `rook` | `RookIcon` |
 | `Roon` | `roon` | `RoonIcon` |
