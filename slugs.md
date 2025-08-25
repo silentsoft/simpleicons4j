@@ -708,6 +708,7 @@
 | `Decentraland` | `decentraland` | `DecentralandIcon` |
 | `DeepCool` | `deepcool` | `DeepcoolIcon` |
 | `DeepL` | `deepl` | `DeeplIcon` |
+| `DeepMind` | `deepmind` | `DeepmindIcon` |
 | `Deepgram` | `deepgram` | `DeepgramIcon` |
 | `Deepnote` | `deepnote` | `DeepnoteIcon` |
 | `Deliveroo` | `deliveroo` | `DeliverooIcon` |
@@ -990,6 +991,7 @@
 | `Freelancer` | `freelancer` | `FreelancerIcon` |
 | `Freepik` | `freepik` | `FreepikIcon` |
 | `Fresh` | `fresh` | `FreshIcon` |
+| `FreshRSS` | `freshrss` | `FreshrssIcon` |
 | `Frigate` | `frigate` | `FrigateIcon` |
 | `Frontend Mentor` | `frontendmentor` | `FrontendmentorIcon` |
 | `Frontify` | `frontify` | `FrontifyIcon` |
@@ -1883,6 +1885,7 @@
 | `Normalize.css` | `normalizedotcss` | `NormalizedotcssIcon` |
 | `Norton` | `norton` | `NortonIcon` |
 | `Norwegian` | `norwegian` | `NorwegianIcon` |
+| `Note` | `note` | `NoteIcon` |
 | `NotebookLM` | `notebooklm` | `NotebooklmIcon` |
 | `Notepad++` | `notepadplusplus` | `NotepadplusplusIcon` |
 | `Notion` | `notion` | `NotionIcon` |
@@ -2266,6 +2269,7 @@
 | `Radio France` | `radiofrance` | `RadiofranceIcon` |
 | `Radix UI` | `radixui` | `RadixuiIcon` |
 | `Railway` | `railway` | `RailwayIcon` |
+| `RainYun` | `rainyun` | `RainyunIcon` |
 | `Rainmeter` | `rainmeter` | `RainmeterIcon` |
 | `Rakuten` | `rakuten` | `RakutenIcon` |
 | `Rakuten Kobo` | `rakutenkobo` | `RakutenkoboIcon` |
@@ -2667,6 +2671,7 @@
 | `Subtitle Edit` | `subtitleedit` | `SubtitleeditIcon` |
 | `Subversion` | `subversion` | `SubversionIcon` |
 | `Sui` | `sui` | `SuiIcon` |
+| `Suitest` | `suitest` | `SuitestIcon` |
 | `Sumo Logic` | `sumologic` | `SumologicIcon` |
 | `Suno` | `suno` | `SunoIcon` |
 | `Sunrise` | `sunrise` | `SunriseIcon` |
@@ -3032,6 +3037,7 @@
 | `WazirX` | `wazirx` | `WazirxIcon` |
 | `WeChat` | `wechat` | `WechatIcon` |
 | `WeGame` | `wegame` | `WegameIcon` |
+| `WeRead` | `weread` | `WereadIcon` |
 | `WeTransfer` | `wetransfer` | `WetransferIcon` |
 | `Wear OS` | `wearos` | `WearosIcon` |
 | `Weasyl` | `weasyl` | `WeasylIcon` |
