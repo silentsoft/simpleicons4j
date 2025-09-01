@@ -2985,6 +2985,7 @@
 | `VirtualBox` | `virtualbox` | `VirtualboxIcon` |
 | `VirusTotal` | `virustotal` | `VirustotalIcon` |
 | `Visa` | `visa` | `VisaIcon` |
+| `Visual Paradigm` | `visualparadigm` | `VisualparadigmIcon` |
 | `Vite` | `vite` | `ViteIcon` |
 | `VitePress` | `vitepress` | `VitepressIcon` |
 | `Vitess` | `vitess` | `VitessIcon` |
