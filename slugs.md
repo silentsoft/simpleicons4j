@@ -3003,6 +3003,7 @@
 | `Voron Design` | `vorondesign` | `VorondesignIcon` |
 | `Vowpal Wabbit` | `vowpalwabbit` | `VowpalwabbitIcon` |
 | `Vue.js` | `vuedotjs` | `VuedotjsIcon` |
+| `VueUse` | `vueuse` | `VueuseIcon` |
 | `Vuetify` | `vuetify` | `VuetifyIcon` |
 | `Vulkan` | `vulkan` | `VulkanIcon` |
 | `Vultr` | `vultr` | `VultrIcon` |
