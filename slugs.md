@@ -1164,6 +1164,7 @@
 | `Great Learning` | `greatlearning` | `GreatlearningIcon` |
 | `GreenSock` | `greensock` | `GreensockIcon` |
 | `Greenhouse` | `greenhouse` | `GreenhouseIcon` |
+| `GreptimeDB` | `greptimedb` | `GreptimedbIcon` |
 | `Grid.ai` | `griddotai` | `GriddotaiIcon` |
 | `Gridsome` | `gridsome` | `GridsomeIcon` |
 | `Grocy` | `grocy` | `GrocyIcon` |
