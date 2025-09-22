@@ -150,6 +150,7 @@
 | `Angular` | `angular` | `AngularIcon` |
 | `AniList` | `anilist` | `AnilistIcon` |
 | `Animal Planet` | `animalplanet` | `AnimalplanetIcon` |
+| `Anime.js` | `animedotjs` | `AnimedotjsIcon` |
 | `AnkerMake` | `ankermake` | `AnkermakeIcon` |
 | `Anki` | `anki` | `AnkiIcon` |
 | `Ansible` | `ansible` | `AnsibleIcon` |
@@ -1038,6 +1039,7 @@
 | `Gamemaker` | `gamemaker` | `GamemakerIcon` |
 | `Gandi` | `gandi` | `GandiIcon` |
 | `Garmin` | `garmin` | `GarminIcon` |
+| `Garuda Linux` | `garudalinux` | `GarudalinuxIcon` |
 | `Gatling` | `gatling` | `GatlingIcon` |
 | `Gatsby` | `gatsby` | `GatsbyIcon` |
 | `Gcore` | `gcore` | `GcoreIcon` |
@@ -1597,6 +1599,7 @@
 | `Literal` | `literal` | `LiteralIcon` |
 | `LiveChat` | `livechat` | `LivechatIcon` |
 | `LiveJournal` | `livejournal` | `LivejournalIcon` |
+| `LiveKit` | `livekit` | `LivekitIcon` |
 | `Livewire` | `livewire` | `LivewireIcon` |
 | `Lobsters` | `lobsters` | `LobstersIcon` |
 | `Local` | `local` | `LocalIcon` |
@@ -1987,6 +1990,7 @@
 | `OpsLevel` | `opslevel` | `OpslevelIcon` |
 | `Opsgenie` | `opsgenie` | `OpsgenieIcon` |
 | `Optimism` | `optimism` | `OptimismIcon` |
+| `Optuna` | `optuna` | `OptunaIcon` |
 | `Orange` | `orange` | `OrangeIcon` |
 | `Org` | `org` | `OrgIcon` |
 | `Organic Maps` | `organicmaps` | `OrganicmapsIcon` |
@@ -2087,6 +2091,7 @@
 | `Pinboard` | `pinboard` | `PinboardIcon` |
 | `Pine Script` | `pinescript` | `PinescriptIcon` |
 | `Pingdom` | `pingdom` | `PingdomIcon` |
+| `Pinia` | `pinia` | `PiniaIcon` |
 | `Pinterest` | `pinterest` | `PinterestIcon` |
 | `Pioneer DJ` | `pioneerdj` | `PioneerdjIcon` |
 | `Piped` | `piped` | `PipedIcon` |
@@ -2534,6 +2539,7 @@
 | `SitePoint` | `sitepoint` | `SitepointIcon` |
 | `Sitecore` | `sitecore` | `SitecoreIcon` |
 | `Skaffold` | `skaffold` | `SkaffoldIcon` |
+| `Skeleton` | `skeleton` | `SkeletonIcon` |
 | `Sketch` | `sketch` | `SketchIcon` |
 | `SketchUp` | `sketchup` | `SketchupIcon` |
 | `Sketchfab` | `sketchfab` | `SketchfabIcon` |
@@ -2549,6 +2555,7 @@
 | `Slint` | `slint` | `SlintIcon` |
 | `SmartThings` | `smartthings` | `SmartthingsIcon` |
 | `Smashing Magazine` | `smashingmagazine` | `SmashingmagazineIcon` |
+| `Smoothcomp` | `smoothcomp` | `SmoothcompIcon` |
 | `SmugMug` | `smugmug` | `SmugmugIcon` |
 | `Snapchat` | `snapchat` | `SnapchatIcon` |
 | `Snapcraft` | `snapcraft` | `SnapcraftIcon` |
@@ -2920,6 +2927,7 @@
 | `Unraid` | `unraid` | `UnraidIcon` |
 | `Unreal Engine` | `unrealengine` | `UnrealengineIcon` |
 | `Unsplash` | `unsplash` | `UnsplashIcon` |
+| `Unstop` | `unstop` | `UnstopIcon` |
 | `Untappd` | `untappd` | `UntappdIcon` |
 | `UpCloud` | `upcloud` | `UpcloudIcon` |
 | `UpLabs` | `uplabs` | `UplabsIcon` |
