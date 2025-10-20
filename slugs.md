@@ -1628,6 +1628,7 @@
 | `Lufthansa` | `lufthansa` | `LufthansaIcon` |
 | `Lumen` | `lumen` | `LumenIcon` |
 | `Lunacy` | `lunacy` | `LunacyIcon` |
+| `Luogu` | `luogu` | `LuoguIcon` |
 | `Lutris` | `lutris` | `LutrisIcon` |
 | `Lydia` | `lydia` | `LydiaIcon` |
 | `Lyft` | `lyft` | `LyftIcon` |
