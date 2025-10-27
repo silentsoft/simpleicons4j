@@ -168,6 +168,7 @@
 | `Apache` | `apache` | `ApacheIcon` |
 | `Apache Airflow` | `apacheairflow` | `ApacheairflowIcon` |
 | `Apache Ant` | `apacheant` | `ApacheantIcon` |
+| `Apache Avro` | `apacheavro` | `ApacheavroIcon` |
 | `Apache Cassandra` | `apachecassandra` | `ApachecassandraIcon` |
 | `Apache CloudStack` | `apachecloudstack` | `ApachecloudstackIcon` |
 | `Apache Cordova` | `apachecordova` | `ApachecordovaIcon` |
@@ -620,6 +621,7 @@
 | `Convertio` | `convertio` | `ConvertioIcon` |
 | `Cookiecutter` | `cookiecutter` | `CookiecutterIcon` |
 | `Cooler Master` | `coolermaster` | `CoolermasterIcon` |
+| `Coolify` | `coolify` | `CoolifyIcon` |
 | `Copa Airlines` | `copaairlines` | `CopaairlinesIcon` |
 | `Coppel` | `coppel` | `CoppelIcon` |
 | `Cora` | `cora` | `CoraIcon` |
@@ -934,6 +936,7 @@
 | `Firefox Browser` | `firefoxbrowser` | `FirefoxbrowserIcon` |
 | `Fireship` | `fireship` | `FireshipIcon` |
 | `Firewalla` | `firewalla` | `FirewallaIcon` |
+| `Fish Audio` | `fishaudio` | `FishaudioIcon` |
 | `Fitbit` | `fitbit` | `FitbitIcon` |
 | `FiveM` | `fivem` | `FivemIcon` |
 | `Fiverr` | `fiverr` | `FiverrIcon` |
@@ -1594,6 +1597,7 @@
 | `LinuxServer` | `linuxserver` | `LinuxserverIcon` |
 | `Lion Air` | `lionair` | `LionairIcon` |
 | `Liquibase` | `liquibase` | `LiquibaseIcon` |
+| `ListenHub` | `listenhub` | `ListenhubIcon` |
 | `Lit` | `lit` | `LitIcon` |
 | `Litecoin` | `litecoin` | `LitecoinIcon` |
 | `Literal` | `literal` | `LiteralIcon` |
