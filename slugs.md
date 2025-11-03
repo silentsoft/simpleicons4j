@@ -1524,6 +1524,7 @@
 | `LTspice` | `ltspice` | `LtspiceIcon` |
 | `LVGL` | `lvgl` | `LvglIcon` |
 | `LaTeX` | `latex` | `LatexIcon` |
+| `LabEx` | `labex` | `LabexIcon` |
 | `LabVIEW` | `labview` | `LabviewIcon` |
 | `Lamborghini` | `lamborghini` | `LamborghiniIcon` |
 | `Land Rover` | `landrover` | `LandroverIcon` |
