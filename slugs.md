@@ -658,6 +658,7 @@
 | `Cucumber` | `cucumber` | `CucumberIcon` |
 | `Cultura` | `cultura` | `CulturaIcon` |
 | `CurseForge` | `curseforge` | `CurseforgeIcon` |
+| `Cursor` | `cursor` | `CursorIcon` |
 | `Custom Ink` | `customink` | `CustominkIcon` |
 | `CyberDefenders` | `cyberdefenders` | `CyberdefendersIcon` |
 | `Cycling '74` | `cycling74` | `Cycling74Icon` |
