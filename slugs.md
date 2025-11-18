@@ -1758,6 +1758,7 @@
 | `Minds` | `minds` | `MindsIcon` |
 | `Minetest` | `minetest` | `MinetestIcon` |
 | `Mini` | `mini` | `MiniIcon` |
+| `MiniMax` | `minimax` | `MinimaxIcon` |
 | `Mintlify` | `mintlify` | `MintlifyIcon` |
 | `Minutemailer` | `minutemailer` | `MinutemailerIcon` |
 | `Miraheze` | `miraheze` | `MirahezeIcon` |
