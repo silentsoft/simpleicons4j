@@ -57,6 +57,7 @@
 | `AccuWeather` | `accuweather` | `AccuweatherIcon` |
 | `Accusoft` | `accusoft` | `AccusoftIcon` |
 | `Acer` | `acer` | `AcerIcon` |
+| `Acode` | `acode` | `AcodeIcon` |
 | `ActiGraph` | `actigraph` | `ActigraphIcon` |
 | `Activeloop` | `activeloop` | `ActiveloopIcon` |
 | `Activision` | `activision` | `ActivisionIcon` |
@@ -206,6 +207,7 @@
 | `Apostrophe` | `apostrophe` | `ApostropheIcon` |
 | `App Store` | `appstore` | `AppstoreIcon` |
 | `AppGallery` | `appgallery` | `AppgalleryIcon` |
+| `AppManager` | `appmanager` | `AppmanagerIcon` |
 | `AppSignal` | `appsignal` | `AppsignalIcon` |
 | `AppVeyor` | `appveyor` | `AppveyorIcon` |
 | `Appian` | `appian` | `AppianIcon` |
@@ -260,6 +262,7 @@
 | `Audioboom` | `audioboom` | `AudioboomIcon` |
 | `Audiomack` | `audiomack` | `AudiomackIcon` |
 | `Aurelia` | `aurelia` | `AureliaIcon` |
+| `Autentique` | `autentique` | `AutentiqueIcon` |
 | `Auth0` | `auth0` | `Auth0Icon` |
 | `Authelia` | `authelia` | `AutheliaIcon` |
 | `Authentik` | `authentik` | `AuthentikIcon` |
@@ -693,6 +696,7 @@
 | `Darty` | `darty` | `DartyIcon` |
 | `Das Erste` | `daserste` | `DasersteIcon` |
 | `Dash` | `dash` | `DashIcon` |
+| `Dash0` | `dash0` | `Dash0Icon` |
 | `Dashlane` | `dashlane` | `DashlaneIcon` |
 | `Dask` | `dask` | `DaskIcon` |
 | `Dassault Systèmes` | `dassaultsystemes` | `DassaultsystemesIcon` |
@@ -759,6 +763,7 @@
 | `Docsify` | `docsify` | `DocsifyIcon` |
 | `Doctrine` | `doctrine` | `DoctrineIcon` |
 | `Docusaurus` | `docusaurus` | `DocusaurusIcon` |
+| `Dodo Payments` | `dodopayments` | `DodopaymentsIcon` |
 | `Dogecoin` | `dogecoin` | `DogecoinIcon` |
 | `Dolby` | `dolby` | `DolbyIcon` |
 | `Dolibarr` | `dolibarr` | `DolibarrIcon` |
@@ -1078,6 +1083,7 @@
 | `Gitee` | `gitee` | `GiteeIcon` |
 | `Gitpod` | `gitpod` | `GitpodIcon` |
 | `Gitter` | `gitter` | `GitterIcon` |
+| `Glance` | `glance` | `GlanceIcon` |
 | `Glassdoor` | `glassdoor` | `GlassdoorIcon` |
 | `Gleam` | `gleam` | `GleamIcon` |
 | `Glide` | `glide` | `GlideIcon` |
@@ -1217,6 +1223,7 @@
 | `HappyCow` | `happycow` | `HappycowIcon` |
 | `Harbor` | `harbor` | `HarborIcon` |
 | `HarmonyOS` | `harmonyos` | `HarmonyosIcon` |
+| `Hashcat` | `hashcat` | `HashcatIcon` |
 | `HashiCorp` | `hashicorp` | `HashicorpIcon` |
 | `Hashnode` | `hashnode` | `HashnodeIcon` |
 | `Haskell` | `haskell` | `HaskellIcon` |
@@ -1440,6 +1447,7 @@
 | `KakaoTalk` | `kakaotalk` | `KakaotalkIcon` |
 | `Kali Linux` | `kalilinux` | `KalilinuxIcon` |
 | `Kamailio` | `kamailio` | `KamailioIcon` |
+| `Kando` | `kando` | `KandoIcon` |
 | `Kaniko` | `kaniko` | `KanikoIcon` |
 | `Karlsruher Verkehrsverbund` | `karlsruherverkehrsverbund` | `KarlsruherverkehrsverbundIcon` |
 | `Kasa Smart` | `kasasmart` | `KasasmartIcon` |
@@ -1978,6 +1986,7 @@
 | `OpenMined` | `openmined` | `OpenminedIcon` |
 | `OpenNebula` | `opennebula` | `OpennebulaIcon` |
 | `OpenProject` | `openproject` | `OpenprojectIcon` |
+| `OpenRouter` | `openrouter` | `OpenrouterIcon` |
 | `OpenSCAD` | `openscad` | `OpenscadIcon` |
 | `OpenSSL` | `openssl` | `OpensslIcon` |
 | `OpenSea` | `opensea` | `OpenseaIcon` |
@@ -2269,6 +2278,7 @@
 | `RAD Studio` | `radstudio` | `RadstudioIcon` |
 | `REWE` | `rewe` | `ReweIcon` |
 | `RISC-V` | `riscv` | `RiscvIcon` |
+| `ROOT` | `root` | `RootIcon` |
 | `ROS` | `ros` | `RosIcon` |
 | `RSS` | `rss` | `RssIcon` |
 | `RSocket` | `rsocket` | `RsocketIcon` |
@@ -2355,6 +2365,7 @@
 | `Resend` | `resend` | `ResendIcon` |
 | `Resurrection Remix OS` | `resurrectionremixos` | `ResurrectionremixosIcon` |
 | `Retool` | `retool` | `RetoolIcon` |
+| `Retro Achievements` | `retroachievements` | `RetroachievementsIcon` |
 | `RetroArch` | `retroarch` | `RetroarchIcon` |
 | `RetroPie` | `retropie` | `RetropieIcon` |
 | `RevenueCat` | `revenuecat` | `RevenuecatIcon` |
