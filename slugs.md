@@ -194,6 +194,7 @@
 | `Apostrophe` | `apostrophe` | `ApostropheIcon` |
 | `App Store` | `appstore` | `AppstoreIcon` |
 | `AppGallery` | `appgallery` | `AppgalleryIcon` |
+| `AppImage` | `appimage` | `AppimageIcon` |
 | `AppManager` | `appmanager` | `AppmanagerIcon` |
 | `AppSignal` | `appsignal` | `AppsignalIcon` |
 | `AppVeyor` | `appveyor` | `AppveyorIcon` |
@@ -823,6 +824,7 @@
 | `Eleventy` | `eleventy` | `EleventyIcon` |
 | `Elgato` | `elgato` | `ElgatoIcon` |
 | `Elixir` | `elixir` | `ElixirIcon` |
+| `Elk` | `elk` | `ElkIcon` |
 | `Elm` | `elm` | `ElmIcon` |
 | `Elsevier` | `elsevier` | `ElsevierIcon` |
 | `Embarcadero` | `embarcadero` | `EmbarcaderoIcon` |
@@ -1047,6 +1049,7 @@
 | `GetX` | `getx` | `GetxIcon` |
 | `Ghost` | `ghost` | `GhostIcon` |
 | `Ghostery` | `ghostery` | `GhosteryIcon` |
+| `Ghostty` | `ghostty` | `GhosttyIcon` |
 | `Gin` | `gin` | `GinIcon` |
 | `Git` | `git` | `GitIcon` |
 | `Git Extensions` | `gitextensions` | `GitextensionsIcon` |
@@ -1664,6 +1667,7 @@
 | `Mamba UI` | `mambaui` | `MambauiIcon` |
 | `ManageIQ` | `manageiq` | `ManageiqIcon` |
 | `MangaUpdates` | `mangaupdates` | `MangaupdatesIcon` |
+| `Mangacollec` | `mangacollec` | `MangacollecIcon` |
 | `Manjaro` | `manjaro` | `ManjaroIcon` |
 | `Mantine` | `mantine` | `MantineIcon` |
 | `MapLibre` | `maplibre` | `MaplibreIcon` |
@@ -1870,6 +1874,7 @@
 | `Node-RED` | `nodered` | `NoderedIcon` |
 | `Node.js` | `nodedotjs` | `NodedotjsIcon` |
 | `NodeBB` | `nodebb` | `NodebbIcon` |
+| `NodeGui` | `nodegui` | `NodeguiIcon` |
 | `Nodemon` | `nodemon` | `NodemonIcon` |
 | `Nokia` | `nokia` | `NokiaIcon` |
 | `Nomad` | `nomad` | `NomadIcon` |
@@ -2492,6 +2497,7 @@
 | `Session` | `session` | `SessionIcon` |
 | `Sessionize` | `sessionize` | `SessionizeIcon` |
 | `Setapp` | `setapp` | `SetappIcon` |
+| `Setuptools` | `setuptools` | `SetuptoolsIcon` |
 | `Shadow` | `shadow` | `ShadowIcon` |
 | `Shanghai Metro` | `shanghaimetro` | `ShanghaimetroIcon` |
 | `ShareX` | `sharex` | `SharexIcon` |
