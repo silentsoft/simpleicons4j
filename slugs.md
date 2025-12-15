@@ -332,6 +332,7 @@
 | `Billboard` | `billboard` | `BillboardIcon` |
 | `Binance` | `binance` | `BinanceIcon` |
 | `Bio Link` | `biolink` | `BiolinkIcon` |
+| `Bioconductor` | `bioconductor` | `BioconductorIcon` |
 | `Biome` | `biome` | `BiomeIcon` |
 | `BisectHosting` | `bisecthosting` | `BisecthostingIcon` |
 | `Bit` | `bit` | `BitIcon` |
@@ -2098,6 +2099,7 @@
 | `Pixelfed` | `pixelfed` | `PixelfedIcon` |
 | `Pixlr` | `pixlr` | `PixlrIcon` |
 | `PlanGrid` | `plangrid` | `PlangridIcon` |
+| `Plane` | `plane` | `PlaneIcon` |
 | `Planet` | `planet` | `PlanetIcon` |
 | `PlanetScale` | `planetscale` | `PlanetscaleIcon` |
 | `Platform.sh` | `platformdotsh` | `PlatformdotshIcon` |
