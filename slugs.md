@@ -920,6 +920,7 @@
 | `FileZilla` | `filezilla` | `FilezillaIcon` |
 | `Filen` | `filen` | `FilenIcon` |
 | `Files` | `files` | `FilesIcon` |
+| `Fillout` | `fillout` | `FilloutIcon` |
 | `Fineco` | `fineco` | `FinecoIcon` |
 | `Fing` | `fing` | `FingIcon` |
 | `Firebase` | `firebase` | `FirebaseIcon` |
@@ -1123,6 +1124,7 @@
 | `Google Forms` | `googleforms` | `GoogleformsIcon` |
 | `Google Gemini` | `googlegemini` | `GooglegeminiIcon` |
 | `Google Home` | `googlehome` | `GooglehomeIcon` |
+| `Google Jules` | `googlejules` | `GooglejulesIcon` |
 | `Google Keep` | `googlekeep` | `GooglekeepIcon` |
 | `Google Lens` | `googlelens` | `GooglelensIcon` |
 | `Google Maps` | `googlemaps` | `GooglemapsIcon` |
@@ -1198,6 +1200,7 @@
 | `Habr` | `habr` | `HabrIcon` |
 | `Hack Club` | `hackclub` | `HackclubIcon` |
 | `Hack The Box` | `hackthebox` | `HacktheboxIcon` |
+| `HackMD` | `hackmd` | `HackmdIcon` |
 | `Hackaday` | `hackaday` | `HackadayIcon` |
 | `Hacker Noon` | `hackernoon` | `HackernoonIcon` |
 | `HackerEarth` | `hackerearth` | `HackerearthIcon` |
@@ -1409,6 +1412,7 @@
 | `Julia` | `julia` | `JuliaIcon` |
 | `Juniper Networks` | `junipernetworks` | `JunipernetworksIcon` |
 | `Jupyter` | `jupyter` | `JupyterIcon` |
+| `Just` | `just` | `JustIcon` |
 | `Just Eat` | `justeat` | `JusteatIcon` |
 | `JustGiving` | `justgiving` | `JustgivingIcon` |
 | `K3s` | `k3s` | `K3sIcon` |
@@ -1956,6 +1960,7 @@
 | `OpenAPI Initiative` | `openapiinitiative` | `OpenapiinitiativeIcon` |
 | `OpenBSD` | `openbsd` | `OpenbsdIcon` |
 | `OpenCV` | `opencv` | `OpencvIcon` |
+| `OpenCage` | `opencage` | `OpencageIcon` |
 | `OpenCritic` | `opencritic` | `OpencriticIcon` |
 | `OpenFaaS` | `openfaas` | `OpenfaasIcon` |
 | `OpenGL` | `opengl` | `OpenglIcon` |
@@ -2137,6 +2142,7 @@
 | `Polygon` | `polygon` | `PolygonIcon` |
 | `Polymer Project` | `polymerproject` | `PolymerprojectIcon` |
 | `Polywork` | `polywork` | `PolyworkIcon` |
+| `Pomerium` | `pomerium` | `PomeriumIcon` |
 | `Pond5` | `pond5` | `Pond5Icon` |
 | `Pop!_OS` | `popos` | `PoposIcon` |
 | `Porkbun` | `porkbun` | `PorkbunIcon` |
