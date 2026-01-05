@@ -345,6 +345,7 @@
 | `Bitdefender` | `bitdefender` | `BitdefenderIcon` |
 | `Bitly` | `bitly` | `BitlyIcon` |
 | `Bitrise` | `bitrise` | `BitriseIcon` |
+| `Bitsy` | `bitsy` | `BitsyIcon` |
 | `Bitwarden` | `bitwarden` | `BitwardenIcon` |
 | `Bitwig` | `bitwig` | `BitwigIcon` |
 | `Black` | `black` | `BlackIcon` |
@@ -675,7 +676,6 @@
 | `DaVinci Resolve` | `davinciresolve` | `DavinciresolveIcon` |
 | `Dacia` | `dacia` | `DaciaIcon` |
 | `Dailymotion` | `dailymotion` | `DailymotionIcon` |
-| `DaisyUI` | `daisyui` | `DaisyuiIcon` |
 | `Dapr` | `dapr` | `DaprIcon` |
 | `Dark Reader` | `darkreader` | `DarkreaderIcon` |
 | `Dart` | `dart` | `DartIcon` |
@@ -1156,7 +1156,7 @@
 | `Grand Frais` | `grandfrais` | `GrandfraisIcon` |
 | `GraphQL` | `graphql` | `GraphqlIcon` |
 | `GrapheneOS` | `grapheneos` | `GrapheneosIcon` |
-| `Graphite` | `graphite` | `GraphiteIcon` |
+| `Graphite` | `graphite_editor` | `Graphite_editorIcon` |
 | `Grav` | `grav` | `GravIcon` |
 | `Gravatar` | `gravatar` | `GravatarIcon` |
 | `Graylog` | `graylog` | `GraylogIcon` |
@@ -1313,6 +1313,7 @@
 | `Iconfinder` | `iconfinder` | `IconfinderIcon` |
 | `Iconify` | `iconify` | `IconifyIcon` |
 | `Icons8` | `icons8` | `Icons8Icon` |
+| `Image Toolbox` | `imagetoolbox` | `ImagetoolboxIcon` |
 | `Image.sc` | `imagedotsc` | `ImagedotscIcon` |
 | `ImageJ` | `imagej` | `ImagejIcon` |
 | `Imgur` | `imgur` | `ImgurIcon` |
@@ -1768,6 +1769,7 @@
 | `Mock Service Worker` | `mockserviceworker` | `MockserviceworkerIcon` |
 | `Modal` | `modal` | `ModalIcon` |
 | `Model Context Protocol` | `modelcontextprotocol` | `ModelcontextprotocolIcon` |
+| `ModelScope` | `modelscope` | `ModelscopeIcon` |
 | `Modin` | `modin` | `ModinIcon` |
 | `Modrinth` | `modrinth` | `ModrinthIcon` |
 | `Mojeek` | `mojeek` | `MojeekIcon` |
@@ -3053,6 +3055,7 @@
 | `WeTransfer` | `wetransfer` | `WetransferIcon` |
 | `Wear OS` | `wearos` | `WearosIcon` |
 | `Weasyl` | `weasyl` | `WeasylIcon` |
+| `Web Awesome` | `webawesome` | `WebawesomeIcon` |
 | `Web3.js` | `web3dotjs` | `Web3dotjsIcon` |
 | `WebAssembly` | `webassembly` | `WebassemblyIcon` |
 | `WebAuthn` | `webauthn` | `WebauthnIcon` |
@@ -3218,6 +3221,7 @@
 | `containerd` | `containerd` | `ContainerdIcon` |
 | `curl` | `curl` | `CurlIcon` |
 | `daily.dev` | `dailydotdev` | `DailydotdevIcon` |
+| `daisyUI` | `daisyui` | `DaisyuiIcon` |
 | `data.ai` | `datadotai` | `DatadotaiIcon` |
 | `date-fns` | `datefns` | `DatefnsIcon` |
 | `dblp` | `dblp` | `DblpIcon` |
