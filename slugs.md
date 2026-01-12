@@ -136,6 +136,7 @@
 | `Android Auto` | `androidauto` | `AndroidautoIcon` |
 | `Android Studio` | `androidstudio` | `AndroidstudioIcon` |
 | `Angular` | `angular` | `AngularIcon` |
+| `AniChart` | `anichart` | `AnichartIcon` |
 | `AniList` | `anilist` | `AnilistIcon` |
 | `Animal Planet` | `animalplanet` | `AnimalplanetIcon` |
 | `Anime.js` | `animedotjs` | `AnimedotjsIcon` |
@@ -180,6 +181,7 @@
 | `Apache NetBeans IDE` | `apachenetbeanside` | `ApachenetbeansideIcon` |
 | `Apache NiFi` | `apachenifi` | `ApachenifiIcon` |
 | `Apache OpenOffice` | `apacheopenoffice` | `ApacheopenofficeIcon` |
+| `Apache PDFBox` | `apachepdfbox` | `ApachepdfboxIcon` |
 | `Apache Parquet` | `apacheparquet` | `ApacheparquetIcon` |
 | `Apache Pulsar` | `apachepulsar` | `ApachepulsarIcon` |
 | `Apache RocketMQ` | `apacherocketmq` | `ApacherocketmqIcon` |
@@ -808,6 +810,7 @@
 | `Edge Impulse` | `edgeimpulse` | `EdgeimpulseIcon` |
 | `EditorConfig` | `editorconfig` | `EditorconfigIcon` |
 | `Educative` | `educative` | `EducativeIcon` |
+| `Effect` | `effect` | `EffectIcon` |
 | `Egnyte` | `egnyte` | `EgnyteIcon` |
 | `Eight` | `eight` | `EightIcon` |
 | `Eight Sleep` | `eightsleep` | `EightsleepIcon` |
@@ -946,6 +949,7 @@
 | `Floatplane` | `floatplane` | `FloatplaneIcon` |
 | `Flood` | `flood` | `FloodIcon` |
 | `Floorp` | `floorp` | `FloorpIcon` |
+| `Flower` | `flower` | `FlowerIcon` |
 | `Fluent Bit` | `fluentbit` | `FluentbitIcon` |
 | `Fluentd` | `fluentd` | `FluentdIcon` |
 | `Fluke` | `fluke` | `FlukeIcon` |
@@ -1937,6 +1941,7 @@
 | `October CMS` | `octobercms` | `OctobercmsIcon` |
 | `Octopus Deploy` | `octopusdeploy` | `OctopusdeployIcon` |
 | `Oculus` | `oculus` | `OculusIcon` |
+| `Odido` | `odido` | `OdidoIcon` |
 | `Odin` | `odin` | `OdinIcon` |
 | `Odnoklassniki` | `odnoklassniki` | `OdnoklassnikiIcon` |
 | `Odoo` | `odoo` | `OdooIcon` |
@@ -1945,6 +1950,7 @@
 | `Okta` | `okta` | `OktaIcon` |
 | `Ollama` | `ollama` | `OllamaIcon` |
 | `Omada Cloud` | `omadacloud` | `OmadacloudIcon` |
+| `Omarchy` | `omarchy` | `OmarchyIcon` |
 | `OnStar` | `onstar` | `OnstarIcon` |
 | `OnePlus` | `oneplus` | `OneplusIcon` |
 | `OneStream` | `onestream` | `OnestreamIcon` |
@@ -2098,6 +2104,7 @@
 | `Pinia` | `pinia` | `PiniaIcon` |
 | `Pinterest` | `pinterest` | `PinterestIcon` |
 | `Pioneer DJ` | `pioneerdj` | `PioneerdjIcon` |
+| `Pipecat` | `pipecat` | `PipecatIcon` |
 | `Piped` | `piped` | `PipedIcon` |
 | `Pivotal Tracker` | `pivotaltracker` | `PivotaltrackerIcon` |
 | `Piwigo` | `piwigo` | `PiwigoIcon` |
@@ -2337,6 +2344,7 @@
 | `Reebok` | `reebok` | `ReebokIcon` |
 | `Refine` | `refine` | `RefineIcon` |
 | `Refined GitHub` | `refinedgithub` | `RefinedgithubIcon` |
+| `Reflex` | `reflex` | `ReflexIcon` |
 | `Reka UI` | `rekaui` | `RekauiIcon` |
 | `Relay` | `relay` | `RelayIcon` |
 | `Reliance Industries Limited` | `relianceindustrieslimited` | `RelianceindustrieslimitedIcon` |
@@ -2466,6 +2474,7 @@
 | `Scala` | `scala` | `ScalaIcon` |
 | `Scalar` | `scalar` | `ScalarIcon` |
 | `Scaleway` | `scaleway` | `ScalewayIcon` |
+| `Scan` | `scan` | `ScanIcon` |
 | `Scania` | `scania` | `ScaniaIcon` |
 | `Schneider Electric` | `schneiderelectric` | `SchneiderelectricIcon` |
 | `SciPy` | `scipy` | `ScipyIcon` |
@@ -3290,6 +3299,7 @@
 | `nf-core` | `nfcore` | `NfcoreIcon` |
 | `ngrok` | `ngrok` | `NgrokIcon` |
 | `niconico` | `niconico` | `NiconicoIcon` |
+| `niri` | `niri` | `NiriIcon` |
 | `npm` | `npm` | `NpmIcon` |
 | `ntfy` | `ntfy` | `NtfyIcon` |
 | `nvm` | `nvm` | `NvmIcon` |
