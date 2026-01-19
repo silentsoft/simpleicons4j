@@ -500,6 +500,7 @@
 | `Chevrolet` | `chevrolet` | `ChevroletIcon` |
 | `Chia Network` | `chianetwork` | `ChianetworkIcon` |
 | `China Eastern Airlines` | `chinaeasternairlines` | `ChinaeasternairlinesIcon` |
+| `China Railway` | `chinarailway` | `ChinarailwayIcon` |
 | `China Southern Airlines` | `chinasouthernairlines` | `ChinasouthernairlinesIcon` |
 | `Chocolatey` | `chocolatey` | `ChocolateyIcon` |
 | `Chromatic` | `chromatic` | `ChromaticIcon` |
@@ -617,6 +618,7 @@
 | `Copa Airlines` | `copaairlines` | `CopaairlinesIcon` |
 | `Coppel` | `coppel` | `CoppelIcon` |
 | `Cora` | `cora` | `CoraIcon` |
+| `Coreboot` | `coreboot` | `CorebootIcon` |
 | `CorelDRAW` | `coreldraw` | `CoreldrawIcon` |
 | `Corona Engine` | `coronaengine` | `CoronaengineIcon` |
 | `Corona Renderer` | `coronarenderer` | `CoronarendererIcon` |
@@ -724,6 +726,7 @@
 | `Deutsche Welle` | `deutschewelle` | `DeutschewelleIcon` |
 | `DevExpress` | `devexpress` | `DevexpressIcon` |
 | `Devbox` | `devbox` | `DevboxIcon` |
+| `Development Containers` | `developmentcontainers` | `DevelopmentcontainersIcon` |
 | `DeviantArt` | `deviantart` | `DeviantartIcon` |
 | `Devpost` | `devpost` | `DevpostIcon` |
 | `Dgraph` | `dgraph` | `DgraphIcon` |
@@ -2809,6 +2812,7 @@
 | `The Washington Post` | `thewashingtonpost` | `ThewashingtonpostIcon` |
 | `The Weather Channel` | `theweatherchannel` | `TheweatherchannelIcon` |
 | `Thingiverse` | `thingiverse` | `ThingiverseIcon` |
+| `Things` | `things` | `ThingsIcon` |
 | `ThinkPad` | `thinkpad` | `ThinkpadIcon` |
 | `Threadless` | `threadless` | `ThreadlessIcon` |
 | `Threads` | `threads` | `ThreadsIcon` |
@@ -3322,6 +3326,7 @@
 | `pnpm` | `pnpm` | `PnpmIcon` |
 | `pr.co` | `prdotco` | `PrdotcoIcon` |
 | `pre-commit` | `precommit` | `PrecommitIcon` |
+| `prek` | `prek` | `PrekIcon` |
 | `protocols.io` | `protocolsdotio` | `ProtocolsdotioIcon` |
 | `qbittorrent` | `qbittorrent` | `QbittorrentIcon` |
 | `quicktype` | `quicktype` | `QuicktypeIcon` |
