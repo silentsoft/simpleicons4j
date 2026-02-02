@@ -612,6 +612,7 @@
 | `Contributor Covenant` | `contributorcovenant` | `ContributorcovenantIcon` |
 | `Conventional Commits` | `conventionalcommits` | `ConventionalcommitsIcon` |
 | `Convertio` | `convertio` | `ConvertioIcon` |
+| `Convex` | `convex` | `ConvexIcon` |
 | `Cookiecutter` | `cookiecutter` | `CookiecutterIcon` |
 | `Cooler Master` | `coolermaster` | `CoolermasterIcon` |
 | `Coolify` | `coolify` | `CoolifyIcon` |
@@ -729,6 +730,7 @@
 | `Development Containers` | `developmentcontainers` | `DevelopmentcontainersIcon` |
 | `DeviantArt` | `deviantart` | `DeviantartIcon` |
 | `Devpost` | `devpost` | `DevpostIcon` |
+| `Devuan` | `devuan` | `DevuanIcon` |
 | `Dgraph` | `dgraph` | `DgraphIcon` |
 | `Dialogflow` | `dialogflow` | `DialogflowIcon` |
 | `Diaspora` | `diaspora` | `DiasporaIcon` |
@@ -1341,6 +1343,7 @@
 | `Infomaniak` | `infomaniak` | `InfomaniakIcon` |
 | `Infosys` | `infosys` | `InfosysIcon` |
 | `Infracost` | `infracost` | `InfracostIcon` |
+| `Infuse` | `infuse` | `InfuseIcon` |
 | `Ingress` | `ingress` | `IngressIcon` |
 | `Inkdrop` | `inkdrop` | `InkdropIcon` |
 | `Inkscape` | `inkscape` | `InkscapeIcon` |
@@ -1492,6 +1495,7 @@
 | `Koc` | `koc` | `KocIcon` |
 | `Kodak` | `kodak` | `KodakIcon` |
 | `Kodi` | `kodi` | `KodiIcon` |
+| `Kodular` | `kodular` | `KodularIcon` |
 | `Koenigsegg` | `koenigsegg` | `KoenigseggIcon` |
 | `Kofax` | `kofax` | `KofaxIcon` |
 | `Komoot` | `komoot` | `KomootIcon` |
@@ -2007,6 +2011,7 @@
 | `Org` | `org` | `OrgIcon` |
 | `Organic Maps` | `organicmaps` | `OrganicmapsIcon` |
 | `Origin` | `origin` | `OriginIcon` |
+| `Ory` | `ory` | `OryIcon` |
 | `Osano` | `osano` | `OsanoIcon` |
 | `Oshkosh` | `oshkosh` | `OshkoshIcon` |
 | `OsmAnd` | `osmand` | `OsmandIcon` |
