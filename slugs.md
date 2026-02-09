@@ -710,12 +710,14 @@
 | `DeepMind` | `deepmind` | `DeepmindIcon` |
 | `Deepgram` | `deepgram` | `DeepgramIcon` |
 | `Deepnote` | `deepnote` | `DeepnoteIcon` |
+| `Deezer` | `deezer` | `DeezerIcon` |
 | `Deliveroo` | `deliveroo` | `DeliverooIcon` |
 | `Dell` | `dell` | `DellIcon` |
 | `Delphi` | `delphi` | `DelphiIcon` |
 | `Delta` | `delta` | `DeltaIcon` |
 | `Deluge` | `deluge` | `DelugeIcon` |
 | `Deno` | `deno` | `DenoIcon` |
+| `Deno Deploy` | `denodeploy` | `DenodeployIcon` |
 | `Denon` | `denon` | `DenonIcon` |
 | `Dependabot` | `dependabot` | `DependabotIcon` |
 | `Depositphotos` | `depositphotos` | `DepositphotosIcon` |
@@ -1824,6 +1826,7 @@
 | `NBA` | `nba` | `NbaIcon` |
 | `NBB` | `nbb` | `NbbIcon` |
 | `NBC` | `nbc` | `NbcIcon` |
+| `NDI` | `ndi` | `NdiIcon` |
 | `NDR` | `ndr` | `NdrIcon` |
 | `NEAR` | `near` | `NearIcon` |
 | `NEC` | `nec` | `NecIcon` |
@@ -2045,6 +2048,7 @@
 | `Palo Alto Networks` | `paloaltonetworks` | `PaloaltonetworksIcon` |
 | `Palo Alto Software` | `paloaltosoftware` | `PaloaltosoftwareIcon` |
 | `Panasonic` | `panasonic` | `PanasonicIcon` |
+| `Pandoc` | `pandoc` | `PandocIcon` |
 | `Pandora` | `pandora` | `PandoraIcon` |
 | `Pantheon` | `pantheon` | `PantheonIcon` |
 | `Paperless-ngx` | `paperlessngx` | `PaperlessngxIcon` |
