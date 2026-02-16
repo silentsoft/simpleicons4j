@@ -1337,6 +1337,7 @@
 | `IndiGo` | `indigo` | `IndigoIcon` |
 | `Indian Super League` | `indiansuperleague` | `IndiansuperleagueIcon` |
 | `Indie Hackers` | `indiehackers` | `IndiehackersIcon` |
+| `IndieWeb` | `indieweb` | `IndiewebIcon` |
 | `Inductive Automation` | `inductiveautomation` | `InductiveautomationIcon` |
 | `Inertia` | `inertia` | `InertiaIcon` |
 | `InfinityFree` | `infinityfree` | `InfinityfreeIcon` |
@@ -2011,6 +2012,7 @@
 | `Optimism` | `optimism` | `OptimismIcon` |
 | `Optuna` | `optuna` | `OptunaIcon` |
 | `Orange` | `orange` | `OrangeIcon` |
+| `Orchard Core` | `orchardcore` | `OrchardcoreIcon` |
 | `Org` | `org` | `OrgIcon` |
 | `Organic Maps` | `organicmaps` | `OrganicmapsIcon` |
 | `Origin` | `origin` | `OriginIcon` |
@@ -2711,6 +2713,7 @@
 | `Sunrise` | `sunrise` | `SunriseIcon` |
 | `Supabase` | `supabase` | `SupabaseIcon` |
 | `Super User` | `superuser` | `SuperuserIcon` |
+| `Supercell` | `supercell` | `SupercellIcon` |
 | `Supercrease` | `supercrease` | `SupercreaseIcon` |
 | `Supermicro` | `supermicro` | `SupermicroIcon` |
 | `Surfshark` | `surfshark` | `SurfsharkIcon` |
@@ -2769,6 +2772,7 @@
 | `Taobao` | `taobao` | `TaobaoIcon` |
 | `Tapas` | `tapas` | `TapasIcon` |
 | `Target` | `target` | `TargetIcon` |
+| `Tarteaucitron` | `tarteaucitron` | `TarteaucitronIcon` |
 | `Task` | `task` | `TaskIcon` |
 | `Tasmota` | `tasmota` | `TasmotaIcon` |
 | `Tata` | `tata` | `TataIcon` |
