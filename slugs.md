@@ -303,6 +303,7 @@
 | `Barclays` | `barclays` | `BarclaysIcon` |
 | `Baremetrics` | `baremetrics` | `BaremetricsIcon` |
 | `Barmenia` | `barmenia` | `BarmeniaIcon` |
+| `Base UI` | `baseui` | `BaseuiIcon` |
 | `Basecamp` | `basecamp` | `BasecampIcon` |
 | `Baserow` | `baserow` | `BaserowIcon` |
 | `Basic Attention Token` | `basicattentiontoken` | `BasicattentiontokenIcon` |
@@ -1062,6 +1063,7 @@
 | `GetX` | `getx` | `GetxIcon` |
 | `Ghost` | `ghost` | `GhostIcon` |
 | `Ghostery` | `ghostery` | `GhosteryIcon` |
+| `Ghostfolio` | `ghostfolio` | `GhostfolioIcon` |
 | `Ghostty` | `ghostty` | `GhosttyIcon` |
 | `Gin` | `gin` | `GinIcon` |
 | `Git` | `git` | `GitIcon` |
@@ -1449,6 +1451,7 @@
 | `Kamailio` | `kamailio` | `KamailioIcon` |
 | `Kando` | `kando` | `KandoIcon` |
 | `Kaniko` | `kaniko` | `KanikoIcon` |
+| `Karakeep` | `karakeep` | `KarakeepIcon` |
 | `Karlsruher Verkehrsverbund` | `karlsruherverkehrsverbund` | `KarlsruherverkehrsverbundIcon` |
 | `Kasa Smart` | `kasasmart` | `KasasmartIcon` |
 | `KashFlow` | `kashflow` | `KashflowIcon` |
@@ -1597,6 +1600,7 @@
 | `Linkfire` | `linkfire` | `LinkfireIcon` |
 | `Linksys` | `linksys` | `LinksysIcon` |
 | `Linktree` | `linktree` | `LinktreeIcon` |
+| `Linkvertise` | `linkvertise` | `LinkvertiseIcon` |
 | `Linphone` | `linphone` | `LinphoneIcon` |
 | `LintCode` | `lintcode` | `LintcodeIcon` |
 | `Linux` | `linux` | `LinuxIcon` |
@@ -1627,6 +1631,7 @@
 | `Loom` | `loom` | `LoomIcon` |
 | `Loop` | `loop` | `LoopIcon` |
 | `LoopBack` | `loopback` | `LoopbackIcon` |
+| `Loops` | `loops` | `LoopsIcon` |
 | `Loot Crate` | `lootcrate` | `LootcrateIcon` |
 | `Lospec` | `lospec` | `LospecIcon` |
 | `LottieFiles` | `lottiefiles` | `LottiefilesIcon` |
@@ -2052,6 +2057,7 @@
 | `Panasonic` | `panasonic` | `PanasonicIcon` |
 | `Pandoc` | `pandoc` | `PandocIcon` |
 | `Pandora` | `pandora` | `PandoraIcon` |
+| `Pangolin` | `pangolin` | `PangolinIcon` |
 | `Pantheon` | `pantheon` | `PantheonIcon` |
 | `Paperless-ngx` | `paperlessngx` | `PaperlessngxIcon` |
 | `Papers With Code` | `paperswithcode` | `PaperswithcodeIcon` |
@@ -2836,6 +2842,7 @@
 | `Thunderstore` | `thunderstore` | `ThunderstoreIcon` |
 | `Thurgauer Kantonalbank` | `thurgauerkantonalbank` | `ThurgauerkantonalbankIcon` |
 | `Thymeleaf` | `thymeleaf` | `ThymeleafIcon` |
+| `TiDB` | `tidb` | `TidbIcon` |
 | `TickTick` | `ticktick` | `TicktickIcon` |
 | `Ticketmaster` | `ticketmaster` | `TicketmasterIcon` |
 | `TiddlyWiki` | `tiddlywiki` | `TiddlywikiIcon` |
@@ -2887,6 +2894,7 @@
 | `Trend Micro` | `trendmicro` | `TrendmicroIcon` |
 | `Tresorit` | `tresorit` | `TresoritIcon` |
 | `Treyarch` | `treyarch` | `TreyarchIcon` |
+| `Trezor` | `trezor` | `TrezorIcon` |
 | `Tricentis` | `tricentis` | `TricentisIcon` |
 | `Trilium` | `trilium` | `TriliumIcon` |
 | `Triller` | `triller` | `TrillerIcon` |
@@ -3169,6 +3177,7 @@
 | `Yarn` | `yarn` | `YarnIcon` |
 | `Yelp` | `yelp` | `YelpIcon` |
 | `Yeti` | `yeti` | `YetiIcon` |
+| `Yew` | `yew` | `YewIcon` |
 | `Yii` | `yii` | `YiiIcon` |
 | `Yoast` | `yoast` | `YoastIcon` |
 | `YouHodler` | `youhodler` | `YouhodlerIcon` |
@@ -3354,6 +3363,7 @@
 | `shadcn/ui` | `shadcnui` | `ShadcnuiIcon` |
 | `sharp` | `sharp` | `SharpIcon` |
 | `smart` | `smart` | `SmartIcon` |
+| `solved.ac` | `solveddotac` | `SolveddotacIcon` |
 | `sonarr` | `sonarr` | `SonarrIcon` |
 | `spaCy` | `spacy` | `SpacyIcon` |
 | `start.gg` | `startdotgg` | `StartdotggIcon` |
