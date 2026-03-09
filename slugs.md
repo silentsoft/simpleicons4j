@@ -528,6 +528,7 @@
 | `Clever Cloud` | `clevercloud` | `ClevercloudIcon` |
 | `ClickHouse` | `clickhouse` | `ClickhouseIcon` |
 | `ClickUp` | `clickup` | `ClickupIcon` |
+| `Cline` | `cline` | `ClineIcon` |
 | `Clockify` | `clockify` | `ClockifyIcon` |
 | `Clojure` | `clojure` | `ClojureIcon` |
 | `Cloud 66` | `cloud66` | `Cloud66Icon` |
@@ -1627,6 +1628,7 @@
 | `LogMeIn` | `logmein` | `LogmeinIcon` |
 | `Logseq` | `logseq` | `LogseqIcon` |
 | `Logstash` | `logstash` | `LogstashIcon` |
+| `Longhorn` | `longhorn` | `LonghornIcon` |
 | `Looker` | `looker` | `LookerIcon` |
 | `Loom` | `loom` | `LoomIcon` |
 | `Loop` | `loop` | `LoopIcon` |
@@ -3265,6 +3267,7 @@
 | `devRant` | `devrant` | `DevrantIcon` |
 | `diagrams.net` | `diagramsdotnet` | `DiagramsdotnetIcon` |
 | `discord.js` | `discorddotjs` | `DiscorddotjsIcon` |
+| `dlthub` | `dlthub` | `DlthubIcon` |
 | `dm` | `dm` | `DmIcon` |
 | `dwm` | `dwm` | `DwmIcon` |
 | `eBay` | `ebay` | `EbayIcon` |
