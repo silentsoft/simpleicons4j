@@ -608,6 +608,7 @@
 | `Contabo` | `contabo` | `ContaboIcon` |
 | `Contactless Payment` | `contactlesspayment` | `ContactlesspaymentIcon` |
 | `Contao` | `contao` | `ContaoIcon` |
+| `Contensis` | `contensis` | `ContensisIcon` |
 | `Contentful` | `contentful` | `ContentfulIcon` |
 | `Contentstack` | `contentstack` | `ContentstackIcon` |
 | `Continente` | `continente` | `ContinenteIcon` |
@@ -738,6 +739,7 @@
 | `Dgraph` | `dgraph` | `DgraphIcon` |
 | `Dialogflow` | `dialogflow` | `DialogflowIcon` |
 | `Diaspora` | `diaspora` | `DiasporaIcon` |
+| `DiceBear` | `dicebear` | `DicebearIcon` |
 | `Dictionary.com` | `dictionarydotcom` | `DictionarydotcomIcon` |
 | `Digg` | `digg` | `DiggIcon` |
 | `Digi-Key Electronics` | `digikeyelectronics` | `DigikeyelectronicsIcon` |
