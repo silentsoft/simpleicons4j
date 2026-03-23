@@ -741,6 +741,7 @@
 | `Diaspora` | `diaspora` | `DiasporaIcon` |
 | `DiceBear` | `dicebear` | `DicebearIcon` |
 | `Dictionary.com` | `dictionarydotcom` | `DictionarydotcomIcon` |
+| `Dify` | `dify` | `DifyIcon` |
 | `Digg` | `digg` | `DiggIcon` |
 | `Digi-Key Electronics` | `digikeyelectronics` | `DigikeyelectronicsIcon` |
 | `DigitalOcean` | `digitalocean` | `DigitaloceanIcon` |
@@ -1987,6 +1988,7 @@
 | `OpenAI Gym` | `openaigym` | `OpenaigymIcon` |
 | `OpenAPI Initiative` | `openapiinitiative` | `OpenapiinitiativeIcon` |
 | `OpenBSD` | `openbsd` | `OpenbsdIcon` |
+| `OpenBao` | `openbao` | `OpenbaoIcon` |
 | `OpenCV` | `opencv` | `OpencvIcon` |
 | `OpenCage` | `opencage` | `OpencageIcon` |
 | `OpenCritic` | `opencritic` | `OpencriticIcon` |
@@ -2258,6 +2260,7 @@
 | `Python` | `python` | `PythonIcon` |
 | `PythonAnywhere` | `pythonanywhere` | `PythonanywhereIcon` |
 | `QEMU` | `qemu` | `QemuIcon` |
+| `QGIS` | `qgis` | `QgisIcon` |
 | `QIWI` | `qiwi` | `QiwiIcon` |
 | `QMK` | `qmk` | `QmkIcon` |
 | `QNAP` | `qnap` | `QnapIcon` |
@@ -2265,7 +2268,6 @@
 | `Qantas` | `qantas` | `QantasIcon` |
 | `Qase` | `qase` | `QaseIcon` |
 | `Qatar Airways` | `qatarairways` | `QatarairwaysIcon` |
-| `Qgis` | `qgis` | `QgisIcon` |
 | `Qi` | `qi` | `QiIcon` |
 | `Qiita` | `qiita` | `QiitaIcon` |
 | `Qiskit` | `qiskit` | `QiskitIcon` |
