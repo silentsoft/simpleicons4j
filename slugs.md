@@ -902,6 +902,7 @@
 | `Facebook Live` | `facebooklive` | `FacebookliveIcon` |
 | `Facepunch` | `facepunch` | `FacepunchIcon` |
 | `Fairphone` | `fairphone` | `FairphoneIcon` |
+| `Faker` | `faker` | `FakerIcon` |
 | `Falco` | `falco` | `FalcoIcon` |
 | `Falcon` | `falcon` | `FalconIcon` |
 | `FamPay` | `fampay` | `FampayIcon` |
@@ -2223,6 +2224,7 @@
 | `Progress` | `progress` | `ProgressIcon` |
 | `Prometheus` | `prometheus` | `PrometheusIcon` |
 | `Pronouns.page` | `pronounsdotpage` | `PronounsdotpageIcon` |
+| `ProseMirror` | `prosemirror` | `ProsemirrorIcon` |
 | `Proteus` | `proteus` | `ProteusIcon` |
 | `Proto.io` | `protodotio` | `ProtodotioIcon` |
 | `Proton` | `proton` | `ProtonIcon` |
@@ -2268,6 +2270,7 @@
 | `Qantas` | `qantas` | `QantasIcon` |
 | `Qase` | `qase` | `QaseIcon` |
 | `Qatar Airways` | `qatarairways` | `QatarairwaysIcon` |
+| `Qdrant` | `qdrant` | `QdrantIcon` |
 | `Qi` | `qi` | `QiIcon` |
 | `Qiita` | `qiita` | `QiitaIcon` |
 | `Qiskit` | `qiskit` | `QiskitIcon` |
