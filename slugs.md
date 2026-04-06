@@ -2453,6 +2453,7 @@
 | `Runrun.it` | `runrundotit` | `RunrundotitIcon` |
 | `Rust` | `rust` | `RustIcon` |
 | `RustDesk` | `rustdesk` | `RustdeskIcon` |
+| `RustFS` | `rustfs` | `RustfsIcon` |
 | `RxDB` | `rxdb` | `RxdbIcon` |
 | `Ryanair` | `ryanair` | `RyanairIcon` |
 | `Rye` | `rye` | `RyeIcon` |
@@ -2650,6 +2651,7 @@
 | `SpeedyPage` | `speedypage` | `SpeedypageIcon` |
 | `Sphere Online Judge` | `spoj` | `SpojIcon` |
 | `Sphinx` | `sphinx` | `SphinxIcon` |
+| `SpiderMonkey` | `spidermonkey` | `SpidermonkeyIcon` |
 | `SpigotMC` | `spigotmc` | `SpigotmcIcon` |
 | `Spine` | `spine` | `SpineIcon` |
 | `Spinnaker` | `spinnaker` | `SpinnakerIcon` |
@@ -3392,6 +3394,7 @@
 | `trivago` | `trivago` | `TrivagoIcon` |
 | `trulia` | `trulia` | `TruliaIcon` |
 | `ts-node` | `tsnode` | `TsnodeIcon` |
+| `ty` | `ty` | `TyIcon` |
 | `uBlock Origin` | `ublockorigin` | `UblockoriginIcon` |
 | `uTorrent` | `utorrent` | `UtorrentIcon` |
 | `unpkg` | `unpkg` | `UnpkgIcon` |
