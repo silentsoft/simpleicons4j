@@ -445,6 +445,7 @@
 | `CSS Wizardry` | `csswizardry` | `CsswizardryIcon` |
 | `CTS` | `cts` | `CtsIcon` |
 | `Cachet` | `cachet` | `CachetIcon` |
+| `CachyOS` | `cachyos` | `CachyosIcon` |
 | `Caddy` | `caddy` | `CaddyIcon` |
 | `Cadillac` | `cadillac` | `CadillacIcon` |
 | `CafePress` | `cafepress` | `CafepressIcon` |
@@ -968,6 +969,7 @@
 | `Fluke` | `fluke` | `FlukeIcon` |
 | `Flutter` | `flutter` | `FlutterIcon` |
 | `Flux` | `flux` | `FluxIcon` |
+| `Fluxer` | `fluxer` | `FluxerIcon` |
 | `Fly.io` | `flydotio` | `FlydotioIcon` |
 | `Flyway` | `flyway` | `FlywayIcon` |
 | `Fnac` | `fnac` | `FnacIcon` |
@@ -2765,6 +2767,7 @@
 | `TON` | `ton` | `TonIcon` |
 | `TOTVS` | `totvs` | `TotvsIcon` |
 | `TP-Link` | `tplink` | `TplinkIcon` |
+| `TRMNL` | `trmnl` | `TrmnlIcon` |
 | `TUI` | `tui` | `TuiIcon` |
 | `TUXEDO Computers` | `tuxedocomputers` | `TuxedocomputersIcon` |
 | `TV Time` | `tvtime` | `TvtimeIcon` |
