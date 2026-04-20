@@ -1630,6 +1630,7 @@
 | `Local` | `local` | `LocalIcon` |
 | `LocalSend` | `localsend` | `LocalsendIcon` |
 | `LocalXpose` | `localxpose` | `LocalxposeIcon` |
+| `Locust` | `locust` | `LocustIcon` |
 | `Lodash` | `lodash` | `LodashIcon` |
 | `LogMeIn` | `logmein` | `LogmeinIcon` |
 | `Logseq` | `logseq` | `LogseqIcon` |
@@ -3405,6 +3406,7 @@
 | `v0` | `v0` | `V0Icon` |
 | `vBulletin` | `vbulletin` | `VbulletinIcon` |
 | `vFairs` | `vfairs` | `VfairsIcon` |
+| `vLLM` | `vllm` | `VllmIcon` |
 | `visx` | `visx` | `VisxIcon` |
 | `vivo` | `vivo` | `VivoIcon` |
 | `voelkner` | `voelkner` | `VoelknerIcon` |
