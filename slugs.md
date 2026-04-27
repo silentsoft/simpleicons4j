@@ -712,6 +712,7 @@
 | `DeepCool` | `deepcool` | `DeepcoolIcon` |
 | `DeepL` | `deepl` | `DeeplIcon` |
 | `DeepMind` | `deepmind` | `DeepmindIcon` |
+| `DeepSeek` | `deepseek` | `DeepseekIcon` |
 | `Deepgram` | `deepgram` | `DeepgramIcon` |
 | `Deepnote` | `deepnote` | `DeepnoteIcon` |
 | `Deezer` | `deezer` | `DeezerIcon` |
@@ -1816,6 +1817,7 @@
 | `Moo` | `moo` | `MooIcon` |
 | `Moodle` | `moodle` | `MoodleIcon` |
 | `Moonrepo` | `moonrepo` | `MoonrepoIcon` |
+| `Moonshot AI` | `moonshotai` | `MoonshotaiIcon` |
 | `Moq` | `moq` | `MoqIcon` |
 | `Moqups` | `moqups` | `MoqupsIcon` |
 | `Morrisons` | `morrisons` | `MorrisonsIcon` |
@@ -1870,6 +1872,7 @@
 | `Nebula` | `nebula` | `NebulaIcon` |
 | `Nederlandse Spoorwegen` | `nederlandsespoorwegen` | `NederlandsespoorwegenIcon` |
 | `Neo4j` | `neo4j` | `Neo4jIcon` |
+| `Neon` | `neon` | `NeonIcon` |
 | `Neovim` | `neovim` | `NeovimIcon` |
 | `Neptune` | `neptune` | `NeptuneIcon` |
 | `NestJS` | `nestjs` | `NestjsIcon` |
@@ -2270,6 +2273,7 @@
 | `QMK` | `qmk` | `QmkIcon` |
 | `QNAP` | `qnap` | `QnapIcon` |
 | `QQ` | `qq` | `QqIcon` |
+| `QWen` | `qwen` | `QwenIcon` |
 | `Qantas` | `qantas` | `QantasIcon` |
 | `Qase` | `qase` | `QaseIcon` |
 | `Qatar Airways` | `qatarairways` | `QatarairwaysIcon` |
