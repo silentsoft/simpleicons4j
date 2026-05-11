@@ -512,6 +512,7 @@
 | `Cilium` | `cilium` | `CiliumIcon` |
 | `Cinema 4D` | `cinema4d` | `Cinema4dIcon` |
 | `Cinnamon` | `cinnamon` | `CinnamonIcon` |
+| `Cinny` | `cinny` | `CinnyIcon` |
 | `Circle` | `circle` | `CircleIcon` |
 | `CircleCI` | `circleci` | `CircleciIcon` |
 | `CircuitVerse` | `circuitverse` | `CircuitverseIcon` |
@@ -1250,6 +1251,7 @@
 | `Hedera` | `hedera` | `HederaIcon` |
 | `HedgeDoc` | `hedgedoc` | `HedgedocIcon` |
 | `Helium` | `helium` | `HeliumIcon` |
+| `Helium Browser` | `heliumbrowser` | `HeliumbrowserIcon` |
 | `Helix` | `helix` | `HelixIcon` |
 | `HelloFresh` | `hellofresh` | `HellofreshIcon` |
 | `Helly Hansen` | `hellyhansen` | `HellyhansenIcon` |
@@ -1549,6 +1551,7 @@
 | `LabVIEW` | `labview` | `LabviewIcon` |
 | `Lamborghini` | `lamborghini` | `LamborghiniIcon` |
 | `LangChain` | `langchain` | `LangchainIcon` |
+| `LangChain Corporate` | `langchaincorporate` | `LangchaincorporateIcon` |
 | `LangGraph` | `langgraph` | `LanggraphIcon` |
 | `Langflow` | `langflow` | `LangflowIcon` |
 | `LanguageTool` | `languagetool` | `LanguagetoolIcon` |
