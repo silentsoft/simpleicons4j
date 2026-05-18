@@ -2866,6 +2866,7 @@
 | `Thymeleaf` | `thymeleaf` | `ThymeleafIcon` |
 | `TiDB` | `tidb` | `TidbIcon` |
 | `TickTick` | `ticktick` | `TicktickIcon` |
+| `Ticket Tailor` | `tickettailor` | `TickettailorIcon` |
 | `Ticketmaster` | `ticketmaster` | `TicketmasterIcon` |
 | `TiddlyWiki` | `tiddlywiki` | `TiddlywikiIcon` |
 | `Tide` | `tide` | `TideIcon` |
