@@ -269,6 +269,7 @@
 | `AvaloniaUI` | `avaloniaui` | `AvaloniauiIcon` |
 | `Avast` | `avast` | `AvastIcon` |
 | `Avira` | `avira` | `AviraIcon` |
+| `Await` | `await` | `AwaitIcon` |
 | `Awesome Lists` | `awesomelists` | `AwesomelistsIcon` |
 | `Awwwards` | `awwwards` | `AwwwardsIcon` |
 | `Axios` | `axios` | `AxiosIcon` |
@@ -1542,6 +1543,7 @@
 | `LINE` | `line` | `LineIcon` |
 | `LITIENGINE` | `litiengine` | `LitiengineIcon` |
 | `LLVM` | `llvm` | `LlvmIcon` |
+| `LM Studio` | `lmstudio` | `LmstudioIcon` |
 | `LMMS` | `lmms` | `LmmsIcon` |
 | `LOT Polish Airlines` | `lotpolishairlines` | `LotpolishairlinesIcon` |
 | `LTspice` | `ltspice` | `LtspiceIcon` |
@@ -2017,6 +2019,7 @@
 | `OpenSearch` | `opensearch` | `OpensearchIcon` |
 | `OpenStack` | `openstack` | `OpenstackIcon` |
 | `OpenStreetMap` | `openstreetmap` | `OpenstreetmapIcon` |
+| `OpenTUI` | `opentui` | `OpentuiIcon` |
 | `OpenTelemetry` | `opentelemetry` | `OpentelemetryIcon` |
 | `OpenText` | `opentext` | `OpentextIcon` |
 | `OpenTofu` | `opentofu` | `OpentofuIcon` |
