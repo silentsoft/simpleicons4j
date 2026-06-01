@@ -157,6 +157,7 @@
 | `Apache` | `apache` | `ApacheIcon` |
 | `Apache Airflow` | `apacheairflow` | `ApacheairflowIcon` |
 | `Apache Ant` | `apacheant` | `ApacheantIcon` |
+| `Apache Arrow` | `apachearrow` | `ApachearrowIcon` |
 | `Apache Avro` | `apacheavro` | `ApacheavroIcon` |
 | `Apache Cassandra` | `apachecassandra` | `ApachecassandraIcon` |
 | `Apache CloudStack` | `apachecloudstack` | `ApachecloudstackIcon` |
@@ -527,6 +528,7 @@
 | `Claris` | `claris` | `ClarisIcon` |
 | `Clarivate` | `clarivate` | `ClarivateIcon` |
 | `Claude` | `claude` | `ClaudeIcon` |
+| `Claude Code` | `claudecode` | `ClaudecodeIcon` |
 | `Clerk` | `clerk` | `ClerkIcon` |
 | `Clever Cloud` | `clevercloud` | `ClevercloudIcon` |
 | `ClickHouse` | `clickhouse` | `ClickhouseIcon` |
