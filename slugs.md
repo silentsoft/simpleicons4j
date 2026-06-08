@@ -79,6 +79,7 @@
 | `Aeroméxico` | `aeromexico` | `AeromexicoIcon` |
 | `AfterShip` | `aftership` | `AftershipIcon` |
 | `Afterpay` | `afterpay` | `AfterpayIcon` |
+| `Agent Skills` | `agentskills` | `AgentskillsIcon` |
 | `Agora` | `agora` | `AgoraIcon` |
 | `Aiqfome` | `aiqfome` | `AiqfomeIcon` |
 | `Air Canada` | `aircanada` | `AircanadaIcon` |
@@ -1667,6 +1668,7 @@
 | `Lutris` | `lutris` | `LutrisIcon` |
 | `Lydia` | `lydia` | `LydiaIcon` |
 | `Lyft` | `lyft` | `LyftIcon` |
+| `M5Stack` | `m5stack` | `M5stackIcon` |
 | `MAAS` | `maas` | `MaasIcon` |
 | `MAMP` | `mamp` | `MampIcon` |
 | `MAN` | `man` | `ManIcon` |
@@ -2005,6 +2007,7 @@
 | `OpenBao` | `openbao` | `OpenbaoIcon` |
 | `OpenCV` | `opencv` | `OpencvIcon` |
 | `OpenCage` | `opencage` | `OpencageIcon` |
+| `OpenCode` | `opencode` | `OpencodeIcon` |
 | `OpenCritic` | `opencritic` | `OpencriticIcon` |
 | `OpenFaaS` | `openfaas` | `OpenfaasIcon` |
 | `OpenGL` | `opengl` | `OpenglIcon` |
@@ -2127,6 +2130,7 @@
 | `Photon` | `photon` | `PhotonIcon` |
 | `Photopea` | `photopea` | `PhotopeaIcon` |
 | `PhpStorm` | `phpstorm` | `PhpstormIcon` |
+| `Pi` | `pi` | `PiIcon` |
 | `Pi Network` | `pinetwork` | `PinetworkIcon` |
 | `Pi-hole` | `pihole` | `PiholeIcon` |
 | `Piaggio Group` | `piaggiogroup` | `PiaggiogroupIcon` |
