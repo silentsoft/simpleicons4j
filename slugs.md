@@ -926,6 +926,7 @@
 | `Fathom` | `fathom` | `FathomIcon` |
 | `Fauna` | `fauna` | `FaunaIcon` |
 | `Favro` | `favro` | `FavroIcon` |
+| `Fawry` | `fawry` | `FawryIcon` |
 | `FedEx` | `fedex` | `FedexIcon` |
 | `Fedora` | `fedora` | `FedoraIcon` |
 | `Feedly` | `feedly` | `FeedlyIcon` |
@@ -1766,6 +1767,7 @@
 | `Mermaid` | `mermaid` | `MermaidIcon` |
 | `Messenger` | `messenger` | `MessengerIcon` |
 | `Meta` | `meta` | `MetaIcon` |
+| `Meta AI` | `metaai` | `MetaaiIcon` |
 | `MetaFilter` | `metafilter` | `MetafilterIcon` |
 | `MetaGer` | `metager` | `MetagerIcon` |
 | `Metabase` | `metabase` | `MetabaseIcon` |
@@ -2334,6 +2336,7 @@
 | `RabbitMQ` | `rabbitmq` | `RabbitmqIcon` |
 | `Racket` | `racket` | `RacketIcon` |
 | `Radar` | `radar` | `RadarIcon` |
+| `Radiant Earth` | `radiantearth` | `RadiantearthIcon` |
 | `Radio France` | `radiofrance` | `RadiofranceIcon` |
 | `Radix UI` | `radixui` | `RadixuiIcon` |
 | `Railway` | `railway` | `RailwayIcon` |
@@ -2806,6 +2809,7 @@
 | `Tamiya` | `tamiya` | `TamiyaIcon` |
 | `Tampermonkey` | `tampermonkey` | `TampermonkeyIcon` |
 | `TanStack` | `tanstack` | `TanstackIcon` |
+| `Tangled` | `tangled` | `TangledIcon` |
 | `Taobao` | `taobao` | `TaobaoIcon` |
 | `Tapas` | `tapas` | `TapasIcon` |
 | `Target` | `target` | `TargetIcon` |
