@@ -1099,6 +1099,7 @@
 | `Gitpod` | `gitpod` | `GitpodIcon` |
 | `Gitter` | `gitter` | `GitterIcon` |
 | `Glance` | `glance` | `GlanceIcon` |
+| `Glass` | `glass` | `GlassIcon` |
 | `Glassdoor` | `glassdoor` | `GlassdoorIcon` |
 | `Gleam` | `gleam` | `GleamIcon` |
 | `Glide` | `glide` | `GlideIcon` |
