@@ -1452,6 +1452,7 @@
 | `KDE Plasma` | `kdeplasma` | `KdeplasmaIcon` |
 | `KDE neon` | `kdeneon` | `KdeneonIcon` |
 | `KFC` | `kfc` | `KfcIcon` |
+| `KIMI` | `kimi` | `KimiIcon` |
 | `KLM` | `klm` | `KlmIcon` |
 | `KNIME` | `knime` | `KnimeIcon` |
 | `KOReader` | `koreader` | `KoreaderIcon` |
@@ -3228,6 +3229,7 @@
 | `Yr` | `yr` | `YrIcon` |
 | `Yubico` | `yubico` | `YubicoIcon` |
 | `YunoHost` | `yunohost` | `YunohostIcon` |
+| `Z.ai` | `zdotai` | `ZdotaiIcon` |
 | `ZAP` | `zap` | `ZapIcon` |
 | `ZCOOL` | `zcool` | `ZcoolIcon` |
 | `ZDF` | `zdf` | `ZdfIcon` |
