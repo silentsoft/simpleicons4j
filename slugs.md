@@ -563,6 +563,7 @@
 | `Codacy` | `codacy` | `CodacyIcon` |
 | `Code Climate` | `codeclimate` | `CodeclimateIcon` |
 | `Code::Blocks` | `codeblocks` | `CodeblocksIcon` |
+| `CodeBuddy` | `codebuddy` | `CodebuddyIcon` |
 | `CodeChef` | `codechef` | `CodechefIcon` |
 | `CodeCrafters` | `codecrafters` | `CodecraftersIcon` |
 | `CodeFactor` | `codefactor` | `CodefactorIcon` |
