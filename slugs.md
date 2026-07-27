@@ -1453,7 +1453,6 @@
 | `KDE Plasma` | `kdeplasma` | `KdeplasmaIcon` |
 | `KDE neon` | `kdeneon` | `KdeneonIcon` |
 | `KFC` | `kfc` | `KfcIcon` |
-| `KIMI` | `kimi` | `KimiIcon` |
 | `KLM` | `klm` | `KlmIcon` |
 | `KNIME` | `knime` | `KnimeIcon` |
 | `KOReader` | `koreader` | `KoreaderIcon` |
@@ -1499,6 +1498,7 @@
 | `Kick` | `kick` | `KickIcon` |
 | `Kickstarter` | `kickstarter` | `KickstarterIcon` |
 | `Kik` | `kik` | `KikIcon` |
+| `Kimi` | `kimi` | `KimiIcon` |
 | `Kingston Technology` | `kingstontechnology` | `KingstontechnologyIcon` |
 | `Kinopoisk` | `kinopoisk` | `KinopoiskIcon` |
 | `Kinsta` | `kinsta` | `KinstaIcon` |
