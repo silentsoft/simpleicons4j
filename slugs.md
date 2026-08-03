@@ -2790,6 +2790,7 @@
 | `TON` | `ton` | `TonIcon` |
 | `TOTVS` | `totvs` | `TotvsIcon` |
 | `TP-Link` | `tplink` | `TplinkIcon` |
+| `TRAE` | `trae` | `TraeIcon` |
 | `TRMNL` | `trmnl` | `TrmnlIcon` |
 | `TUI` | `tui` | `TuiIcon` |
 | `TUXEDO Computers` | `tuxedocomputers` | `TuxedocomputersIcon` |
@@ -3243,6 +3244,7 @@
 | `Zcash` | `zcash` | `ZcashIcon` |
 | `ZebPay` | `zebpay` | `ZebpayIcon` |
 | `Zebra Technologies` | `zebratechnologies` | `ZebratechnologiesIcon` |
+| `ZecTrix` | `zectrix` | `ZectrixIcon` |
 | `Zed Industries` | `zedindustries` | `ZedindustriesIcon` |
 | `Zelle` | `zelle` | `ZelleIcon` |
 | `Zen Browser` | `zenbrowser` | `ZenbrowserIcon` |
@@ -3443,6 +3445,7 @@
 | `wiki.gg` | `wikidotgg` | `WikidotggIcon` |
 | `xyflow` | `xyflow` | `XyflowIcon` |
 | `yabai` | `yabai` | `YabaiIcon` |
+| `zx` | `zx` | `ZxIcon` |
 | `Île-de-France Mobilités` | `iledefrancemobilites` | `IledefrancemobilitesIcon` |
 | `ÖBB` | `obb` | `ObbIcon` |
 | `ŠKODA` | `skoda` | `SkodaIcon` |
