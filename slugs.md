@@ -106,6 +106,7 @@
 | `Alacritty` | `alacritty` | `AlacrittyIcon` |
 | `Alamy` | `alamy` | `AlamyIcon` |
 | `Albert Heijn` | `albertheijn` | `AlbertheijnIcon` |
+| `Album of the Year` | `albumoftheyear` | `AlbumoftheyearIcon` |
 | `Alby` | `alby` | `AlbyIcon` |
 | `Alchemy` | `alchemy` | `AlchemyIcon` |
 | `Aldi Nord` | `aldinord` | `AldinordIcon` |
@@ -2599,6 +2600,7 @@
 | `Simkl` | `simkl` | `SimklIcon` |
 | `Simple Analytics` | `simpleanalytics` | `SimpleanalyticsIcon` |
 | `Simple Icons` | `simpleicons` | `SimpleiconsIcon` |
+| `Simple Icons CDN` | `simpleiconscdn` | `SimpleiconscdnIcon` |
 | `SimpleLocalize` | `simplelocalize` | `SimplelocalizeIcon` |
 | `SimpleLogin` | `simplelogin` | `SimpleloginIcon` |
 | `SimpleX` | `simplex` | `SimplexIcon` |
@@ -2837,6 +2839,7 @@
 | `Telegraph` | `telegraph` | `TelegraphIcon` |
 | `Telenor` | `telenor` | `TelenorIcon` |
 | `Temporal` | `temporal` | `TemporalIcon` |
+| `Tencent Hy` | `tencenthy` | `TencenthyIcon` |
 | `TensorFlow` | `tensorflow` | `TensorflowIcon` |
 | `Teradata` | `teradata` | `TeradataIcon` |
 | `Termius` | `termius` | `TermiusIcon` |
@@ -2929,6 +2932,7 @@
 | `Transport for Ireland` | `transportforireland` | `TransportforirelandIcon` |
 | `Transport for London` | `transportforlondon` | `TransportforlondonIcon` |
 | `Travis CI` | `travisci` | `TravisciIcon` |
+| `Traxsource` | `traxsource` | `TraxsourceIcon` |
 | `Treehouse` | `treehouse` | `TreehouseIcon` |
 | `Trello` | `trello` | `TrelloIcon` |
 | `Trend Micro` | `trendmicro` | `TrendmicroIcon` |
