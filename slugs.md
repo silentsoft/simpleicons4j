@@ -246,6 +246,7 @@
 | `Atari` | `atari` | `AtariIcon` |
 | `AtlasOS` | `atlasos` | `AtlasosIcon` |
 | `Atlassian` | `atlassian` | `AtlassianIcon` |
+| `AtomGit` | `atomgit` | `AtomgitIcon` |
 | `Auchan` | `auchan` | `AuchanIcon` |
 | `Audacity` | `audacity` | `AudacityIcon` |
 | `Audi` | `audi` | `AudiIcon` |
@@ -1965,6 +1966,7 @@
 | `OKX` | `okx` | `OkxIcon` |
 | `ONLYOFFICE` | `onlyoffice` | `OnlyofficeIcon` |
 | `ONNX` | `onnx` | `OnnxIcon` |
+| `OOMOL` | `oomol` | `OomolIcon` |
 | `OPNsense` | `opnsense` | `OpnsenseIcon` |
 | `OPPO` | `oppo` | `OppoIcon` |
 | `ORCID` | `orcid` | `OrcidIcon` |
