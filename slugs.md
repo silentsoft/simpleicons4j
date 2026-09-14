@@ -3285,6 +3285,7 @@
 | `about.me` | `aboutdotme` | `AboutdotmeIcon` |
 | `abuse.ch` | `abusedotch` | `AbusedotchIcon` |
 | `addy.io` | `addydotio` | `AddydotioIcon` |
+| `alphaXiv` | `alphaxiv` | `AlphaxivIcon` |
 | `arXiv` | `arxiv` | `ArxivIcon` |
 | `asciinema` | `asciinema` | `AsciinemaIcon` |
 | `avajs` | `avajs` | `AvajsIcon` |
