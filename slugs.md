@@ -1117,6 +1117,7 @@
 | `GoLand` | `goland` | `GolandIcon` |
 | `GoToMeeting` | `gotomeeting` | `GotomeetingIcon` |
 | `Godot Engine` | `godotengine` | `GodotengineIcon` |
+| `Godox` | `godox` | `GodoxIcon` |
 | `Gojek` | `gojek` | `GojekIcon` |
 | `Goldman Sachs` | `goldmansachs` | `GoldmansachsIcon` |
 | `Goodreads` | `goodreads` | `GoodreadsIcon` |
