@@ -1315,6 +1315,7 @@
 | `Hyper` | `hyper` | `HyperIcon` |
 | `HyperX` | `hyperx` | `HyperxIcon` |
 | `Hyperskill` | `hyperskill` | `HyperskillIcon` |
+| `Hypit` | `hypit` | `HypitIcon` |
 | `Hypothesis` | `hypothesis` | `HypothesisIcon` |
 | `Hyprland` | `hyprland` | `HyprlandIcon` |
 | `Hyundai` | `hyundai` | `HyundaiIcon` |
@@ -1943,6 +1944,7 @@
 | `Note` | `note` | `NoteIcon` |
 | `NotebookLM` | `notebooklm` | `NotebooklmIcon` |
 | `Notepad++` | `notepadplusplus` | `NotepadplusplusIcon` |
+| `Notesnook` | `notesnook` | `NotesnookIcon` |
 | `Notion` | `notion` | `NotionIcon` |
 | `Notist` | `notist` | `NotistIcon` |
 | `Noun Project` | `nounproject` | `NounprojectIcon` |
