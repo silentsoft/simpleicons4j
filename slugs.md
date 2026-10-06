@@ -2757,6 +2757,7 @@
 | `Subversion` | `subversion` | `SubversionIcon` |
 | `Sui` | `sui` | `SuiIcon` |
 | `Suitest` | `suitest` | `SuitestIcon` |
+| `SumUp` | `sumup` | `SumupIcon` |
 | `Sumo Logic` | `sumologic` | `SumologicIcon` |
 | `Suno` | `suno` | `SunoIcon` |
 | `Sunrise` | `sunrise` | `SunriseIcon` |
