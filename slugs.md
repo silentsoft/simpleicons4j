@@ -237,6 +237,7 @@
 | `Asana` | `asana` | `AsanaIcon` |
 | `Asciidoctor` | `asciidoctor` | `AsciidoctorIcon` |
 | `Aseprite` | `aseprite` | `AsepriteIcon` |
+| `Aspire` | `aspire` | `AspireIcon` |
 | `AssemblyScript` | `assemblyscript` | `AssemblyscriptIcon` |
 | `Asterisk` | `asterisk` | `AsteriskIcon` |
 | `Aston Martin` | `astonmartin` | `AstonmartinIcon` |
@@ -3263,6 +3264,7 @@
 | `Zenn` | `zenn` | `ZennIcon` |
 | `Zenodo` | `zenodo` | `ZenodoIcon` |
 | `Zensar` | `zensar` | `ZensarIcon` |
+| `Zensical` | `zensical` | `ZensicalIcon` |
 | `ZeroTier` | `zerotier` | `ZerotierIcon` |
 | `Zerodha` | `zerodha` | `ZerodhaIcon` |
 | `Zettlr` | `zettlr` | `ZettlrIcon` |
