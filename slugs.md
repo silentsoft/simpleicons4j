@@ -1217,6 +1217,7 @@
 | `H2 Database` | `h2database` | `H2databaseIcon` |
 | `H3` | `h3` | `H3Icon` |
 | `HAL` | `hal` | `HalIcon` |
+| `HAProxy` | `haproxy` | `HaproxyIcon` |
 | `HBO` | `hbo` | `HboIcon` |
 | `HBO Max` | `hbomax` | `HbomaxIcon` |
 | `HCL` | `hcl` | `HclIcon` |
