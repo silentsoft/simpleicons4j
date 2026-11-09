@@ -1906,6 +1906,7 @@
 | `Nette` | `nette` | `NetteIcon` |
 | `Netto` | `netto` | `NettoIcon` |
 | `Neutralinojs` | `neutralinojs` | `NeutralinojsIcon` |
+| `New API` | `newapi` | `NewapiIcon` |
 | `New Balance` | `newbalance` | `NewbalanceIcon` |
 | `New Japan Pro-Wrestling` | `newjapanprowrestling` | `NewjapanprowrestlingIcon` |
 | `New Relic` | `newrelic` | `NewrelicIcon` |
@@ -1985,6 +1986,7 @@
 | `Observable` | `observable` | `ObservableIcon` |
 | `Obsidian` | `obsidian` | `ObsidianIcon` |
 | `Obtainium` | `obtainium` | `ObtainiumIcon` |
+| `OceanBase` | `oceanbase` | `OceanbaseIcon` |
 | `Octane Render` | `octanerender` | `OctanerenderIcon` |
 | `Octave` | `octave` | `OctaveIcon` |
 | `OctoPrint` | `octoprint` | `OctoprintIcon` |
@@ -3275,6 +3277,7 @@
 | `Zigbee2MQTT` | `zigbee2mqtt` | `Zigbee2mqttIcon` |
 | `Ziggo` | `ziggo` | `ZiggoIcon` |
 | `Zilch` | `zilch` | `ZilchIcon` |
+| `Zilliz` | `zilliz` | `ZillizIcon` |
 | `Zillow` | `zillow` | `ZillowIcon` |
 | `ZincSearch` | `zincsearch` | `ZincsearchIcon` |
 | `Zingat` | `zingat` | `ZingatIcon` |
