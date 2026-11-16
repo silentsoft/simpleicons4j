@@ -2934,6 +2934,7 @@
 | `TradingView` | `tradingview` | `TradingviewIcon` |
 | `Traefik Mesh` | `traefikmesh` | `TraefikmeshIcon` |
 | `Traefik Proxy` | `traefikproxy` | `TraefikproxyIcon` |
+| `Traffic.cv` | `trafficdotcv` | `TrafficdotcvIcon` |
 | `Trailforks` | `trailforks` | `TrailforksIcon` |
 | `TrainerRoad` | `trainerroad` | `TrainerroadIcon` |
 | `Trakt` | `trakt` | `TraktIcon` |
@@ -3367,6 +3368,7 @@
 | `jQuery` | `jquery` | `JqueryIcon` |
 | `jsDelivr` | `jsdelivr` | `JsdelivrIcon` |
 | `k6` | `k6` | `K6Icon` |
+| `kitty` | `kitty` | `KittyIcon` |
 | `levels.fyi` | `levelsdotfyi` | `LevelsdotfyiIcon` |
 | `libuv` | `libuv` | `LibuvIcon` |
 | `listmonk` | `listmonk` | `ListmonkIcon` |
